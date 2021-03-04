@@ -51,4 +51,16 @@
 - The "genius with a thousand helpers" model uses the company as a platform for the talents of one extraordinary individual, the companies success is tied to this one person's genius. 
 - There was no systematic executive compensation that lead a company from good to great based on the study cases.
 - In a good-to-great transformation, people are not your most important asset.  The right people are.
-- "The only way to delivery to the people who are achieving is to not burden them with the people who are not achieving." - unknown Wells Fargo executive
+
+> The only way to delivery to the people who are achieving is to not burden them with the people who are not achieving.
+> **-unknown Wells Fargo executive**
+
+> ### How to be rigorous and not ruthless
+> 1. When in doubt, don't hire - keep looking.
+> 2. When you know you need to make a people change, act.
+>	- How do you know when you have the wrong person on the bus, not just in the wrong seat?
+>		- If it was a haring decision, would you hire this person again?
+>		- If the person told you they were leaving would you be disappointed or relieved? 
+> 3. Put your best people on your biggest opportunities, not your biggest problems.
+
+- You need executives, on the one hand, who argue and debate-sometimes violently-in pursuit of the best answers, yet, on the other hand, who unify fully behind a decision, regardless of parochial interests.
