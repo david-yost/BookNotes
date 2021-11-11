@@ -52,7 +52,7 @@
 - There was no systematic executive compensation that lead a company from good to great based on the study cases.
 - In a good-to-great transformation, people are not your most important asset.  The right people are.
 
-> The only way to delivery to the people who are achieving is to not burden them with the people who are not achieving.
+> The only way to deliver to the people who are achieving is to not burden them with the people who are not achieving.
 > **-unknown Wells Fargo executive**
 
 > ### How to be rigorous and not ruthless
@@ -64,3 +64,32 @@
 > 3. Put your best people on your biggest opportunities, not your biggest problems.
 
 - You need executives, on the one hand, who argue and debate-sometimes violently-in pursuit of the best answers, yet, on the other hand, who unify fully behind a decision, regardless of parochial interests.
+
+## Chapter 4 - Confront The Brutal Facts (Yet Never Lose Faith)
+> There is no worse mistake in public leadership than to hold out false hopes soon to be swept away.
+> **-Winston S. Churchill, The Hinge of Fate**
+
+- Kroger outperformed A&P after 1973 (the transition point) by over 80 times in the years to come because they confronted the brutal facts and adjusted their approach to match the new realities of what consumers wanted  from a grocery store.
+
+### Facts are better than dreams
+- Breakthrough results come about bya  series of good decisions, diligently executed and accumulated one on top of another.
+- The good-to-great companies displayed two distinctive forms of disciplined thought.
+    - The first is that they infused the entire process with the brutal facts of reality.
+    - The second is that they developed a simple, yet deeply insightful, frame of reference for all decisions.
+- There's nothing wrong with pursuing a vision for greatness.  But, unlike comparison companies, the good-to-great companies continually refined the path to greatness with the brutal facts of reality.
+
+> When yo uturn over rocks and look at all the squiggly things underneath, yo ucan eithe rput the rock down, or you can say, 'My job is to turn over rocks and look at the squiggly things,' even if what you see can scare the hell out of you.
+> Fred Purdue, Pitney Bowes Executive
+
+- Charisma can be as much of a liability as an asset.  Strength of personality can sow the seeds of problems when people filter the brutal facts from you.
+
+### A climate where the truth is heard
+- One of the single most de-motivating actions you can take is to hold out false hopes, soon to be swept away by events.
+- Leadership is equally about creating a climate where the truth is heard and the brutal facts confronted.
+- The 4 best practices to make sure the truth is heard:
+    1. Lead with questions, not answers
+    2. Engage in dialogue and debate, not coercion
+    3. Conduct autopsies, without blame
+    4. Build "red flag" mechanisms
+
+### Unwaivering faith amid the brutal facts
