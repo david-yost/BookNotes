@@ -92,4 +92,17 @@
     3. Conduct autopsies, without blame
     4. Build "red flag" mechanisms
 
-### Unwaivering faith amid the brutal facts
+### The Stockdale Paradox
+- A psychological duality that every good-to-great company management team responded with.  On one hand, stoically accepting the brutal facts of reality, but on the other hand, maintaining unwavering faith in the endgame and a commitment to prevail as a great company despit those brutal facts.
+- This principal is named after Admiral Jim Stockdale who was the highest ranking United States military officer in the "Hanoi Hilton" prisoner-of-war campt during the height of the Vietnam War.
+
+> This is a very important lesson.  YOu must never confuse faith that you will prevail in the end - which you can never afford to lose - with the discipline to confront th emost brutal facts of your current reality, whatever they might be.
+> Admiral Jim Stockdale
+
+- What separates people i snot the presence or absence of difficulty, but how they deal with the inevitable difficulties of life.
+
+## Chapter 5 - The Hedgehog Concept (Simplicity witihin the Three Circles)
+
+- This chapter is based on an old Greek parable about a fox and a hedgehog.
+- Foxes pursue many ends at the same time and see the world in all its complexity.  They never integrate their thinking into one overall concept or unifying vision.
+- Hedgehogs simplify acomplex world into a single organized idea, a basic principle or concept that guides everything.
