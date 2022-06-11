@@ -2,6 +2,7 @@
 #### by Jim Collins
 
 ## Chapter 1 - Good Is The Enemy Of Great
+
 - The reason so many things fail to become great is because quite good is comfortable
 - A dollar invested in the good-to-great companies in 1965 should multiply 471 times by 1/1/2000 where the rest of the market would see a 56 fold increase
 - This book is a result of 5 years of research with a team of 21 individuals
@@ -44,6 +45,7 @@
 
 
 ## Chapter 3 - First Who... Then What
+
 - If you begin with "who", rather than "what", you can more easily adapt to a changing world.
 - If you have the right people on the bus, the problem of how to motivate and manage people largely goes away.
 - If you have the wrong people, it doesn't matter whether you discover the right direction; you still won't have a great company.
@@ -65,7 +67,9 @@
 
 - You need executives, on the one hand, who argue and debate-sometimes violently-in pursuit of the best answers, yet, on the other hand, who unify fully behind a decision, regardless of parochial interests.
 
+
 ## Chapter 4 - Confront The Brutal Facts (Yet Never Lose Faith)
+
 > There is no worse mistake in public leadership than to hold out false hopes soon to be swept away.
 > **-Winston S. Churchill, The Hinge of Fate**
 
@@ -101,8 +105,84 @@
 
 - What separates people i snot the presence or absence of difficulty, but how they deal with the inevitable difficulties of life.
 
+
 ## Chapter 5 - The Hedgehog Concept (Simplicity witihin the Three Circles)
 
 - This chapter is based on an old Greek parable about a fox and a hedgehog.
 - Foxes pursue many ends at the same time and see the world in all its complexity.  They never integrate their thinking into one overall concept or unifying vision.
 - Hedgehogs simplify acomplex world into a single organized idea, a basic principle or concept that guides everything.
+
+### The Three Circles
+- A hedgehog concept is a simple, crystalline concept that flows from deep understanding about the intersection of the following three circles:
+    1. What you can be the best in the world at (and, equally important, what you cannot be the best in the world at.)
+    2. What drives your economic engine.
+    3. What you are deeply passionate about.
+- To have a fully developed Hedgehog Concept, you need all three circles.
+- A Hedgehog concept is not a goal, strategy or intention to be the best.  It's an understanding of what you can be the best at.
+- The good-to-great companies understood that focusing on what you are good at will only make you good, focusing on what you can do potentially better than any other organization is the only path to greatness.
+
+### Insight into your economic engine
+- You do not need to be in a top notch industry to have impressive performance.  Many of the good-to-great companies were in buttom ranked industries but beat the market by a factor of multiples.  Only one of the good-to-great companies had the benefit of being in a top industry (top 10%).
+- If you could pick one and only one ratio - profit per x - to systematically increase over time, what x would have the greatest and most sustainable impact on your economic engine? 
+    1. Walgreens switching focus from profit per store to profit per customer visit
+    2. Wells Fargo switched focus from profit per loan or deposit to profit per employee
+    3. Fannie Mae grasped the subtle denominator of profit per mortgage risk level instead of profit per mortgage
+
+> If you successfully apply these ideas, but then stop doing them, you will slide backward, from great to good, or worse.  The only way to remain great is to keep applying the fundamental principles that made you great.
+
+### The triumph of understanding over bravado
+- Over 2/3 of the comparison companies displayed an obsession with growth without the benefit of a Hedgehog Concept.  
+- The good-to-great companies created sustained, profitable growth that was much greater than the companies that made growth their focus because they had a crystalline understanding of what it could do best.
+- Growth is not a Hedgehog Concept, but if you have the right Hedgehog Concept and make decisions relentlessly consistent with it the main problem will be how not to grow too fast.
+
+> It took the good-to-great company about 4 years on average to clarify their Hedgehog Concepts.  Getting a Hedgehog Concept is an inherently iterative process, not an event.
+
+- Using "The Council" to create a Hedgehog Concept
+    1. Ask questions, guided by the three circles
+    2. Dialogue and debate, guided by the three circles
+    3. Executive decisions, guided by the three circles
+    4. Autopsies and analysis, guided by the three circles
+
+- The Council consists of a group of the right people who participate in dialogue and debate guided by the three circles, iteratively and over time, about vital issues and decisions facing the organization.
+
+
+## Chapter 6 - A Culture Of Discipline
+
+- The purpose of bureaucracy is to compensate for incompetence and lack of discipline - a problem that largely goes away if you have the right people in the first place.
+
+> You never just focus on what you've accomplished for the year; you focus on what you've accomplished relative to exactly what you said you were going to accomplish - no matter how tough the measure.
+> - George Rathmann
+
+- Build a culture full of people who take discipline action within the three circles, fanatically consistent with the Hedgehog Concept.
+    1. Build a culture around the idea of freedom and responsibility, within a framework.
+    2. Fill that culture with self-disciplined people who are willing to go to extreme lengths to fulfill their responsibilities.  They will "Rinse their cottage cheese."
+    3. Don't confuse a culture of discipline with a tyrannical disciplinarian.
+    4. Adhere with great consistency to the Hedgehog Concept, exercising an almost religious focus on the intersection of the three circles.  Equally important, create a "stop doing list" and systematically unplug anything extraneous.
+
+> The good-to-great companies built a consistent system with clear constraints, but they also gave people freedom and responsibility within the framework of that system.  They hired self-disciplined people who didn't need to be managed, and then managed the system, not the people.
+
+### Creating a culture of discipline
+
+1. Disciplined People - Not disciplining the wrong people in the right behavior, but getting self-disciplined people in the right spots.
+
+2. Disciplined Thought - Using mental discipline to confront the brutal facts of reality, but still maintain faith that you are able to and will find a path to greatness.
+
+3. Disciplined Action - This is the process of acting within a framework of a consistent system designed around the Hedgehog Concept.
+
+- The order of these steps is important, disciplined action doesn't matter if you don't have the right people or haven't taken the time to mentally invest in developing your Hedgehog Concept to build your framework of operation.
+
+### Rinsing your cottage cheese
+
+- This phrase comes from a 6 time triathelete winner's mentality.  He would burn through 5000 calories a day because of his highly intense and legnthy workouts.  However, he believed that a low fat, high carbohydrate diet would give him an edge; so he would rinse his cottage cheese to remove excess fat.  The point is that this was one more simple and small step that he added to all of the other small steps to create a consistent program of superdiscipline.
+
+> Everyone would like to be the best, but most organizations lack the discipline to figure out with egoless clarity what they can be the best at and the will to do whatever it takes to turn that potential into reality.  They lack the discipline to rinse their cottage cheese.
+
+> There's too much waste in baking, getting rid of it takes tenacity, not brilliance. 
+> - Carl Reichardt
+
+The Wells Fargo executive suite practiced what they preached by rinsing their own cottage cheese.  Selling corporate jets, freezing executive salaries for 2 years, removing free coffee from the executive suites, etc.
+
+The Bank Of America executives maintained a posh working life, keeping every executive perk you could imagine and creating barriers between themselves and the "lesser" working class of the company, eventually leading to the loss of $1.8 billion across 3 years in the mid 80s.
+
+> Whereas the good-to-great companies had Level 5 leaders who built an enduring culture of discipline, the unsustained comparisons had Level 4 leaders who personally disciplined the organization through sheer force.
+
