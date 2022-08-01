@@ -146,3 +146,7 @@
 
 - Be up front with each decision, will you make the call, use a small group for counsel, or seek full-tem consensus.
 
+### Accelerate the Team's Development
+
+- Help energize the team with some early wins to reinforce the value of the new rules and processes.
+- Creating the successes and buidling on them creates a virtuous cycle of achievement and confidence.
