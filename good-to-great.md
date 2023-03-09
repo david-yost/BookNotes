@@ -186,3 +186,29 @@ The Bank Of America executives maintained a posh working life, keeping every exe
 
 > Whereas the good-to-great companies had Level 5 leaders who built an enduring culture of discipline, the unsustained comparisons had Level 4 leaders who personally disciplined the organization through sheer force.
 
+### Fanatical adherance to the hedgehog concept
+
+> The good-to-great companies at their best followed a simple mantra: "Anything that does not fit with our Hedgehog Concept, we will not do.  We will not launch unrelated businesses.  We will not make unrelated acquisitions.  We will not do unrelated joint ventures.  If it doesn't fit, we don't do it.  Period."
+
+- The demise of comparison companies was always due to either not understanding the thre circles or lacking the discipline to operate within them.
+
+> It takes discipline to say "No, thank you" to big opportunities.  The fact that something is a "once-in-a-lifetime opportunity" is irrelevant if it doesn't fit within the three circles.
+
+### Start a "stop doing" list
+
+- Adhering to a hedgehog concept means that you'll have to create a list of things to stop doing to remove extraneous junk.
+
+> In a good-to-great transformation, budgeting is a discipline to decide which arenas shoudl be fully funded and which should not be funded at all.  In other words, the budget process is not about figuring out how much each activity gets, but about determining which activities best support the Hedgehog Concept and should be fully strengthened and which should be eliminated entirely.
+
+- When some executives were asked about what Kimberly-Clark did to transform (in refernece to selling off all of their paper busines assets) they said it was "unfair" and that they could have been as great of a company but couldn't sell that portion of their business of because they were to invested in it.  This decisiveness is the discipline required to operate within a hedgehog concept.
+
+> "Being right" means getting the Hedgehog Concept; "highly undiversified" means investing fully in those things that fit squarely within the three circles and getting rid of everything else.
+
+- Being right can be easy when you have all of the elements in place: level 5 leaders, right people on the bus, confront the brutal facts of reality, create a climate where truth is heard, have a council, work within the three circles, frame all of your decisions through the Hedgehog Concept, act from understanding, not bravado.
+
+
+## Chapter 7 - Technology Accelerators
+
+> Most men would rather die, than think.  Many do.
+> - Bertrand Russell
+
