@@ -149,3 +149,32 @@ Once the grooves of a habit are encoded into our brain it's nearly impossible to
 The secret to self-control is making cues for your bad habits impossible to see but making the cues for your good habits obvious.
 
 ### 8 How To Make A Habit Irresistible
+
+### 9 The Role of Family and Friends in Shaping Your Habits
+
+Laslo Polgar used his children as a case study of sorts to prove out his idea that innate talent doesn't exist and that in fact, "A genius is not born, but is educated and trained."  He homeschooled his children and filled the house with photos os famous chess players and books about chess strategy.  The family would always play one another and they would constantly compete in high level tournaments.  The children became very successful at chess at a young age and saw their proficiency in chess as completely normal.
+
+Many of our habits are learned or reinforced by the social groups that we are a part of.  There are three different groups in particular that we seem to personally imitate for various reasons:
+
+1. The close
+2. The many
+3. The powerful
+
+#### Imitating The Close
+Proximity is a very powerful influencer on our behaviors.  We often pickup habits from people close to us like spouses, friends, or other family members just because we're around them all the time.  There was a groundbreaking study that found if you were close to someone that became obese your chance of becoming obese as well were 57%.  The inverse of this is also true though where if someone in a relationship loses weight the other partner slims down 1/3 of the time as well.
+
+To make desired habits even more attractive you can join a culture where:
+1. Your desired behavior is the norm
+2. You already have something else in common with the group
+
+Changes your identity from "I am an X" to "We are X together" which is much more powerful.
+
+#### Imitating The Many
+Solomon Asch, a psychologist5 in the 1950s, ran an experiment where subjects, surrounded by varying numbers of actors would increasingly agree with an incorrect assessment on the length of 2 lines just because the rest of the subjects (actors unknown to the primary subject) would state the wrong answer.  The subject would either doubt themselves due to the number of people giving an answer different from what they knew to be correct or they would give the same answer just to fit in with the rest of the group.
+
+Chimpanzees have been studied and noted that if in part of one group it learns an efficient nut cracking strategy but is then placed into another chimp group with a less efficient nut cracking strategy it will use that strategy to fit in with the new group even though it's less efficient.  Conformity is comfortable when surrounded by many that disagree with us.  It's often easier to be wrong in the many than right on your own.
+
+#### Imitating The Powerful
+Historically, successful people have access to more resources.  They have to worry less about survival and that's an enviable status.  We imitate the people that we look up to and replicate the things they do to try to achieve that same level of success.  
+
+> If a behavior can get us approval, respect, and praise, we find it attractive.
