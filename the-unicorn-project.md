@@ -110,10 +110,43 @@ By the time Thursday rolls around for the meeting at the Dockside bar with the r
 
 ### Takeaways
 
-- Production software releases should never be as stressful as they are in this chapter. We need to create automated, repeatable processes that are stable and easy to execute.
-- Wes calls out how many people have quit, are planning to quit, and his suspicions that others are looking as a result of this fiasco. People don't like working in bad environments. As leaders we should create an environment that is positive and encouraging to work in. Don't create fires, put them out, or better yet prevent them from happening in the first place.
-- Autonomy matters. The more you have to understand every system's detail and how they interact with the thing you're working on the less likely you are to be able to make changes without breaking things. Give teams the ability to focus on what they're responsible for in a way that's flexible, resilient, and efficient.
-- Be curious about things that don't make sense at surface level and understand why something is the way it is before changing it if you can. The combining of the 3 switches as plants created a lot more problems than it solved. At the surface it made sense, less hardware, more efficient, cheaper cost. However, the increased external management costs increased enough to negate any cost savings.
+- Production software releases should never be as stressful as they are in this chapter.  We need to create automated, repeatable processes that are stable and easy to execute.
+- Wes calls out how many people have quit, are planning to quit, and his suspicions that others are looking as a result of this fiasco.  People don't like working in bad environments.  As leaders we should create an environment that is positive and encouraging to work in.  Don't create fires, put them out, or better yet prevent them from happening in the first place.
+- Autonomy matters.  The more you have to understand every system's detail and how they interact with the thing you're working on the less likely you are to be able to make changes without breaking things.  Give teams the ability to focus on what they're responsible for in a way that's flexible, resilient, and efficient.
+- Be curious about things that don't make sense at surface level and understand why something is the way it is before changing it if you can.  The combining of the 3 switches as plants created a lot more problems than it solved.  AT the surface it made sense, less hardware, more efficient, cheaper cost.  However, the increased external management costs increased enough to negate any cost savings.  
+
+### Chapter 7 - Thursday, September 18th
+
+#### Summary
+
+A familiar voice behind Maxine turns out to be the bartender, Dr. Erik Reid.  Kirsten says that Steve and Dick have been trying to recruit him to serve on the board of directors for a long time.  He was part of the driving force behind the rollout of the original MRP system that Maxine had worked on maintaining for so long.  Apparently Erik has heard of Maxine and is an admirer of her work and gives her a lot of props.  They talk about the importance of decoupling code bases so teams can operate independently.
+
+Erik spends a bit of time talking to the table and talks about how creating proper separation in code follows the First Ideal of Locality and Simplicity.  He then says they should look at the engagement scores before returning back to his bartending duties.  Kirsten admits that the IT engagement scores are in the toilet but the rest of the organization is very high.  Erik's last comment about the 
+
+#### Takeaways
+
+// TODO: Finish takeaways for this chapter
+
+### Chapter 8 - Tuesday, September 23rd
+
+#### Summary
+
+Kurt gets the dev manager job and brings Maxine and Cranky Dave along with him to the Data Hub team.  The team is skeptical of Kurt and justifiably outraged at the fact that their team was blamed for The Phoenix project's deployment disaster.  They are however, happy to see 2 new senior developers join the team since they've been compalining about not having enough head count for the workload.  
+
+Meanwhile, there's a feature freeze agreed to by the executives so the various IT teams can address all of the issues plaguing the systems.  Maxine starts on the team by pairing with another senior dev named Tom.  She helps him solve a race condition issue on her first day joining the team but is met with the cold hard reality that her code won't see production for a while because they don't have the ability to test and push code themselves.
+
+The next day as Maxine and Tom are whiteboarding a large extended warranty feature design they receive notice that customer logins are broken.  Tom insists that it's probably not actually them but likely a networking change but they ahve to submit a ticket to get production logs from ops because they can't directly get that information to verify it.  After hours waiting for the logs, reviewing the logs, and sharing their findings it's finally addressed.  Another person is fired for the mistake as each misstep is now excruciatingly visible.
+
+After resolving the production outing and disconnecting from work late The Rebellion meets at Dockside again with their newest teammates from the Data Hub team.  They spend the evening talking about how to make the developer experience better, what technical debt it makes the most sense to focus on, and how to share what they're accomplishing with other teams to help their efforts as well.
+
+> A bad system will beat a good person every time.
+> - Sensei W. Edwards Deming
+
+#### Takeaways
+
+- When something goes wrong ask "what caused the problem" not "who caused the problem".
+- Psychological safety is paramount in creating an environment that allows innovation and creativity.  If everyone's too afraid to make a mistake then no one will try anything new.
+// TODO: Finish takeaways for this chapter
 
 ### Chapter 9 - Monday, September 29
 
@@ -149,3 +182,10 @@ Eventually, they approvals are given, Jared does his thing and gets the code int
 - Merging less frequently creates a lot more merge headaches. When something is painful do not default to doing it less often, most often smaller and more approachable chunks are easier to manager over time versus massive chunks.
 - If someone is trustworthy to fix and issue they are trustworthy enough to make sure that issue gets merged, tested and promoted to production.
 - If a process is not working well don't just keep following the process because it's the process. Look for ways to improve it to make it more efficient and to better serve the people that use the process to solve problems.
+
+
+### Chapter 11 - Wednesday, October 1
+
+#### Summary
+
+#### Takeaways

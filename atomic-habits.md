@@ -110,3 +110,42 @@ How you break a bad habit in the 4 step pattern:
 2. Craving - Make it unattractive.
 3. Reponse - Make it difficult.
 4. Reward - Make it unsatisfying.
+
+### 4 - The Man Who Didn't Look Right
+
+### 6 - Movitation Is Overrated; Environment Often Matters More
+
+#### Anne Thorndike - Primary Care Physician at Massachusetts General Hospital in Boston
+Created a study at a hospital cafeteria around getting people to drink more water simply by placing water bottles in more locations and more prominent areas.  Without saying a word  to anyone the soda sales dropped 11.4% while the bottled water increased by 25.8%.  The change in environment prompted a change in behavior with no further stimulus.
+
+> Behavior is a function of the Person in their Environment, or B = f(P,E)
+> Kurt Lewin - Behavioral Scientists circa 1936
+
+#### How to design your environment for success
+Designing your environment for cues to encourage the habits you want will naturally reinforce those habits.  Visual cues are one of the most powerful sensory abilities and changing how your environment is arranged will help create the correct cues for desired habits.
+
+##### Examples from page 86
+- If you want to remember to take your medication each night, put your pill bottle directly next tot he faucet on the bathroom counter.
+- If you want to practice guitar morefrequently, place your guitar stand in the middle of the living room.
+- If you want to remember to send more thank you notes, keep a stack of stationary on your desk.
+- If you want to drink more water, fill up a few water bottles each morning and place them in common locations around the house.
+
+#### Context is the cue
+Triggers are very often not a single cue but many cues that an accumulation of cues that make up a situation (i.e. drinking socially when you hear music, see friends ordering drinks, see tap handles or a backlit liquor shelf).
+
+You can train yourself to link a particular habit with a particular context.  If you don't have the ability to get a completely new environment you can redefine or rearrange your current one for the habit you want to create.  Avoid mixing contexts between habits.  If two habits are associated with a single context, the easier one will usually win out.
+
+> One space, one use. 
+> James Clear, mantra for creating spaces for habits
+
+### 7 The Secret to Self-Control
+Studies have found that people perceived to be very disciplined are actually just better at structuring their environment.  The create an environment that doesn't require them to have superhuman self-control because they are not in those tempting sitations often.
+
+> The people with the best self-control are typically the ones who need to use it the least.
+> James Clear
+
+Once the grooves of a habit are encoded into our brain it's nearly impossible to remove it entirely.  Patty Olwell quit smoking and riding a horse.  She went many years without smoking and had little trouble with it until she started riding again when the context and cues of her habit were present once again.
+
+The secret to self-control is making cues for your bad habits impossible to see but making the cues for your good habits obvious.
+
+### 8 How To Make A Habit Irresistible
