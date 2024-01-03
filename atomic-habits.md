@@ -178,3 +178,28 @@ Chimpanzees have been studied and noted that if in part of one group it learns a
 Historically, successful people have access to more resources.  They have to worry less about survival and that's an enviable status.  We imitate the people that we look up to and replicate the things they do to try to achieve that same level of success.  
 
 > If a behavior can get us approval, respect, and praise, we find it attractive.
+
+### 10 How to Find and Fix the Causes of Your Bad Habits
+
+While in Turkey, the author had the ability to attend a dinner with his tour guide and some friends.  Throughout the course of the evening he found they had all been heavy smokers at one point and half of them had quit. One of them swore by the book called "Allen Carr's Easy Way to Stop Smoking."  He summarizes the book as a bunch of statements that make smoking unattractive such as, you're not quitting anything because cigarettes do nothing for you, and you don't need cigarettes to be social.  By taking away all of the appealing reasons to smoke he had inverted the 2nd Law of Behavior Change: make it unattractive.
+
+#### Where cravings come from
+
+> "A craving is just a specific manifestation of a deeper underlying motive."
+
+Any habit that we have formed today is trying to fulfill a deeper part of our human nature.  We look for approval and connection on social media sites or search for things on the internet to reduce uncertainty in our lives.  The habits at root solve the desire that stems from these underlying motives.
+
+Habits are formed by the association of a cue with a prediction of what follows the cue based on our previous experiences.  For instance, if we see a hot stove we predict that if we touch it we will burn ourselves so we don't touch it.  These predictions lead to feeling, how we might typically describe a craving or an urge.  
+
+#### How to reporgram your brain to enjoy habits
+
+Changing our perspective on something can shift the way we feel about it and make that thing more attractive.  Changing your view of commitments from "have" to "get" shifts the perspective from obligation to opportunity.  
+
+- I have to wake up early for work -> I get to wake up early for work
+- I have to cook dinner for my family -> I get to cook dinner for my family
+
+This approach can be applied to shift our perspective on any disciplines that can be seen as difficult to follow if we're able to shift our mindset from a negative perspective to a more positive one, whether it be fitness, frugality, or meditation.
+
+You can use cues you have developed to reinforce positive behavior outside of that original environment.  He refers to a boxer and writer who realized his focus and concentration would go up just by the act of putting on his headphones.  This was because every time he sat down to write he would put on headphones and play music.  Over time the cue of putting on his headphones would give his body and mind the response that it was time to focus, whether he was writing or not.  
+
+We can create similar cues in our own lives deliberately. If you want to feel generally more happy, find something that makes you truly happy and create a short routine you do before that thing, like taking 3 deep breaths and smiling.  Once that cue has been ingrained in your head you can use it to brighten your spirits whenever needed or make a difficult habit more appealing.
