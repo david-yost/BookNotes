@@ -203,3 +203,24 @@ This approach can be applied to shift our perspective on any disciplines that ca
 You can use cues you have developed to reinforce positive behavior outside of that original environment.  He refers to a boxer and writer who realized his focus and concentration would go up just by the act of putting on his headphones.  This was because every time he sat down to write he would put on headphones and play music.  Over time the cue of putting on his headphones would give his body and mind the response that it was time to focus, whether he was writing or not.  
 
 We can create similar cues in our own lives deliberately. If you want to feel generally more happy, find something that makes you truly happy and create a short routine you do before that thing, like taking 3 deep breaths and smiling.  Once that cue has been ingrained in your head you can use it to brighten your spirits whenever needed or make a difficult habit more appealing.
+
+# The 3rd Law - Make It Easy
+
+### 11 Walk Slowly, but Never Backward
+
+A photography professor named Jerry Uelsmann split his class into 2 groups, the first being graded on the quantity of photos they produced and the second being graded by the quality.  Interestingly enough, the quatity focused group created the best photos because they put ideas, theories, and tests into practice and figured out how to take good photos.  The quality group produced many less photos and since they did not get the repititions to improve their photo taking skills they did not improve.
+
+> "The Best is the enemy of the good." - Voltaire
+
+There is a difference between being in motion and taking action.  Being in motion is often preparing for action by reading, studying, organizing, brainstorming, etc.  While these motions can have positive effects they produce no output until you actually take action.  You can read all about fitness, research programs, study the human body, but until you take action by working out you won't increase your fitness levels.
+
+#### How long does it actually take to form a new habit?
+
+Connections between neurons that are fired as recent patterns of activity are strengthened when these activities are repeated.  The brain changes to adapt to the pattern and become more efficient.
+
+> "Neurons that fire together wire together." - Hebb's Law
+
+People often ask how long it will take to form a new habit, but a more accurate way to look at it is how many repititions does it take.  On the way to automaticity, or the ability to perform a behavior without thinking about each step, repitions bring you closer to the line not necessarily the length of time.  
+
+The most effective way to reach the habit line is to repeat habits you want to form.  The best way to do that is to keep in line with the 3rd Law of Behavior Change: make it easy.
+
