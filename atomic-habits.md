@@ -224,3 +224,27 @@ People often ask how long it will take to form a new habit, but a more accurate 
 
 The most effective way to reach the habit line is to repeat habits you want to form.  The best way to do that is to keep in line with the 3rd Law of Behavior Change: make it easy.
 
+### Chapter 12 The Law of Least Effort
+
+The primary axis of Europe and Asia is east to west, while the primary axis of the Americas and Africa is north to south.  Since temperature fluctuations are more extreme north to south the continents with a east to west axis experienced an agricultural spread 2 to 3 times faster because the climate was consistent so you could  grow the same crops in more spaces.  Moving north to south or vice versa leads to significantly different climates and requires different agricultural products and practices which meant relearning how to farm in that region in early years.  This is a global instance of the 3rd law of behavior change, the law of least effort.
+
+Any behaviors that take up a lot of space in your life are likely because they are easy and require low levels of motivation.  Doom scrolling, watching youtube, checking social media app notifications are all easy habits that require little motivation.  Every habit is just an obstacle to get what you want in a sense, dieting and exercise are obstacles to getting in to shape for example.  Removing the friction around these obstacles means you will be more likely to succeed in the good habits.
+
+#### How to achieve more with less effort
+
+A water hose with a kink in it can still flow water through but it take much more effort to force the same amount of water through that choke point than just removing the kink in the hose.  Removing friction for habits you want to develop is like removing the kink from the hose to let water flow through.  It will require much less effort to achieve the same result and therefore make it more likely to be successful in the long run.  
+
+One of the most practical ways to do this is to practice environment design. In the 1970s Japan took a manufacturing edge by emphasizing what they called "lean production"; remove waste of all kinds from the production process, including workspaace design.  The result was more reliable products produced with less manpower.  James refers to this as "addition by subtraction."
+
+#### Prime the environment for future use
+
+An IT developer named Oswald Nuckols is famous for doing this.  His cleaning habits were to reset the room as he's done with it.  If he's done watching TV, place the remote back on the stand, arrange the pillows, fold the blanket and put it back.   By repeating this type of room reset every time he leaves it the room has everything in place the next time he enters it.  
+
+James' wife has a stack of cards for various occassions presorted in a box on her desk.  She is incredibly good at sending cards appropriately as a result because she has reduced the friction of having to remember to go to the store and find a card when she needs it because it's already on her desk waiting for her. Priming your environment to encourage habits you want is a way of reducing friction.
+
+Environment priming examples:
+- If you want to draw more, put the tools on your deak in an easy to reach space.
+- If you want to exercise set out your clothes, shoes, bag, and water bottle ahead of time.
+- If you want to improve your diet, chop up fruits and vegetables and have them in serving sized continers that are ready to eat.
+
+You can also reverse this approach to discourage bad habits or make them less desirable.  For instance, if you watch too much TV and want to cut back you can unplug the TV, remove the batteries from the remote, etc. when you're done watching.  Then when you want to watch TV you will have to overcome that friction to do it.  If you want to spend less time scrolling on your phone put it in a drawer or another room so you don't get distracted or tempted by it.
