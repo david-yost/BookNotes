@@ -271,3 +271,35 @@ The goal is to not try to take on too much at once.  Find the 2 minute version o
 5. "Run three miles" becomes "Tie my running shoes"
 
 > Standardize before you optimize.  You can't improve a habit that doesn't exist.
+
+### 14 How to Make Good Habits Inevitable and Bad Habits Impossible
+
+Victor Hugo had agreed to write a new book for his publisher that was due in the summer of 1830.  However, instead of working towards that he had been pursuing other projects and focusing on things other than writing.  The publisher responded with a new 6 month deadline.  His response to prevent himself from procrastinating again was having his assistance lock all of his clothes away except a large shawl.  Prevented him from leaving the house and forced him to stay in and focus on his writing.  In January of 1832 he released "The Hunchback of Notre Dame".  
+
+Success can be just as much about making bad habits hard as it is about making good habits easy.  This is a great example of the 3rd Law of Behavior Change to make it difficult.
+
+> Commitment Device - A choice you make in the present that controls your actions in the future.  It is a way to lock in future behavior, bind you to good habits, and restrict you from bad ones.
+
+##### Examples
+1. Reduce overeating by purchasing food in individual packages instead of in bulk
+2. Voluntarily ask to be banned from casinos to prevent future gambling
+3. Some athletes will leave their wallets at home when traveling before weigh-in to prevent fast food buying so they can "make weight"
+
+These commitment devices increase the odds that you'll do the right thing in the future by making the bad habits more difficult.
+
+#### How to automate a habit and never thinka bout it again
+
+John Henry Patterson owned a store in a small town that faced a lot of employee theft in the mid 1800s.  He bought a device called Ritty's Incorruptible Cashier, the first cash register of the time that automatically locked the receipts and cash between transactions.  The employee theft disappeared overnight because the bad behavior was prevented by this machine that automated the transaction process and made stealing much more difficult.
+
+> The best way to break a bad habit is to make it impractical to do.  Increase the friction until you don't even have the option to act.
+
+#### Onetime actions that lock in good habits
+
+These actions are things that happen one time but pay off again and again over time.  Some of the examples from James' crowd sourced list of one time actions include:
+- Get a water filter to clean up your drinking water
+- Buy a good mattress and get some blackout curtains to sleep better
+- Buy a supportive chair or standing desk to improve your overall health
+- Delete games and social media apps on your phone to remove distractions and make you more productive
+
+Technology can also be a way to automate actions that would typically need to be repeated and could be hard, annoying, or complicated to do.  This is extra useful in scenarios where the actions are not common enough that you can develop a habit around them.  Infrequent actions like prescription refills or saving for retirement can be automated with technology and remove the "need" for these habits almost entirely by leveraging technology. 
+
