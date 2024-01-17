@@ -248,3 +248,26 @@ Environment priming examples:
 - If you want to improve your diet, chop up fruits and vegetables and have them in serving sized continers that are ready to eat.
 
 You can also reverse this approach to discourage bad habits or make them less desirable.  For instance, if you watch too much TV and want to cut back you can unplug the TV, remove the batteries from the remote, etc. when you're done watching.  Then when you want to watch TV you will have to overcome that friction to do it.  If you want to spend less time scrolling on your phone put it in a drawer or another room so you don't get distracted or tempted by it.
+
+### Chapter 13 How to Stop Procrastinating by Using the Two-Minute Rules
+
+One of the greatest dancers and choreographers in the modern era is Twyla Tharp.  Much of her success, according to her, is credited to simple daily hbits.  For instance, every day she wakes up at 5:30 AM, puts on her workout clothes, walks outside, hails a taxi and tells them to take her to her gym.  The ritual isn't the workouts or stretches that she goes through at the gym that morning, it's the cab ride to the gym.  That simple act done the same way every day sets her on a path to her routines.
+
+> Decisive Moments - Small moments in your day that deliver an outsized impact on the decisions and actions that follow.  
+
+These moments set the options for your future self.  Walking into a restaurant is a decisive moment. If you go to a steakhouse you can only order steaks or salads they have on the menu, you cannot order sushi or ramen.  The decision to eat at a steak house limited the choices of what you can eat for that meal much like deciding to drive or walk to work, or whether you make dinner or order in food.
+
+#### The two minute rule
+
+Whenever you're starting a new habit it should take no more than 2 minutes to do.  Every difficult habit can be distilled down to something that can be accomplished in no more than 2 minutes.  For instance, running a marathon is very hard, running a 5k is difficult, walking ten thousand steps isn't easy, walking for ten minutes is easy, and putting on your running shoes only takes a minute.  
+
+The goal is to not try to take on too much at once.  Find the 2 minute version of your new habit and get consistent at doing that portion of it.  After you are consistent with that, use it as a ritual that you can build upon, layer by layer until you achieve the difficult habit.  It's not meant to be a "mental trick" or "hack", it's meant to be a starting place to build upon.
+
+##### Examples
+1. "Read before bed each night" becomes "Read one page"
+2. "Do thirty minutes of yoga" becomes "Take out my yoga mat"
+3. "Study for class" becomes "Open my notes"
+4. "Fold the laundry" becomes "Fold one pair of socks"
+5. "Run three miles" becomes "Tie my running shoes"
+
+> Standardize before you optimize.  You can't improve a habit that doesn't exist.
