@@ -110,18 +110,18 @@ By the time Thursday rolls around for the meeting at the Dockside bar with the r
 
 ### Takeaways
 
-- Production software releases should never be as stressful as they are in this chapter.  We need to create automated, repeatable processes that are stable and easy to execute.
-- Wes calls out how many people have quit, are planning to quit, and his suspicions that others are looking as a result of this fiasco.  People don't like working in bad environments.  As leaders we should create an environment that is positive and encouraging to work in.  Don't create fires, put them out, or better yet prevent them from happening in the first place.
-- Autonomy matters.  The more you have to understand every system's detail and how they interact with the thing you're working on the less likely you are to be able to make changes without breaking things.  Give teams the ability to focus on what they're responsible for in a way that's flexible, resilient, and efficient.
-- Be curious about things that don't make sense at surface level and understand why something is the way it is before changing it if you can.  The combining of the 3 switches as plants created a lot more problems than it solved.  AT the surface it made sense, less hardware, more efficient, cheaper cost.  However, the increased external management costs increased enough to negate any cost savings.  
+- Production software releases should never be as stressful as they are in this chapter. We need to create automated, repeatable processes that are stable and easy to execute.
+- Wes calls out how many people have quit, are planning to quit, and his suspicions that others are looking as a result of this fiasco. People don't like working in bad environments. As leaders we should create an environment that is positive and encouraging to work in. Don't create fires, put them out, or better yet prevent them from happening in the first place.
+- Autonomy matters. The more you have to understand every system's detail and how they interact with the thing you're working on the less likely you are to be able to make changes without breaking things. Give teams the ability to focus on what they're responsible for in a way that's flexible, resilient, and efficient.
+- Be curious about things that don't make sense at surface level and understand why something is the way it is before changing it if you can. The combining of the 3 switches as plants created a lot more problems than it solved. AT the surface it made sense, less hardware, more efficient, cheaper cost. However, the increased external management costs increased enough to negate any cost savings.
 
 ### Chapter 7 - Thursday, September 18th
 
 #### Summary
 
-A familiar voice behind Maxine turns out to be the bartender, Dr. Erik Reid.  Kirsten says that Steve and Dick have been trying to recruit him to serve on the board of directors for a long time.  He was part of the driving force behind the rollout of the original MRP system that Maxine had worked on maintaining for so long.  Apparently Erik has heard of Maxine and is an admirer of her work and gives her a lot of props.  They talk about the importance of decoupling code bases so teams can operate independently.
+A familiar voice behind Maxine turns out to be the bartender, Dr. Erik Reid. Kirsten says that Steve and Dick have been trying to recruit him to serve on the board of directors for a long time. He was part of the driving force behind the rollout of the original MRP system that Maxine had worked on maintaining for so long. Apparently Erik has heard of Maxine and is an admirer of her work and gives her a lot of props. They talk about the importance of decoupling code bases so teams can operate independently.
 
-Erik spends a bit of time talking to the table and talks about how creating proper separation in code follows the First Ideal of Locality and Simplicity.  He then says they should look at the engagement scores before returning back to his bartending duties.  Kirsten admits that the IT engagement scores are in the toilet but the rest of the organization is very high.  Erik's last comment about the 
+Erik spends a bit of time talking to the table and talks about how creating proper separation in code follows the First Ideal of Locality and Simplicity. He then says they should look at the engagement scores before returning back to his bartending duties. Kirsten admits that the IT engagement scores are in the toilet but the rest of the organization is very high. Erik's last comment about the
 
 #### Takeaways
 
@@ -131,22 +131,23 @@ Erik spends a bit of time talking to the table and talks about how creating prop
 
 #### Summary
 
-Kurt gets the dev manager job and brings Maxine and Cranky Dave along with him to the Data Hub team.  The team is skeptical of Kurt and justifiably outraged at the fact that their team was blamed for The Phoenix project's deployment disaster.  They are however, happy to see 2 new senior developers join the team since they've been compalining about not having enough head count for the workload.  
+Kurt gets the dev manager job and brings Maxine and Cranky Dave along with him to the Data Hub team. The team is skeptical of Kurt and justifiably outraged at the fact that their team was blamed for The Phoenix project's deployment disaster. They are however, happy to see 2 new senior developers join the team since they've been compalining about not having enough head count for the workload.
 
-Meanwhile, there's a feature freeze agreed to by the executives so the various IT teams can address all of the issues plaguing the systems.  Maxine starts on the team by pairing with another senior dev named Tom.  She helps him solve a race condition issue on her first day joining the team but is met with the cold hard reality that her code won't see production for a while because they don't have the ability to test and push code themselves.
+Meanwhile, there's a feature freeze agreed to by the executives so the various IT teams can address all of the issues plaguing the systems. Maxine starts on the team by pairing with another senior dev named Tom. She helps him solve a race condition issue on her first day joining the team but is met with the cold hard reality that her code won't see production for a while because they don't have the ability to test and push code themselves.
 
-The next day as Maxine and Tom are whiteboarding a large extended warranty feature design they receive notice that customer logins are broken.  Tom insists that it's probably not actually them but likely a networking change but they ahve to submit a ticket to get production logs from ops because they can't directly get that information to verify it.  After hours waiting for the logs, reviewing the logs, and sharing their findings it's finally addressed.  Another person is fired for the mistake as each misstep is now excruciatingly visible.
+The next day as Maxine and Tom are whiteboarding a large extended warranty feature design they receive notice that customer logins are broken. Tom insists that it's probably not actually them but likely a networking change but they ahve to submit a ticket to get production logs from ops because they can't directly get that information to verify it. After hours waiting for the logs, reviewing the logs, and sharing their findings it's finally addressed. Another person is fired for the mistake as each misstep is now excruciatingly visible.
 
-After resolving the production outing and disconnecting from work late The Rebellion meets at Dockside again with their newest teammates from the Data Hub team.  They spend the evening talking about how to make the developer experience better, what technical debt it makes the most sense to focus on, and how to share what they're accomplishing with other teams to help their efforts as well.
+After resolving the production outing and disconnecting from work late The Rebellion meets at Dockside again with their newest teammates from the Data Hub team. They spend the evening talking about how to make the developer experience better, what technical debt it makes the most sense to focus on, and how to share what they're accomplishing with other teams to help their efforts as well.
 
 > A bad system will beat a good person every time.
+>
 > - Sensei W. Edwards Deming
 
 #### Takeaways
 
 - When something goes wrong ask "what caused the problem" not "who caused the problem".
-- Psychological safety is paramount in creating an environment that allows innovation and creativity.  If everyone's too afraid to make a mistake then no one will try anything new.
-// TODO: Finish takeaways for this chapter
+- Psychological safety is paramount in creating an environment that allows innovation and creativity. If everyone's too afraid to make a mistake then no one will try anything new.
+  // TODO: Finish takeaways for this chapter
 
 ### Chapter 9 - Monday, September 29
 
@@ -183,9 +184,23 @@ Eventually, they approvals are given, Jared does his thing and gets the code int
 - If someone is trustworthy to fix and issue they are trustworthy enough to make sure that issue gets merged, tested and promoted to production.
 - If a process is not working well don't just keep following the process because it's the process. Look for ways to improve it to make it more efficient and to better serve the people that use the process to solve problems.
 
-
 ### Chapter 11 - Wednesday, October 1
 
 #### Summary
 
+Maxine gets to to Dockside and Kurt is already waiting with beers and wine on the table. Maxine doesn't like to self medicate with alcohol but decides she needs a little tonight with the day she's had. As everyone arrives they are talking about the progress on their slimmed down environments and the collaboration with the teams around them. Eventually Maxine gets to bring up what's been bothering her and why she asked to assemble a meeting of The Rebellion. She's flabergasted by how difficult it is to get things done. Endless roads of ticket creation and waiting for stamps of approval and review processes and restricted access. Adam and Dwayne share how they did it to themselves because they wanted QA to be separate from DEV. Every single thing that went wrong was an excuse to add more checks and balances to handcuff the devs more until they ended up here, with endlessly unnecessary beaurocracy.
+
+After the meeting at dockside Maxine goes home and starts to feel ill, the sickness from the release finally caught up to her. During her sick days away she's able to keep in touch with Kurt and finds out that the merge is still not done and the Data Hub team is making great progress on their smaller containerized environment. Later in the week she starts trolling through open dev tickets to see if she can find a common thread for a priority ask. She stumbles on multiple seasonal bundle tickets that did not get completed in time to be useful. She then finds a ticket from Maggie, the senior director of products, asking for the ability to create these bundles skus and associated discounts through the UI with one screen which would make all of these bundle tickets obsolete. She sends what she's found off to Kurt for safe keeping and to pull at the thread more.
+
+Once the weekend is over Maxine is feeling better and is back to work on Monday. The team worked all through the weekend to get the Data Hub environments up and running so not only the QA team can use them to test but the dev team can use them to write code against. They celebrate the big win on how much time they can save only to realize the value will not be seen by the business because they still cannot promote these faster code changes into production without the overgrown nanny state of checks and balances in the organization. In order to make a change to that process they need to get approval from the "TEP-LARB" (Technology Evaluation Process - Lead Architecture Review Board) which is notorious for never approving anything. Everyone feels deflated but seems willing to at least make an effort at submitting their proposal through this process. That is until Maxine suggests that they run their entire environment themselves. All of the production servers, deployments, and maintenance would be their team's responsibility. This would allow them to continue to automate their CI/CD pipeline in a way that would deliver that newfound value to the business as well. They decided this is an acceptable plan B should the "TEP-LARB" do what they expect it to do.
+
+Later in the day Maxine and Tom finish resolving another issue and decide to head over to the QA building again to help them test it and see how things are going. When they get over there they find Purna and Cranky Dave testing a feature that's been delayed twice before because of simple config issues that take too long to fix and promote in their old process because they didn't want to delay the other features in the release. This surplus inventory functionality that allows them to send inventory that's not selling in the store back to the warehouse to be sold at a discount on the ecommerce site. They tell her to go check out what Adam and Shannon are doing in the conference room. What they're doing is wrapping up getting the CI pipeline up and running to build and test code as it's checked in. Maxine is ecstatic to see that people are already resolving issues found by tests in a few minutes.
+
+At the ned of the day The Rebellion once again assembles at Dockside and talk about collocating the develops with the QA team again. Everyone is into the idea but facilities says it will take 9 months to get the furniture ordered and have all of the spaces re-organized to meet the requirements of a mocked up layout. The team is noticeably disappointed by this but quickly suggest just taking matters into their own hands. Dwayne offers to use his truck to go to the office supply store and get the things they need to organize their space the way they want. The team is quickly on board with this approach and decides they need soem heavy stuff so facilities isn't tempted to move it all out once it's in place. Now they have a plan to integrate the dev and QA teams so they can work more collaboratively, the team is self-organizing much to Maxines delight.
+
 #### Takeaways
+
+- Grooming backlogs is important. Carrying the psychological weight of unkept promises in the form of tickets that are no longer useful or accurate because too much time has passed can be a difficult thing for a team to bear.
+- Having stable, consistent, lightweight environments for development and testing make the developer experience much easier and productive.
+- Fast feedback from a CI pipeline tightens the feedback loop and makes it easier to resolve issues quickly by developers before they get seen by QA or even in production.
+- Deploying to production early and often shows a tremendous amount of value to business partners, especially when you can take their feedback to new things and implement them quickly. The tighter a ticket lifecycle can be the more trust you can build in that relationship.
