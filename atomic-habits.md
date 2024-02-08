@@ -348,3 +348,44 @@ When you're starting a new habit, or trying to break an old one, it can be diffi
 It's also important to remember that the short term rewards should not be in conflict with your identity. For instance if you're trying to get healthy and your reward for working out is a bowl of ice cream those 2 things are in conflict. Pick something that reinforces your identity of being a healthy person with a massage or something else a healthy person would do that's enjoyable.
 
 > A habit needs to be enjoyable to last!
+
+### Chapter 16 How to Stick with Good Habits Every Day
+
+In 1993 there was a 23 year old stockbroker in Canada named Trent Dyrsmid.  He used a system of moving 120 paperclips from one jar to another, each one tracking a sales call that he made whether it was successful or not.  This was his system for making sure that he consistently hit a target of making 120 calls a day.  This consistency helped him bring in $5M to the firm.  This strategy created a visual indicator on tracking his sales call habit.  Seeing a paper clip move from one jar to another was visual progress he had made towards his goal.
+
+#### How to keep your habits on track
+
+Habit trackers are easy ways to keep a pulse on if you are succeeding in consistently performing your habits.  You can use notebooks, spreadsheets, calendars, or whatever else to track it, the key is making sure to have something visual that represents the times you were successful in performing that habit.  Habit tracking is another way of making a behavior obvious, attractive, and satsifying.  
+
+##### Benefit #1: Habit tracking is obvious
+
+The visual cues from habit tracking are a visual indicator that can spur you on to repeat a habit.  Research shows that people that track their progress are more likely to improve than those who don't.  Everyone thinks they act better than they actually do, tracking our habits gives us a realistic view of our behavior and when that reality is plainly visible we are less inclined to lie to ourselves.
+
+##### Benefit #2: Habit tracking is attractive
+
+Making progress is motivating!  When we are able to see the consistency of our habits or that we have made progress it continues to pushus to keep the habit alive.  This can be extra useful on the days where it's difficult to motivate ourselves to keep going.
+
+##### Benefit #3: Habit tracking is satisfying
+
+The completion of a habit and the ability to mark it as complete is a dopamine hit.  Seeing our progress continue to grow helps us visualize the success we've built on so far and maintain our focus moving forward.  It's also a form of immediate gratification that helps us feel positive about our momentum.
+
+#### How to recover quickly when your habits break down
+
+It's not possible to always be perfect.  The important thing is that when you lapse or make a mistake that you don't compound it by repeating it.  If you miss a workout don't miss 2 in a row.  If you eat a garbage meal make sure the next one is healthy.  Anyone can have a bad day, make a mistake, or struggle, but winners rebound quickly.  
+
+> "You don't realize how valuable it is to just show up on your bad (or busy) days.  Lost days hurt you more than successful days help you."
+> - James Clear
+
+It's important to recognize that even if you can't perform a habit completely or at your best level of effort it still matters that you stick to it.  There is an easy pitfall in thinking of habits with an all-or-nothing mentality but even a diminished form of your habits maintains the streak and continues your progress.
+
+> "The first rule of compounding: Never interrupt it unnecessarily."
+> - Charlie Munger
+
+#### Knowing when (and when not) to track a habit
+
+Habit tracking is useful when it drives the behaviors that the habit is meant to encourage.  If you're trying to lose weight and the ONLY thing you track is your current weight that could incentivize bad behaviors and practices like crash dieting, juice cleanses, and weight loss pills.  Your brain will  automatically try to "win" at whatever the game is so making sure your tracking the right things for your habits is important to encourage the right behavior.
+
+> "When a measure becomes a target, it ceases to be a good measure."
+> - Charles Goodhart
+
+Measuring things is useful, but only when it creates context and guides your behaviors.  It's a piece of feedback to help us reach our goals, not the goal itself.
