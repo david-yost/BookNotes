@@ -248,3 +248,26 @@ The weekend is spent with the rest of the Parts Unlimited training staff learnin
 - We need to create the psychological safety it requires to learn and grow on our teams.  How can we be gracious with the changes it takes to make a meaningful difference?  Believe that everyone involved did the best that they could.
 - How can we better understand the customer?  It took Maxine hearing about a full customer case study about Tomas to understand how he leverages their services and where they fall short as well as a weekend training session at one of their stores to understand the most pressing issues.
 - What can we do to make sure that our solution doesn't get so filtered that it's no longer helpful?  If we're only solving a small part of a problem are we really moving the needle in a meaningful manner?
+
+## Part Three: November 10 - Present
+
+### Chapter 14 - Monday, November 10
+
+#### Summary
+
+Maxine finds the team is still crushing it on Monday, going above and beyond expectations to continue bringing value to the efforts they're working on.  They decide that since what they're doing now is different from the Promotions team that they need a new name for the effort.  After some back and forth they land on "The Unicorn Project" which everyone seems happy with and most of them are excited to see leadership use that name at the next town hall.
+
+During the next town hall Steve once again comes on the stage and starts by addressing the problems they've experienced with the launch of the Phoenix Project.  He acknowledges that they let their customers down and takes responsibility for the failure of the launch.  He then re-iterates the mission of Parts Unlimited and passionately talks about helping everyday people keep their cars healthy and running so they can go about their daily lives.  Lastly, he talks about all of the changes that IT has been going through as a result of the failed launch.  The pause on new features to address tech debt.  He then invites Maggie on stage to talk about the Unicorn Project and the importance of what they're trying to deliver for Black Friday.
+
+Over the next few days the team is furiously working through urgent items that need to be completed for launch.  Kurt tells Maxine that he was able to get Chris to bring back William from his leave of absence to lend his expertise to the project.  Then the discussion shifts to talking aobut their database platform.  There's a proposal to move their project Narwhal totally onto NoSQL instead of the dual MySQL and NoSQL approach.  The team realizes that with the time they have left there's not enough time to build both and NoSQL, while less familiar to their infrastructure, is a better fit for their needs.  The team decides to "burn the ships" and take on the challenge of moving to NoSQL exclusively.
+
+As they near their big Demo Day to make a final go/no-go decision for launch they find an issue with the queryies that the Analytics and Promotions teams are running into.  With all of this centralized data from multiple systems the database is too massive to efficiently query for the information they need.  Even worse, waiting on things from the Data Warehouse team takes too long to be useful.  Maxine realizes they have the same problems they did on the old infrastructure, but as she's getting ready to tell Kurt their approach won't work Shannon chimes in.  She has a proposal for an event-streaming bus to make this data available to everyone.  There's concerns about securing everything to avoid exposing PII data, the amount of effort it will take to build this, and how everyone's going to consume it.  However, the realization that the core of most of their problems is lack of data drives them to take the risk in building this out.  
+
+Demo Day arrives and everyone has been working long hours to complete their contributions to the Unicorn Project.  Everything is showcased without any incident.  The application to generate promotions is easy to use, the mobile platform gives you real-time promotions and allows you to see available parts and reserve them, and the suggested promotions based on their own profiles yield useful and spot on results.  Ops leadership is satisfied with what has been build and gives the green light to go live with it.
+
+#### Takeaways
+
+- Don't be afraid to pivot.  It can be argued that they may have been a bit too aggressive with some of the massive technology changes that they made but old problems won't be solved by the same solutions.  
+- Sometimes different problems require different solutions.  The Narwhal project as initially engineered primarily considered the API and worked well for that, however, Analytics and Promotions were not able to efficiently work in that system.  The event streaming bus enabled them to solve their problems.  The same data served up in 2 different ways.
+- Use the right tool for the right job.  Again, looking at the API needs vs the Analytics and Promotions team needs they both required different tools to enable them.  
+- Look for ways to test small scale.  Even with the successful Demo Day results they still weren't ready to unleash their new promotions on their entire customer base.  They took an approach that only exposed 1% of their customer base so they could test the viability of these new promotions ahead of the Black Friday rollout.
