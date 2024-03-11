@@ -349,7 +349,7 @@ It's also important to remember that the short term rewards should not be in con
 
 > A habit needs to be enjoyable to last!
 
-### Chapter 16 How to Stick with Good Habits Every Day
+### Chapter 16 - How to Stick with Good Habits Every Day
 
 In 1993 there was a 23 year old stockbroker in Canada named Trent Dyrsmid.  He used a system of moving 120 paperclips from one jar to another, each one tracking a sales call that he made whether it was successful or not.  This was his system for making sure that he consistently hit a target of making 120 calls a day.  This consistency helped him bring in $5M to the firm.  This strategy created a visual indicator on tracking his sales call habit.  Seeing a paper clip move from one jar to another was visual progress he had made towards his goal.
 
@@ -389,3 +389,17 @@ Habit tracking is useful when it drives the behaviors that the habit is meant to
 > - Charles Goodhart
 
 Measuring things is useful, but only when it creates context and guides your behaviors.  It's a piece of feedback to help us reach our goals, not the goal itself.
+
+### Chapter 17 - How an Accountability Partner Can Change Everything
+
+Roger Fisher proposed putting a nuclear launch code into capsules that would be embedded in chest of a human volunteer that the president would have to kill in order to get the code to fire a nuclear weapon.  The purpose was to force the president to confront death of an innocent person right in front of them to add weight to the decision of firing such a lethal weapon.  Ultimately it was not implemented as there was too much concern that the president would never use the weapons, even if it was necessary.  
+
+Making something immediately painful or difficult as the result of a decision or action is a strong motivator for preventing undesired behaviors.  The more local, tangible, and immediate a punishment is for engaging in a bad habit is the less likely you will be to engage in that behavior.
+
+#### The habit contract
+
+Laws are one of the many contracts that we collectively engage in.  Seat belts were first required by law in 1984 in NY when only 14% of people in The United States wore them, 30 years later that number had climbed to 88%.  There was a huge shift in public habit because you now have to pay a fine if you're caught driving without a seat belt.
+
+Bryan Harris from Nashville, TN implemented a habit contract with his wife and trainer.  If he didn't meet certain fitness goals he would be punished by having to dress up or give his personal trainer $200.  He created this contract to create personal pain anytime he didn't live up to his habits.  
+
+Another version of this could be asking someone to be an accountability partner with us.  Find someone that wants to build the same habit as you and keep each other honest.  There's a social contract to that whereby if you don't live up to your end of the agreement you lose social standing with your friend.  Perhaps they see you as less reliable or trustworthy as a result of you not following through with your agreement.  Thomas Frank has an automated tweet that goes off every morning at 6:10 AM if he doesn't wake up at his 5:55 AM alarm time and says that people can tweet back to claim $5 from him.  Whatever the form of the contract is, find a way to make your less desirable behaviors immediately painful for yourself. 
