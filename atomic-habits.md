@@ -403,3 +403,49 @@ Laws are one of the many contracts that we collectively engage in.  Seat belts w
 Bryan Harris from Nashville, TN implemented a habit contract with his wife and trainer.  If he didn't meet certain fitness goals he would be punished by having to dress up or give his personal trainer $200.  He created this contract to create personal pain anytime he didn't live up to his habits.  
 
 Another version of this could be asking someone to be an accountability partner with us.  Find someone that wants to build the same habit as you and keep each other honest.  There's a social contract to that whereby if you don't live up to your end of the agreement you lose social standing with your friend.  Perhaps they see you as less reliable or trustworthy as a result of you not following through with your agreement.  Thomas Frank has an automated tweet that goes off every morning at 6:10 AM if he doesn't wake up at his 5:55 AM alarm time and says that people can tweet back to claim $5 from him.  Whatever the form of the contract is, find a way to make your less desirable behaviors immediately painful for yourself. 
+
+### Chapter 18 - The Truth About Talent (When Genes matter and When They Don't)
+
+Michael Phelps is one of the greatest athletes in history has a frame uniquely suited to swimming with his long torso and arms.  Hicham El Guerrouj is a world class athlete in middle distance running with a short frame that has long legs.  Each one of these athletes has genes that pre-dispose them to being top level athletes in their sports because of their frames.  If they tried to cross over into each other's sports they likely would not have the same success.  Genes cannot be changed which makes them advantageous in certain circumstances but can be unfavorable in others.
+
+> Genes can predispose, but they don't predominate." 
+> - Gabor Mates
+
+The trick is finding habits where the odds are in your favor to give you a natural advantage.
+
+#### How your personality influences your habits
+
+Traits are driven by the genes that you have.  There are many genes and aspects of behavior but the most scientifically proven personality traits boil down to what they call the "Big Five".
+
+1. Openness to experience: from curious and inventive on one end to cautious and consistent on the other
+2. Conscientiousness: organized and efficient to easygoing and spontaneous
+3. Extroversion: outgoing and energetic to solitary and reserved (you likely know them as extroverts and introverts)
+4. Agreeableness: friendly and compassionate to challenging and detached
+5. Neuroticism: anxious and sensitive to confident, calm, and stable
+
+There's a version of almost every habit that will play into this personality traits.  Find the version that best fits with your personality traits and they will be more enjoyable and therefore more successful.
+
+#### How to find a game where the odds are in your favor
+
+If you pick the right habits progress can feel easy and effortless, but picking the wrong one can have the opposite effect and make progress feel like an uphill battle the entire time.  The most effective way to manage trying different habits is to use the explore/exploit trade-off.  When beginning a new activity you are exploring, test a wide range of ideas and cast a wide net.  
+
+After exploring for a bit change your focus to the best options you've found.  Keep trying new ideas occassionally but the balance depends on whether you're "winning" or "losing" at this new activity.  If you're winning then you should focus more on exploiting your current strategy whereas if you're losing you should trend more towards exploration.
+
+Google has a rule where they ask their employees to spend 80% of their work on the official job requirements and 20% on projects that they want to explore.  This has yielded a lot of incredible and market changing products such as AdWords and Gmail.
+
+Questions that you can ask yourself to hone in on the most satsifying habits for you:
+
+1. What feels fun to me, but work to others?
+2. What makes me lose track of time?
+3. Where do I get greater returns than the average person?
+4. What comes naturally to me?
+
+If you can't find a game that your particular set of personality traits is favored by then create your own.  For example, the Dilbert cartoonist, Scott Adams, isn't the best drawer or the funniest comedian.  However, when he combines those two skills with his personal experience in the corporate world he finds himself in a game that he is uniquely fitted to win at.  
+
+> Boiling water will soften a potato but harden an egg.  You can't control whether you're a potato or an egg, but you can decide to play a game where it's better to be hard or soft.
+
+### How to get the most out of your genes
+
+Finding, or even creating a game, where you win can be difficult.  But even finding that area that is uniquely suited to our personality doesn't mean that everything comes easy after that.  Just because we find the right "game" doesn't mean we'll be successful regardless of if we work at it or not.
+
+> Our genes do not eliminate the need for hard work.  They clarify it.
