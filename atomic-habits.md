@@ -449,3 +449,22 @@ If you can't find a game that your particular set of personality traits is favor
 Finding, or even creating a game, where you win can be difficult.  But even finding that area that is uniquely suited to our personality doesn't mean that everything comes easy after that.  Just because we find the right "game" doesn't mean we'll be successful regardless of if we work at it or not.
 
 > Our genes do not eliminate the need for hard work.  They clarify it.
+
+### Chapter 19 - The Goldilocks Rule: How to Stay Motivated in Life and Work
+
+Steve Martin got his start in Disney Land in 1955.  He worked selling guide books, then transitioning to the magic shop where he learned to tell jokes and do tricks and found out that he really enjoyed performing for people.  Over the years he developed small standup routines that would only last 2 to 5 minutes that he would perform to sometimes indifferent crowds that didn't even notice his presence or no crowd at all.  As he continued experimenting and practicing he was able to get regular spots on The Tonight Show and Saturday Night Live before finally rising to fame and selling tens of thousands of tickets for his shows.  In Steve's own words "10 years spent learning, 4 years spent refining, and 4 years as a wild success."
+
+That's a long time to stick with a habit!  How did he manage to keep up with it all of those years with only minor wins and successes?  When we are not challenged enough we get bored and quit, when we are challenged so much that we can't possibly see a path to success we get overwhelmed and quit.  The Goldilocks Rule is when we find the right amount of challenge in something that we enjoy and feel confident in.  Steve slowly expanded his comedy routine over time, keeping jokes that were sure to land and experimenting with new ones that had varying degrees of success.  During this time there were just enough successes to keep him motivated and moving forward.
+
+> When you're starting a new habit, it's important to keep the behavior as easy as possible so you can stick with it even when conditions aren't perfect.
+
+#### How to stay focused when you get bored working on your goals
+
+Sometimes developing a new habit will often lead to an early flourish of success.  The earliest results come easily and you are learning and advancing quickly.  However, at some point or another, everyone reaches a point where that slows or stagnates into boredom. 
+
+> At some point it comes down to who can handle the boredome of training every day, doing the same lifts over and over.
+
+People who are really successful at their habits run into the same lack of motivation that everyone else does.  They still find a way to push forward despite that boredom though which keeps the needle moving in the right direction.
+
+> The greatest threat to success is not failure but boredom.
+
