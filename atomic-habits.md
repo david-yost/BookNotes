@@ -468,3 +468,41 @@ People who are really successful at their habits run into the same lack of motiv
 
 > The greatest threat to success is not failure but boredom.
 
+### Chapter 20 - The Downside of Creating Good Habits
+
+Habits are what mastery is built upon.  However, as certain aspects of your habits become automatic you stop thinking about how to improve them. As you get solidified in the way you've been doing them you get used to it and stop noticing small mistakes.  You're not improving you're reinforcing.  If you want to maximize your potential you nee to improve upon the existing habits.
+
+> Habits + Deliberate Practice = Mastery
+
+#### How to review your habits and make adjustments
+
+- Career Best Effort (CBE) - finding a measure to track performance for a particular skillset and look for a way to improve whatever your baseline is by some measureable amount.
+- The key to tracking this in some way is finding a recording mechanism such as a "decision journal" that you can reflect on or a notepad that you can make notes on topics of success and failure for review at a later date.
+
+> Improvement is not just about learning habits, it's also about fine tuning them.
+
+James Clear employs 2 primary modes of reflection and review.
+1. Annual Review
+    - Reflect on the previous year
+    - Tally habits for the year (i.e. books read, workouts put in, etc.)
+    - Check in on progress with three questions:
+        1. What went well this year?
+        2. What didn't go so well this year?
+        3. What did I learn?
+2. Integrity Report
+    - 6 months after the annual review
+    - Revisit core values and ask if you've been living in accordance with them
+    - Measure status with these three questions:
+        1. What are the core values that drive my life and work?
+        2. How am I living and working with integrity right now?
+        3. How can I set a higher standard in the future?
+    - After this check in evaluate if you should take on new challenges, dial back efforts to focus on fundamentals, or keep moving in your current direction
+
+#### How to break the beliefs that hold you back
+
+When you start new habits sometimes forming a new self identity can help you enforce those positive habits.  However, the more strongly we tie our ideas to an identity the more strongly we defend it against criticism and it can become a blindspot.  It can prevent us from seeing when change needs to happen or be a crisis of identity for us if it's wrapped up in something temporary like a job.  Shift your focus to contain the aspects of your identity without tieing yourself to a specific thing.
+
+Examples:
+- "I'm an athlete" becomes "I'm the type of person who is mentally tough and loves a physical challenge."
+- "I'm a great soldier" transforms into "I'm the type of person who is disciplined, reliable, and great on a team."
+- "I'm the CEO" translates to "I'm the type of person who builds and creates things."
