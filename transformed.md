@@ -98,3 +98,51 @@ A strong product company has a compelling product vision and an insight-based pr
 - Prototypes to test ideas in product discovery should be at least one order of magnitude less expensive than using engineers to build, test, and deploy.
 - It is much more difficult to take responsibility for solving problems than to just build what features/projects are put in front of you.
 - Outcome-based roadmaps can be useful in forcing you to think about solving problems isntead of delivering features.  To do this you look at the outputs on a roadmap, figure out what problem each thing is hoping to solve and what the measure of success is.  This shifts you from features and dates focused roadmap discussions and to problems you need to solve and the outcomes you need to meet to solve them.
+
+### Chapter 9 - Changing How You Decide Which Problems To Solve
+
+- Moving from feature roadmaps to outcome roadmaps is a step in the right direction, but are they the most important probles to be solved for our company and our customers?
+- Changing how you decide which problems to solve is the third dimension of movign to the product model.
+- Product vision is describing the future you're trying to create.
+- "The main thing is to keep the main thing the main thing." - Jim Barksdale, CEO
+- "If you chase two rabbits, you will not catch either one." - Russian proverb
+- Good product strategy is a force multiplier, and in a company with good go-to-market strategy and/or business strategy but not product strategy you cannot operate in the product model properly.
+- There is not one right way to build products, the product model is a conceptual model and not a prescription or process with steps that guarantee success.
+
+## Part III - Product Model Components
+
+- Product teams exist to solve hard problems for your customers and for your business, in ways your customer love, yet work for the business.
+- A challenge that can be a pitfall is implementing the new titles for a product model without learnign the core competencies that come with it.
+
+#### Product Managers, Product Designers, and Engineers
+
+To discover effective solutions for you product the team must address four different risks:
+1. Value risk - Will the customer buy or solution or choose to use it?
+2. Viability risk - Will this solution work for our business?  Is it something we can effectively and legally market, sell, service, fund, and monetize?
+3. Usability risk - Can users easily learn, use, and perceive the value of the solution?
+4. Feasability risk - Do we know how to build and scale this solution with the staff, time, technology, and data we have?
+
+- Product Manage - responsible for the value and viability risks and achieving the targeted product outcomes.
+- Product Designer - resxponsible for the usability risk and product experience.
+- Tech Lead - responsible for the feasibility risk and product delivery.
+
+#### Product Leaders
+
+- These are the managers of product management, product design, and engineering.
+- They are responsible for ensuring that the product organization is aligned witht he larger company in pursuing the best opportunities and addressing the most serious threats.
+- If you don't have these people in place you should first hire them before starting your transformation.
+
+### Chapter 10 - Product Mangers
+
+- This is the most difficult competency to establish in a company trying to transform.
+- One of the reasons this role is so messy is because it likely exists in a non-product model organization with different competencies and responsibiliities.
+- A deep understanding of the users and customers is necessary to asses "value" and a solid understanding of the business is necessary to asses "viability".
+- A clear sign that the product team doesn't have a competent product manager is the need to escalate decisions to a manager or a group of stakeholders.
+
+Here are 2 candid realities to set the expectation for the level of skill a product manager should have:
+1. Your head of product will be judged by his/her weakest product manager.
+2. Your CEO should believe that each of your product managers has the potential to be a future leader of your company in the next five or so years.
+
+- The product model collapses when you do not hold your product managers to a high enough bar, the team is missing needed cross-functional skills, the stakeholders don't trust the team, and the product teams can't deliver desired outcomes.
+- In order to be successful, a product manager needs unencumbered access to three consituencies; users and customer, product data, and business stakeholders
+- Produc thought leader Shreyas Doshi refers to true domain expertise as domain knowledge minus domain dogma.
