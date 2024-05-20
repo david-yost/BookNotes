@@ -122,7 +122,7 @@ To discover effective solutions for you product the team must address four diffe
 3. Usability risk - Can users easily learn, use, and perceive the value of the solution?
 4. Feasability risk - Do we know how to build and scale this solution with the staff, time, technology, and data we have?
 
-- Product Manage - responsible for the value and viability risks and achieving the targeted product outcomes.
+- Product Manager - responsible for the value and viability risks and achieving the targeted product outcomes.
 - Product Designer - resxponsible for the usability risk and product experience.
 - Tech Lead - responsible for the feasibility risk and product delivery.
 
@@ -146,3 +146,7 @@ Here are 2 candid realities to set the expectation for the level of skill a prod
 - The product model collapses when you do not hold your product managers to a high enough bar, the team is missing needed cross-functional skills, the stakeholders don't trust the team, and the product teams can't deliver desired outcomes.
 - In order to be successful, a product manager needs unencumbered access to three consituencies; users and customer, product data, and business stakeholders
 - Produc thought leader Shreyas Doshi refers to true domain expertise as domain knowledge minus domain dogma.
+
+### Chapter 11 - Product Designers
+
+> "Design is not just what it looks like and feels like.  Design is how it works." -Steve Jobs
