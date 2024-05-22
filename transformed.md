@@ -123,7 +123,7 @@ To discover effective solutions for you product the team must address four diffe
 4. Feasability risk - Do we know how to build and scale this solution with the staff, time, technology, and data we have?
 
 - Product Manager - responsible for the value and viability risks and achieving the targeted product outcomes.
-- Product Designer - resxponsible for the usability risk and product experience.
+- Product Designer - responsible for the usability risk and product experience.
 - Tech Lead - responsible for the feasibility risk and product delivery.
 
 #### Product Leaders
@@ -150,3 +150,198 @@ Here are 2 candid realities to set the expectation for the level of skill a prod
 ### Chapter 11 - Product Designers
 
 > "Design is not just what it looks like and feels like.  Design is how it works." -Steve Jobs
+
+- Out of all of the design skills (service/interaction/visual/industrial), the most important for a product designer is proven interaction design knowledge and skills.
+- Product designers are not just there to "make things pretty", they are there to help discover an effective solution!
+- Not only do designers create experiences, but they intentionally design changes to those experiences.
+- The skill level required for a good product designer in the product model should be on par with a product manager or engineer and compensated as such.
+
+### Chapter 12 - Tech Leads
+
+- The tech lead is an individual contributor, not an engineering manager.
+- There are 2 dimensions that engineers are different in the product model versus others.
+    1. Tech leads are much more involved in managing technical debt, performance, fault tolerance, scalability, etc.  Product engineers are not invested in these typically.
+    2. Tech leads are invested in determining and building the right solution for the problem, not just implementing solutions that the product manager gives them.
+- Engineers have to care just as much about what they build as how they build it.
+
+> "If the tech lead is unable or unwilling to engage in product discovery, then you are very likely guaranteeing that the eventual product will not achieve your goals."
+
+### Chapter 13 - Product Leaders
+
+> "What gets in the way of good work?  There are only two possibilities.  The first is that people don't know how to do good work.  The second is that they know, but they aren't motivated." - Andy Grove, legendary CEO
+
+#### Coaching
+- It is the single most important responsibility of every people manager to develop the skill of their people.
+- People within the organization should report to someone that is an expert in their craft, engineers to engineers, designers to designers, etc.
+- How much time you spend coachign your people varies by the number and experience of their reports, but it's normal for first-level managers to spend 80% of their week on staffing and coaching.
+
+#### Staffing
+- Staffing includes sourcing, recruiting, interviewing, onboarding, evaluating, promoting, and replacing (when needed) members of the team.
+- Doing this well take a lot of time and effort, can be difficult, and is likely not the type of product work you prefer to do.
+
+> "Setting the bar high in our approach to hiring has been and will be the single most important element of Amazon's success." Jeff Bezos
+
+#### Leadership
+- You can leader a product organization by either command and control or by empowering the teams.
+- Command and control means you are explicitly telling your team what to do, usual through a roadmap of projects and features.
+- Empowering teams means you assign them business or customer problems to solve and let them determine how they're going to solve them.
+- Pushing decisions down to the product team requires providing context, particularly on the product vision and strategy, to ensure they have the needed info to make good decisions.
+- Product leaders are responsible for product vision, team topology, product strategy, and team objectives.
+
+#### Product Vision
+- The product vision describes the future you are tryuing to create as well as, most importantly, how the vision improves the lives of your customers.
+- This is a shared goal of the product organization and usually has a time line that stretches forward between 3 and 10 years.
+- The product vision is more art than science and is meant to persuade and inspire.
+
+#### Team Topology
+- This is how you define the responsibilities and ownership of the different product teams within the organization.
+- Teams often have a topology that was unintentional and a reflection of the organization via Conway's Law (an anti-parttern for product operating model)
+- Creating an effective team topology is crucial to success, but can be difficult and requires collaboration and negotiation with the heads of product, design, and engineering.
+
+#### Product Strategy
+- Product strategy describes how you plan to accomplish the product vision and meet the needs of the business along the way.
+- This helps to get the most out of whatever product teams you have.
+- The output of the product strategy is what business/customer problems you will solve.
+
+#### Team Objectives
+- Each team must have one or two clear objectives that are clear and can be executed (typically within a quarter)
+- These objectives typically come directly from the product strategy and are a manifestation of the insights being turned to actions.
+- The litmus test of empowered teams is if they are able to decide how to solve the problem objectives they have been assigned.
+
+#### Ongoign Evngelism
+- Communicating all of the things in this chapter across the organization.
+- Doing this consistently requires constant communication in recruiting, onboarding, 1 on 1s, coaching, and company wide meetings.
+- In each example studied in TRANSFORMED the CEO made sure to have strong leaders of product management, design, and engineering.
+
+### Chapter 14 - Innovation Story: Almosafer
+
+- Almosafe is a travel and tourism company based in the Kingdom of Saudi Arabia.
+- They started their transition to product model in 2018 to provide better regional service in their industry than the global services.
+- This allowed them to build skills in continuously interviewing customers to identify unmet needs, collect and analyze data, and prototype and test ideas based on their findings.
+- During COVID travel was crippled but in the need to gather in outdoor spaces with more room to spread out they found a niche in helping solve a new problem which was helping customers find and book istirahas (technically translates to resting place but is typically a large outdoor courtyard or other outdoor area).
+
+## Part IV - Product Model Concepts
+
+- These are product model concepts that you need to get right, one way or another, otherwise your transformation will likely collapse.
+
+#### Product Model First Principles
+These principles are the common beliefs of all product companies that operate well with this model, regardless if if they started that way or transformed to product model at some point.  Understanding these principles will also help evaluate processes, techniques, roles, and team members to know if they will be helpful or harmful in this product operating model.
+
+#### Product Model Concepts
+- Product Team - The foundation of the product operating model, these teams must be cross-functional.
+- Product Strategy - Driven by insights that come from a strong and inspiring product vision.
+- Product Discovery - This is how the product teams discover which solutions are worth building.
+- Product Delivery - How product teams consistently, quickly, and reliably build solutions.
+- Product Culture - Making sure the teams are experimenting and innovating to find solutions that work for the business and customers.
+
+### Chapter 15 - Product Teams
+
+- Empowered, cross-functional product teams are fundamental to the product operating model and it's where effective product innovation comes from.
+
+#### Principle: Empowered with Problems to Solve
+
+> "An empowered product team exists to solve problems in ways that your customers love, yet work for your business."
+
+- A team is empowered when they are assigned a problem to solve, not a list of projects and features to build.
+- Beign cross-functional means team members on the team can cover each of the product competencies necessary to come up with solutions.
+- The product triad or troika is the product manager, product designer, and tech lead.
+
+#### Principle: Outcomes over Output
+
+> "At the end of the day, you know that unless the customer believes your new solution solves their problem sufficiently better than what they've been using, you fail."
+
+- These teams are created to efficiently solve problems, not ship features that will never be used.
+- At times, teams looking at data find that the best way to improve outcomes might be to actually remove functionality.
+
+#### Principle: Sense of Ownership
+
+> "If you want the product team to truly feel empowered and accountable, then you need them to feel a real sense of ownership over what they're responsible for."
+
+- Each team needs to be responsible for something meaningful, whether it's a stand alone product or a subset of a much larger product.
+- Teams need to be responsible for coming up with solutions for assigned problems and delivery of those solutions.
+
+#### Principle: Collaboration
+
+- Collaboration does not mean; product manager defines requirements, designer creates a design that meets those requirements, engineers build that design/feature as part of a sprint.
+- Collaboration does not mean consensus or democracy, which is why it's important to practice "disagree and commit".
+- Typically you defer the decision to the topic expert but in the case of a strong disagreement it's best to run a test.
+- Collaboration is not about product managers creating artifacts, often times this is referred to as a requirement which ends the conversation and moves the discussion to implementation.
+- Collaboration is not about compromise, a mediocre user experience, slow performance, and limited scalability you lose as a team.
+- True collaboration is everyone bringing their skillset to the table to solve problems together and challenge each other's ideas.
+- Designers have a deep understandign of the users and their behaviors.
+- Engineers have deep insights into the enabling technology.
+- Product managers have a deep understanding of the customers and the business.
+- Collaboration means all product roles working together to come up with a solution that solves for all constraints.
+
+### Chapter 16 - Product Strategy
+
+> "If product teams are all about solving hard problems, then product strategy is all about how you decide which problems are most important to solve."
+
+#### Principle: Focus
+
+> "People think focus means saying yes to the thing you've got to focus on.  But that's not what it means at all.  It means saying no to the hundred other good ideas that there are.  You have to pick carefully.  I'm actually as proud of the things we haven't done as the things I have done.  Innovation is saying no to 1,000 things." - Steve Jobs
+
+- It's important for the product leaders to be transparent and not be perceived as having an agenda.
+- Often, it's best for the CEO to select 2 or 3 of the most important goals to pursue, then the product leaders can focus on executing on those objectives.
+
+#### Principle: Powered by Insights
+
+> "Insights provide the leverage points that show you how to concentrate your efforts."
+
+Primary source for insights:
+1. Analyzing the data - How are your customers buying or using your products and is it changing over time?
+2. Talking to your customers - What do they use today, what context can they share, what would it take for them to switch?
+3. New enabling technologies - What can engineers solve today that they couldn't before?
+4. The broader industry - What are competitors doing, what are trends, how are expectations changing?
+
+- Product leaders should agreggate these insights and analyze them to help the product team come up with solutions.
+
+#### Principle: Transparency
+
+- Product leaders must be open and honest about sharing the reasoning and data behind the product strategy decisions they're making so the stakeholders aren't led to believe that they're pursuing their own agenda.
+- Often times product leaders will need buy-in from different stakeholders in the organization.
+- The benefit of this transparency is that the rationale for the product strategy is clear and the organization is aligned.
+
+#### Principle: Placing Bets
+
+- Even with the best product teams and leaders not every product will solve every problem every quarter like clockwork.
+- Problems come in a variety of shapes and sizes and are being solved by teams with different levels of skill.
+- If you have a critical problem to solve you can assign multiple product teams to solving it with the hopes that even one will yield significant progress on the business objectives.
+
+### Chapter 17: Product Discovery
+
+> "Product teams are responsible for both figuring out the best solution to the problems they've been asked to solve (product discovery), and then building and delivering those solutions (product delivery)."
+
+#### Principle: Minimize Waste
+
+> "The first principle in product discovery is to try to solve the problem with a minimum amount of wasted time and effort."
+
+- The majority of solutions built (generally 70 to 90 percent) end up not delivering the necessary business results.
+- Failure to deliver results is not only costly from an engineering hours spent perspective but also from an opportunity cost perspective.
+- The key behind product discovery is testing out ideas quickly and finding solutions worthy building so you can get that solution to market.
+
+#### Principle: Asset Product Risks
+
+There are 4 primary risks in building products:
+- Value Risk: Does it provide the necessary value to customers for them to choose it?
+- Usability Risk: Can users figure out how to use it or is it too confusing?
+- Viability Risk: Are there things preventing us from building it such as legal, cost, lack of market, etc.?
+- Feasibility Risk: Can we actually build this product or will it take too long or are there other limiting factors?
+
+> "Some problems you're working on have very minor risks, and others have several very major risks.  But every effort has risks that you need to consider."
+
+- Assess the risks before you decide to build anything.
+
+#### Principle: Embrace Rapid Experimentation
+
+- Experimentation is necessary to know if customers would be able to learn and use something.
+- A culture that embraces experimentation helps address risk and is central to innovation.
+- Disagreements are common, and even a good sign, in the product model and experimentation helps resolve those disagreements with data instead of argumentation.
+- Having team mates with skills in analyzing both qualitative and quantitative data will help validate the outcomes of these experiments.
+- Building products with instrumentation is key to creating the datasets that allow this analysis to better inform decisions, without it we're flying blind.
+
+#### Principle: Test Ideas Responsibly
+
+- Small companies may be able to move quicker than larger companies but might lack the amount of traffick to generate meaninful results from an experiement.
+- Larger companies may have more traffic, but if they are not correctly instrumenting their applications they will lack the data needed to inform decisions which is a necessary change.
+- Larger companies also have a lot more to lose and should assess the risks, run experiments, collect data, and iterate quickly while making sure to protect things like: company revenue, reputation, customers, and your coleagues.
