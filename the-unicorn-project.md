@@ -355,3 +355,38 @@ Next, Maxine finds herself waiting with Debra, the director of sales, for the op
 - Don't let key person bottlenecks (or the lack thereof) prevent you from moving forward.  When Maggie was reassigned the day of the innovation pitches the team could have easily given up on the innovation pitches but Maxine stepped up and moved it forward.  The lack of a key person shouldn't prevent progress.
 - Just because something doesn't fail spectacularly doesn't mean a post mortem isn't valuable.  The team still took the time to ask critical questions about challenges that they can smooth out or near misses that they can better prepare for in future promotions.
 - What is a true MVP?  We don't need everything buttoned up to test the viability of an idea.  We can bridge gaps with manual steps or find temporary work arounds as needed.  The key is seeing if an idea is actually viable enough to invest in as a longer term strategy.
+
+### Chapter 19 - Tuesday, January 13
+
+#### Summary
+
+Steve announces via email that Sarah is taking a leave of absence from the company and Maggie is assuming her responsibilities.  In a response email from Alan it's revealed that Sarah never bought into the vision for the Parts Unlimited future which is why she was let go.
+
+At the next town hall Maggie is congratulated for her promotion and all she's achieved.  Her presentation thanks everyone involved in the Phoenix Project and specifically gives shout outs to Kurt and Maxine.  She then gives a presentation on the graphs showing the incredible performance that was a result of all of the hard work.  After concluding that section Steve takes back over to announce the winners of the Innovation Contest and each of the winning teams gets to give a 5 minute presnetation to share what they've done already and what they're planning.  Once the presentations conclude Steve wraps up by emphasizing the investment on innovation and the embrace of the Horizons 1, 2, and 3 approach for pursuing that innovation and then he announces Bill's promotion to CIO.  
+
+Town halls have been increased to monthly instead of every other month and the in between months now are mostly quick announcements and Q&A.  At the first one they announce a new Teaching Thursdays that Maxine will be heading up as an effort to push the company to be a learning focused organization.  Every week, each person in the company will spend 2 hours learning or teaching something.  Maxine remembers how challenging adult learning can be because adults are often embarassed of being seen doing something they're not good at.
+
+A couple of weeks later they are able to retire all of the old Kumquat servers and have a ceremonial bashing of them in a parking lot to give them a proper send off.  The team takes turns with a sledge hammer taking out years of frustration on them until everyone feels sufficiently satisfied.
+
+A few weeks after that, at a Dockside meeting of the Rebellion the team is talking about the engine sensors that they are buidling software around and they are reflashing the devices to send telemetry data to their own data ingestion pages because the manufacturer portal is garbo.  They convince Maxine to join their team to help them finish the work they've started and Maxine gets backfilled by someone from her old MRP team.
+
+In the next town hall Steve reviews his usual corporate mission and status updates.  Then Maggie shares recent updates from the Innovation Council.  Some projects don't yield the results they were looking for while other succeed or even exceed the level of expectations they had going in.  The engine sensor team steals the show with how successful they have been and announce that they will have the sensor on sale by the May town hall.  In that town hall Maggie shares that they have successfully garnered a partnership with the sensor manufacturer and they are already seeing great success with all kinds of customer segments that they didn't even expect and they are constantly running experiments to see how they can bring value to these new customers.
+
+Maxine thinks about everything that's been accomplished since her "exile" to the Phoenix Project.  There is a lot to reflect on from creating collaborative processes, to modernizing tech stacks and processes, there is no shortage of great things that they have accomplished.  The next thing on the list to retire, the servers for the MRP system she used to work on herself.  Later this year she will take a sledgehammer to those as well as they bid them retirement.
+
+#### Takeaways
+
+-  How can we encourage a culture of learning.  As Maxine called out, learning new things can be at times embarassing for adults because they don't like to seem bad at something.  How can we take away the stigma of learning as an adult and make it commonplace in what we do every day?
+- Celebrate when you achieve something big!  Getting off of the Kumquat servers was no small feat and required a lot of time and effort.  They marked that investment with a send off in the parking lot with the servers and a hammer.  
+- Not everyone will buy into the vision.  Sarah obviously had a different perspective on the future of Parts Unlimited.  Not everyone will align with the vision of the organization and making sure the right people are in the right roles and bought into the vision is important.  Are our leaders bought in?
+- Innovation is key, taking stock of that innovation is also important, doubling down on successful ones and abandoning duds is how to make innovation drive your product.  Don't cling to ideas that aren't working and don't discount ideas that haven't been vetted yet.
+
+### Epilogue - One Year Later
+
+After another town hall we find out that the company has maintained it's path and is continuing to succeed and grow.  The company is allowing some of their non-IP software to be turned into open source projects which is also startign to attract some top talent to the company.  Maxine was also successful in lobbying to disband the TEP and the LARB and received a "Lifetime Achievement Award" certificate to mark the occassion.
+
+The engine sensors project has been a runaway success and the four hour delivery team is getting ready to be transitioned to a Horizon 2 business within Parts Unlimited.  There is also a competitor that is losing in the marketplace to the Parts Unlimited innovation and are now shopping themselves around to be acquired.
+
+Later at the Dockside the Rebellion is enjoying the new patio bar for one of their get togethers.  She thinks about how refering to this group as the Rebellion still seems a bit anachronistic because they are no longer a small group of rebels trying to affect change from within, they have achieved their goals beyond their wildest dreams.  Maxine was also told that she's being promoted to the first distinguished engineer position in the company and will be reporting directly to Bill.  She will get to create a culture of engineering excellence and work with company leadership to help create goals and strategy.
+
+A number of other people have moved into new roles as well as the organization has changed to better suit the new mode of operating.  Maxine gives a toast to the "Rebellion" and they all celebrate that they have successfully overthrown the old and unjust order that previously ran the Parts Unlimited IT department.  Everyone is optimistic about the future of Parts Unlimited and the growth ahead of them.
