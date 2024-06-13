@@ -342,6 +342,38 @@ There are 4 primary risks in building products:
 
 #### Principle: Test Ideas Responsibly
 
-- Small companies may be able to move quicker than larger companies but might lack the amount of traffick to generate meaninful results from an experiement.
+- Small companies may be able to move quicker than larger companies but might lack the amount of traffick to generate meaningful results from an experiment.
 - Larger companies may have more traffic, but if they are not correctly instrumenting their applications they will lack the data needed to inform decisions which is a necessary change.
-- Larger companies also have a lot more to lose and should assess the risks, run experiments, collect data, and iterate quickly while making sure to protect things like: company revenue, reputation, customers, and your coleagues.
+- Larger companies also have a lot more to lose and should assess the risks, run experiments, collect data, and iterate quickly while making sure to protect things like: company revenue, reputation, customers, and your colleagues.
+
+### Chapter 19: Product Delivery
+
+> Reliability is our most important feature.
+
+#### Principle: Small, Frequent, Uncoupled Releases
+
+- At a minimum product teams should be releasing every other week, strong product teams release multiple times a day.
+- The two main aspects you must test for releases are new feature functionality and regression.
+- "Big Bang" releases are prone to delays because of the nature of integrating and testing hundreds or thousands of changes and the problems then cause when pulled together and are often plagued by defects after the fact.
+
+> High Integrity Commitments - When you need to deliver a specific thing on a specific date, usually due to some sort of outside constraint like a partner relationship or a marketing campaign.  These date should not be set by anyone other than the people responsible for doing the work and often times it's best to create a feasibility prototype before committing.
+
+#### Principle: Instrumentation
+
+- Instrumentation is key at every level to understand the health and usage patterns of your system, otherwise you're flying blind.
+- Good analytics and instrumentation can help you solve issues or spot user struggles without needing someone to report them.
+- Understanding how your products are used and what improvements you need to drive is something that's never done and is always improving.
+
+#### Principle: Monitoring
+
+- Monitoring, also known as observability, happens at all levels and helps ensure your application is behaving correctly.
+- This helps you surface system errors or issues often before customers really notice them.
+- It's important to note that with both instrumentation and monitoring you need to be sure that no sensitive data is being logged.
+
+#### Principle: Deployment Infrastructure
+
+- Using infrastructure to A/B test new functionality is considered the "gold standard" for validating if a new feature has the desired effect or not, but depends on significant levels of traffic to be effective.
+- Product teams that are doing this often run hundreds of tests simultaneously.
+- It is not uncommon, given each companies unique and special needs, to have a combination of commercial and customer infrastructure to support their specific use cases.
+
+> Technical Deb - Usually the result of acquisitions where you inherit the technical debt of an existing application or the fallout from older style project based funding for projects that don't think holistically about long term support or improvements.  The symptoms are work that should take days will take weeks or months.  The product model allows the teams to focus on improving this over time.  To get a good handle on tech deb you need to work on it daily, with about 10 to 30 percent of your engineering capacity.
