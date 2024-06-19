@@ -346,7 +346,7 @@ There are 4 primary risks in building products:
 - Larger companies may have more traffic, but if they are not correctly instrumenting their applications they will lack the data needed to inform decisions which is a necessary change.
 - Larger companies also have a lot more to lose and should assess the risks, run experiments, collect data, and iterate quickly while making sure to protect things like: company revenue, reputation, customers, and your colleagues.
 
-### Chapter 19: Product Delivery
+### Chapter 18: Product Delivery
 
 > Reliability is our most important feature.
 
@@ -377,3 +377,52 @@ There are 4 primary risks in building products:
 - It is not uncommon, given each companies unique and special needs, to have a combination of commercial and customer infrastructure to support their specific use cases.
 
 > Technical Deb - Usually the result of acquisitions where you inherit the technical debt of an existing application or the fallout from older style project based funding for projects that don't think holistically about long term support or improvements.  The symptoms are work that should take days will take weeks or months.  The product model allows the teams to focus on improving this over time.  To get a good handle on tech deb you need to work on it daily, with about 10 to 30 percent of your engineering capacity.
+
+### Chapter 19: Product Culture
+
+#### Principle: Principles over Process
+
+> "Good process serves you so you can serve customers.  But if you're not watchful, the process can become the thing.  This can happen very easily in large organizations....The process is not the thing.  It's always worth asking, do we own the process or does the process own us?" - Jeff Bezos
+
+> "That's what makes great products.  It's not process; it's content...The system is that there is no system.  That doesn't mean we don't have process...But that's not what it's about." - Steve Jobs
+
+> "The reason Netflix has been so successful is because it has a culture that values people over process.  Emphasizes innovation over efficiency, and has very few controls." - Reed Hastings
+
+> "Process is great when you live in a world where both the problem and solution are known.  Process helps ensure that you can deliver solutions that scale without breaking other parts of the organization...These processes reduce risk to an overall organization, but each layer of process reduces the ability to be agile and lean and-most important-be responsive to new opportunities and threats." - Steve Blank
+
+- Process is not inherently bad, however if you're not careful, managers coming in from companies with their own processes and culture can inadvertently create barriers for a company trying to optimize for innovation.
+- When trying to correct from a mistake, it's more empowering to provide coaching instead of imposing new process to prevent he mistake in the future.
+- Don't become religious about process, always practice continuous process improvement.
+
+#### Principle: Trust over Control
+
+- Empowering product teams and providing a list of problems to solve is at the heart of moving from command-and-control to the product operating model and requires trust.
+- Moving from micromanagement to servant-based leadership with a focus on active coaching is required.
+- Leading with context rather than control is key to being successful.
+
+#### Principle: Innovation over Predictability
+
+> "100% predictability = 0% innovation." - Henrik Kniberg
+
+- Companies that focus on predictability, or the number of features they ship often lack innovation as a result.
+- Predictability focused companies say that it's the stakeholder's job to make sure valuable features are shipped.
+- Predictability is good, but not as important or necessary as innovation.
+- The best way to handle occasional predictability needs is with high-integrity commitments.
+- Ironically, product teams usually have a faster time-to-money than time-to-market because they already have context, relationships, and platform knowledge that lets them engage much faster than project teams.
+- Is a date the priority or is the outcome?  Hitting a date can be a priority but it should be the exception not the rule.
+
+#### Principle: Learning over Failure
+
+- A deeply rooted fear of failure drives people and process to avoid risk.
+- We should not glamorize failure but everything should be looked at as an opportunity to learn.
+- Experiments never fail, they only provide information with which a product team can learn.
+
+### Chapter 20: Innovation Story: Carmax
+
+- Company background - The company realized it needed to disrupt itself to stay relevant, especially in the technology space.  The company's consumer facing digital experience was the focus of the Carmax transformation at the hand of Ann Yauger.  This proved to be very successful and generated a lot of powerful innovations in the used car buying experience that made the company a leader in the used car buying and selling space.
+
+- The problem to solve - The restrictions imposed by the pandemic meant that selling in person was not only much more challenging from a regulatory standpoint, but customers were tending not to shop in person anymore.  Carmax had already been exploring an omnichannel sales path which would allow purchasing a car on the web or mobile app possible.  The pandemic made this mission critical for the companies survival.
+
+- Discovering the solution - They needed to not only provide a way for customers to interact with sales associates virtually, but also had to handle the logistics of purchasing a car which includes getting approved for financing, digitally signing contracts, arranging work orders, delivery or pickup scheduling, etc.  In addition to this they had to build out all of the tooling to allow trade-ins and provide a way to get an accurate state of the trade-in car without ever seeing it in person.  
+
+- The results - They not only recovered the lost revenue from the beginning of the pandemic and more, but they also set themselves apart as one of the only automotive sellers that could provide a reliable car buying and selling processing completely online.  Additionally, Carmax hs earned a reputation as one of the best places to work for product and technology talent.
