@@ -426,3 +426,16 @@ There are 4 primary risks in building products:
 - Discovering the solution - They needed to not only provide a way for customers to interact with sales associates virtually, but also had to handle the logistics of purchasing a car which includes getting approved for financing, digitally signing contracts, arranging work orders, delivery or pickup scheduling, etc.  In addition to this they had to build out all of the tooling to allow trade-ins and provide a way to get an accurate state of the trade-in car without ever seeing it in person.  
 
 - The results - They not only recovered the lost revenue from the beginning of the pandemic and more, but they also set themselves apart as one of the only automotive sellers that could provide a reliable car buying and selling processing completely online.  Additionally, Carmax hs earned a reputation as one of the best places to work for product and technology talent.
+
+## Part V - Transformation Story: Trainline
+
+- KKR, a private equity company, purchased Trainline because it believed it was undervalued.
+- They hired a successful technology leader, Clare Gilmartin, in as a new CEO who brought along Mark Holt as the experienced CTO and Jon Moore as the company's first Chief Product Officer.
+- The had to replace outsourced engineers with FTE's, migrate their infrastructure from on-premises to the cloud, address mountains of technical debt, and speed up their release cadence from the 8 weeks they started at.
+- They created a weekly Friday afternoon meeting called "Weekly Wins" to discuss and debate progress.
+- They decided to focus on tow critical core problems: mobile app usage and site conversion.
+- They built a highly skilled mobile team that set a quick pace and with strong recruiting and coaching were able to achieve significant business outcomes which were quickly and often celebrated by leadership.  Other teams soon followed the example set by the mobile team.
+- A data science team was created to organize their data and mine key insights from it to further improve user experiences.
+- Hack Days were implemented and a single engineer decided to solve the long standing customer problem of finding less crowded train cars which turned out to be wildly successful.
+- By bringing on a team to interview different cohorts of customers they were able to find seven major cross cutting problems that they needed to solve which they termed the "Super Seven".  This concerns were soon validated by the data they had from their users and they had new focused problems to work.
+- Only 2 years after being acquired by KKR for 500M pounds, the company was valued at just over 2B pounds.
