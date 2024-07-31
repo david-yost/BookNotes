@@ -433,9 +433,93 @@ There are 4 primary risks in building products:
 - They hired a successful technology leader, Clare Gilmartin, in as a new CEO who brought along Mark Holt as the experienced CTO and Jon Moore as the company's first Chief Product Officer.
 - The had to replace outsourced engineers with FTE's, migrate their infrastructure from on-premises to the cloud, address mountains of technical debt, and speed up their release cadence from the 8 weeks they started at.
 - They created a weekly Friday afternoon meeting called "Weekly Wins" to discuss and debate progress.
-- They decided to focus on tow critical core problems: mobile app usage and site conversion.
+- They decided to focus on two critical core problems: mobile app usage and site conversion.
 - They built a highly skilled mobile team that set a quick pace and with strong recruiting and coaching were able to achieve significant business outcomes which were quickly and often celebrated by leadership.  Other teams soon followed the example set by the mobile team.
 - A data science team was created to organize their data and mine key insights from it to further improve user experiences.
 - Hack Days were implemented and a single engineer decided to solve the long standing customer problem of finding less crowded train cars which turned out to be wildly successful.
 - By bringing on a team to interview different cohorts of customers they were able to find seven major cross cutting problems that they needed to solve which they termed the "Super Seven".  This concerns were soon validated by the data they had from their users and they had new focused problems to work.
 - Only 2 years after being acquired by KKR for 500M pounds, the company was valued at just over 2B pounds.
+
+## Part VI - The Product Model in Action
+
+This section talks about how product teams interacts with customers and other internal groups in an idealized sense.  It's important to consider that even in a great company with the best people things won't always go as you would like.
+
+### Chapter 21: Partnering with Customers
+
+- The product model relies on direct and frequent interaction between the product team and actual users.
+- If customers are dependent on your product they might hold on for as long as they can before jumping ship.
+- Customers can be receptive to changing the nature of the relationship if they think it means their needs will be met more frequently and not less.
+
+#### Promises
+
+Only the product team should make promises for deliverables and only when they know exactly what is required to deliver on that promise.  Not the executive team, sales, marketing, or anyone else.  This is known as a high-integrity commitment.
+
+### Chapter 22: Partnering with Sales
+
+- The most interdependent roles in a company exists between product and sales in most cases, assuming a sales team that is responsible to bring products to market exists in the organization.
+- Despite this natural interdependence, in non-product model companies they are often at odds with one another.
+- Salespeople collecting requirements from customers and delivering those requirements to the product teams is not part of the product model.
+- In order for product and sales teams to work well together it starts by developing trust through interacting with one another in front of existing and prospective customers.  Through these interactions product is able to see how sales navigates aspects of effective go-to-market and sales gets an understanding of how product can help find solutions that customers may not have thought of that solves their problems better than they anticipated.
+- Ultimately, the goal of this partnership is happy and referenceable customers.
+
+### Chapter 23: Partnering with Product Marketing
+
+- One of the closest partners for product teams is the product marketing manager (PMM) associated with the team.
+- The PMM is a key resource for product teams to understand markets and will often have access to industry analysts, market insights, competitive research, and more.
+- Perhaps the most important area of collaboration between the product team and their PMM is the go-to-market strategy and the PMM is there to help the team effectively get the product into the hands of customers.
+- Product teams will want to include their PMM in key product decisions to make sure they have an approach that aligns with their go-to-market strategy.
+- A customer discovery program is a collaboration between the product manager and PMM to work with prospective customers in the market and build a product that meets all of their needs.
+- The PMM should be aware of all new changes coming to the application so they can assess impact to customers, sales, and customer success teams.
+- The PMM should be responsible for pricing and packaging, partly because of their expertise, and access to specialty pricing firms, and partly because it's usually done at a higher granularity than the product team. 
+
+### Chapter 24: Partnering with Finance
+
+- The company depends on the product it sells, and product depends on finance.
+- Alignment is important, understanding the needs and constraints of the partner based on data rather than opinions.
+- Getting finance on board with the product model means explaining how the previous model has not been very predictive and can be illustrated by leaning on actual results from previous quarters.
+- Sometimes testing the product model with a team or small group of teams to demonstrate the value is the best way to prove it's usefulness.
+- Product and finance collaboration
+    1. Product teams stop hiding behind features and roadmaps
+    2. Product will be measured by business results
+    3. Signing up to solve a problem means determining what success looks like with business results
+    4. The team will admit what they don't know and run necessary testing to get data for informed business decisions
+    5. Requests will be presented with data and transparent analysis reasoning for that request
+    6. Instead of large funding request they will run low cost tests to gather data
+    7. When they company needs a date they will take the extra time to understand the problem and provide a high-integrity-commitment
+    8. The product team will provide evidence that these investments are paying off when they have the data
+
+- What product needs from finance
+    1. Rather than funding decisions being based on projects it should staff product teams with business results for one or more quarters and then be measured on business results.
+    2. New competencies will be developed whether that means coaching and training or hiring in new staff to replace existing.
+    3. Rather than judge the product team on shipping features it should be judged on business impact, which means giving the team room to test what features should be built and then measure the impact of those features.
+    4. Limit the amount of requested high-integrity-commitments because they are expensive to provide and disruptive to the organization.
+
+### Chapter 25: Partnering with Stakeholders
+
+- A stakeholder is not a member of the product team but represents a key constituency, business area, or expertise.
+- Although under the product model the team is no longer subservient to the stakeholders the trust between stakeholders and the product team is still highly important.
+- Creating products the customers love is not difficult, assuming you have access to customers and data, but doing so also meeting the needs of the business can be difficult.
+- A key to building trust with the stakeholders is making sure that a competent product manager is on each product team and can represent the various constraints of the business.
+- Working with stakeholders means giving them access to prototypes so they can make sure business constraints are met, allowing them to participate in testing with customers and users, and giving them access to data on the product.
+
+### Chapter 26: Partnering with Executives
+
+- Much of the product model transformation is focused on the product and technology teams, but it is also important to recognize the shift in how executives interact with these teams.
+- The biggest shifts needed are to provide the product teams with a deep understanding of the executive team's strategic context, and to provide the executive team with the information they need to run the business.
+- Here are a set of techniques to encourage effective interactions between the executives and the product leaders/teams:
+    1. Decisions should be made by the product leaders/teams and executives need to provide enough strategic context to them so they are empowered to make these decisions.
+    2. Product teams should not be measured on output, but rather on outcomes for the business problems they are assigned to solve by the executive team.
+    3. When disagreements arise, the product team is responsible for running experiments and collecting the necessary evidence, or where necessary, proof, in order to back up decisions.
+    4. Promises are the exception not the rules for product teams.  When they have to commit to a date, the product team will learn and understand what's involved and commit to a date that they can deliver by and meet that commitment.
+    5. Surprises should be avoided, whether that's the product team not informing executives of a decision or not giving them  access to review a prototype.  Likewise, if an executive reviews something and raises no issues until it's in production that is also a surprise that should be avoided.
+    6. Product teams and leaders must understand that they are empowered and operate with a degree of trust and they must strive to earn that trust.  They must also trust that the executives are leading the company in a positive direction.
+
+### Chapter 27: Innovation Story: Gympass
+
+- The company started in Brazil in 2012 with a mission to improve employee health and well-being.
+- They enabled companies to provide their employees with access to 50,000 gyms in 11 different countries.
+- In 2018 the company decided they needed to transform and hired an experienced product leader, Joca Torres, to help them build out their product organization and create tools with technology to automate many areas of the business.
+- When the pandemic hit in 2020 they faced an existential crisis because gyms were closing and when it was most important to fight inactivity as we were all locked indoors it was impossible to get to a gym.
+- Through their product discovery they had learned that many of their users were interested in wellness activities beyond gym-based fitness, such as, meditation, mindfulness, nutrition, and home-based exercise.
+- They team quickly developed a series of prototypes to address the risk of value and viability.
+- The company was able to roll out in 10 countries within four weeks and went from zero to hundreds of thousands of users in just a few months.
