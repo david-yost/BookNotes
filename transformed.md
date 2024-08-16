@@ -523,3 +523,7 @@ Only the product team should make promises for deliverables and only when they k
 - Through their product discovery they had learned that many of their users were interested in wellness activities beyond gym-based fitness, such as, meditation, mindfulness, nutrition, and home-based exercise.
 - They team quickly developed a series of prototypes to address the risk of value and viability.
 - The company was able to roll out in 10 countries within four weeks and went from zero to hundreds of thousands of users in just a few months.
+
+## Part VII - Transformation Story: Datasite
+
+- Merrill was a legacy company that was sales centric.  What was sold determined what got built and was subject to who the salesperson was and the organization didn't have a cohesive vision or direction overall.  Innovation was lacking as a result and competitors were popping up with better value offers.
