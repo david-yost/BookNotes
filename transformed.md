@@ -526,4 +526,62 @@ Only the product team should make promises for deliverables and only when they k
 
 ## Part VII - Transformation Story: Datasite
 
-- Merrill was a legacy company that was sales centric.  What was sold determined what got built and was subject to who the salesperson was and the organization didn't have a cohesive vision or direction overall.  Innovation was lacking as a result and competitors were popping up with better value offers.
+- Merrill was a legacy company that was sales centric.  
+- What was sold determined what got built and was subject to who the salesperson was and the organization didn't have a cohesive vision or direction overall.  
+- Innovation was lacking as a result and competitors were popping up with better value offers.
+- Teams were given features to implement and not empowered to improve their products, they were mercenaries that were subservient to the needs of the sales team.
+- The company had grown quite large not because of organic growth but through acquisition which coupled with a lack of strategic vision was missing core product focus.
+- Their transformation meant building an internal engineering competency and investing in product teams and people and not specifically funding projects.
+- They got rid of the "legacy roles" of product owner and business analyst, what would this look like for us?
+- When everything is important there are too many priorities and problems won't get solved because the team lacks focus.
+- The product vision needs to be big enough to last for years but the strategy should change as frequently as needed based on what is learned from the customers.
+- Merrill's transformation, and ultimately rebrand to Datasite, has allowed them to produce value for it's customers nearly every day and the company increased revenue by more than 30% in 2019.
+
+## Part VIII - Transformation Techniques
+
+- Depending on the size of the organization it can take 6 months to 2 years to transform.
+- The next set of chapters in this section are talking about tactics to help organizations transform to the product operating model.
+
+### Chapter 28 - Transformation Outcome
+
+- One of the primary focus shifts is that product teams are now accountable for results.
+- In order to shift to this results focused outcome the organization must develop all of these other skills that allow teams to be empowered and give them the insights and context to generate those results.
+- What do you hope to be able to do after transforming that you can't effectively do today?
+- You can't say what specific goals are because we don't know what opportunities will present themselves for the teams to be able to pursue.
+
+### Chapter 29 - Transformation Assessment
+
+- An experienced product coach can assess a business unit in as little as one day because they know what to ask to who and what to look for.
+- Some important caveats to keep in mind during an assessment are: 
+    1. Be realistic - No organization is perfect and just because certain areas are not operating ideally does not mean the organization as a whole is not operating in the product model.
+    2. Talk to all levels - Hearing something once doesn't mean it's gospel, some middle managers are surprisingly effective at obscuring information from top level leaders.
+    3. Look for evidence - Verify they're not just talking the talk by asking to see things like OKRs, product vision and strategy, or prototypes. 
+    4. Look below the surface - There's no one right way to do operate in the product model.  The most important consideration is if the organization is operating with product model principles.
+    5. Be kind - The assessment is not focused on assessing individuals, it's used to assess the particular model being used to produce products.
+
+#### High Level Assessment
+
+- How are products being built and deployed?  This area focuses largely on release cadence, inter-team dependency, instrumentation, and tech debt.
+- How are problems solved? This section focuses on how teams receive work, determine solutions, build those solutions, and validate that their solutions are having the desired effect.  Also, the question of does trust exist between the business and IT is here.
+- How do you decide which problems to solve? This area focuses on who decides what work gets done, what the nature of that work is (i.e. delivering features or solving problems), and how success is measured (i.e. tracking results of updates vs raw number of features delivered).
+
+#### The Detailed Assessment
+
+With the understanding of how the company produces its products it's time to shift to looking at the specific product competencies and concepts within the organization and start identifying gaps.
+
+- Product model competencies - Find out the overall size of the organization and what the rough numbers are of people in each role, which can be difficult since some roles have different titles or responsibilities and might need further details to determine where everyone is operating.
+- Product management - Making sure the organization understands the difference between a product manager for an empowered team, versus a product manager for a feature team, versus a product owner for a delivery team.
+- Product design - The three primary concerns here are: 1. Does the organization understand what a product designer is? 2. Does the organization have enough product designers for all of the product team's needs? 3. Are the product designers embedded in the teams?
+- Engineering - The goal is not to assess the entire engineering department, but primarily assess how the Tech Leads are operating on product teams.  Do they interact with customers and help decide what gets implemented, not just how?
+- Product Leadership - The product leadership should be engaged in helping product managers with strategic context and help them develop strategic vision and strategy for their teams with weekly coaching.
+
+#### Product Model Concepts
+
+Next is evaluating the concepts that are in place at the organization.  Most non-product model organizations will have some form of many of these concepts so the goal is to understand the most common situation.
+
+- Product teams - Are the teams stable and long-lasting?  Do they focus on solving problems vs delivering features?  Are all of the cross-functional roles represented?  What's the level of ownership teammates feel?
+- Product strategy - This can mean a lot of things, however, what we care about is if the team has a multiyear vision and is the team regularly developing strategic direction to solve problems from the business?  This is not "keep the lights on work", it is work that moves the product forward based on the product manager's direction.
+- Product discovery - Is a team is testing the same number of ideas as items being built the team is likely engaging in product design, not discovery.  A team should be testing a large number of ideas, but implementing less than half of them.
+- Product delivery - Are the teams releasing frequently enough and with the instrumentation necessary to determine if new features are working?  Do they have A/B testing?  Do the monitor systems to detect problems?
+- Product culture - Are people more worried about following process than principle?  Are the engineers engaged in the innovation of the problem solving process?  Is failure in innovation something that keeps people from trying new things?
+
