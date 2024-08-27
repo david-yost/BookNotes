@@ -585,3 +585,69 @@ Next is evaluating the concepts that are in place at the organization.  Most non
 - Product delivery - Are the teams releasing frequently enough and with the instrumentation necessary to determine if new features are working?  Do they have A/B testing?  Do the monitor systems to detect problems?
 - Product culture - Are people more worried about following process than principle?  Are the engineers engaged in the innovation of the problem solving process?  Is failure in innovation something that keeps people from trying new things?
 
+### Chapter 30 - Transformation Tactics - Competencies
+
+Developing the new skills needed to create product model competencies is one of the first steps to transforming an organization and there's more detail on these techniques in the EMPOWERED book.
+
+#### Product Model Competencies
+
+- New job definitions - In order to coach team members into their new product model competencies you must first redefine the roles they operate in.  Changing titles to use product model terms without a meaningful change in responsibilities is doomed to fail.
+- Job reset - If jobs currently exist with product model titles but not the competencies it's important to set a high bar and clearly communicate that to the company.  You might even temporarily change existing product role names to something else until they demonstrate they're capable of the new requirements and can be promoted into that role.
+- Role balancing - Each product team should typically have one product manager, one product designer, and between 2 and 10 engineers.  Moving into the product model this balance will not be immediate typically and need to be sorted out.
+- Dealing with too few designers - While hiring more product designers you can supplement the design team with contractors until the full time roles are filled or you can have the designers split between multiple teams.  Contribution falls off drastically when between more than 2 teams however.
+- Dealing with outsource engineers - It's absolutely crucial to have dedicated in house engineers to be successful in the product model.  First and foremost the Tech Lead should be hired.
+- Raising engagement levels of engineers - Engineers that stay on from pre-transformation have often been treated as mercenaries and are comfortable with this model.  They should be engaged in product discovery, problem solving, and engaging with customers.
+- Product managers and line-of-business managers - When line-of-business managers continue to expect product managers to essentially be order takers they essentially become business analysts which is an abandonment of the product model altogether.  If the LOB manager does not trust the product manager to do the job perhaps the LOB manager could be the product manager with the right coaching.
+- New recruiting practices -  Hiring managers need to take ownership of the recruiting process and determine how to hire the right people for their teams.  Moving to the product model often makes your organization more attractive to the type of talent you want to hire.
+- Assessment and coaching plans - After getting the right people into the right spots you need to assess where the gaps are and create coaching plans to help address those gaps.
+- Onboarding programs - Creating a product model onboarding program is a good way to educate people in this new mode of operation and can at key points even include the stakeholders.
+
+### Chapter 31 - Transformation Tactics - Concepts
+
+#### Product Teams
+
+- Team chemistry - Strong team members doesn't necessarily mean strong team.  Figure out how to shuffle people around to get the most effective teams together.
+- Team durability - Moving people between teams is at times necessary, but should be carefully considered and done as seldomly as possible to ensure long term cohesion.
+- Review team topology - This should be created by product and engineering leaders together, should change infrequently, and should solve for the balance of the engineering and architecture needs as well as the customer and business needs.
+- Dealing with distributed teams and remote employees - Co-location, even if only certain days, can be very beneficial for the collaboration between product managers, product designers, and tech leads.
+
+#### Product Delivery
+
+There are a ton of areas to invest in technically, including tech deb, CI/CD, DevOps, test and release automation, instrumentation, monitoring, and more.  Usually, it helps to have an engineer experienced in these things help implement it first on their team and then on the rest of the teams in the organization.  Many of these technical aspects are necessary for operating in the product model.
+
+#### Product Discovery
+
+Feature teams often think of their backlog as their "product discovery".  Feature teams don't usually tackle the value and viability aspects of a product and usually product managers can be apprehensive about taking on this responsibility.  It takes good coaching to get the product managers comfortable with their new role.
+
+- Driving up customer interaction - Increasing interaction with customers is key.  Consider having each team that has a user-facing experience start with one hour product discovery sessions three times per week, every week.  This is essential to consistent innovation.
+- Discovery sprints - Use 1 week sprints as design/discovery sprints that helps build trust and learn the mindset, principles, and techniques of product discovery.
+- Hack days - These can be used to ramp up in prototyping generally with directed or undirected focus.
+
+#### Product Strategy
+
+The product vision and company objectives are inputs to the product strategy, and out of that comes a set  of problems to solve which are then assigned to product teams in the form of OKRs.
+
+- Create product vision - Most feature organizations don't have a unifying product vision and need to create one as part of their transformation.  This product vision should be unifying for the whole company and be large enough in scale to be viable for 3 to 10 years.
+- Create product strategy - Without a product vision there is also usually a lack of product strategy which must be created by developing the muscles for ongoing, insight driven product strategies.  A systems for making hard decisions with data driven insights is a must.
+- Portfolio management - A common problem during transformation is a large set of existing legacy systems.  They should be categorized into 3 bucks which are sunset (stop supporting), sustain (keep them running), and invest (future bets).
+- Funding product teams - It is necessary to shift from funding projects to funding product teams.  This is easiest done by instead of creating a business case for a project output over a given number of months, put together a business case for a product team to deliver an outcome for some number of quarters.
+- Implementing team objectives - Strong product strategy creates a prioritized set of problems to solve which should take the form of OKRs so the team can measure success against the objective.
+- Product vision or strategy sprints - A week long offsite-style collaborative meeting meant to take a deep dive into product vision and/or strategy to accomplish in a week what would otherwise take longer typically.
+
+#### Product Culture
+
+- Hack days - It's important to get the product teams engaged in innovative solutions to problems and hack days can help with that very important cultural shift.
+- Customer engagement - Engaging with customers regularly offers key insights to what obstacles users face and better equips product teams to solve the problems that they face.
+- Innovation accounting - How many ideas have been tested and what role have insights from the data played in helping form those insights?
+- Cultural retrospectives - At least quarterly it's a good idea to get the best product, design, and engineering leaders together to discuss how well the organization managed to do it's previous quarter's work and what should be the focus of the next quarter.
+
+### Chapter 32 - Transformation Tactics - Adoption
+
+There are a number of different ways to approach adopting the product operating model.  They are varying and some of them can be blended based on the circumstances of the current organization.  Many factors are enumerated at the start of chapter 32 that are worth considering.
+
+- Pilot teams - Since many people are resistant to change it can be beneficial to setup pilot teams that can implement the product operating model first and work out the kinks amongst the team and the new business relationships before rolling it out to the rest of the company.
+- Product model dimensions - There are three primary dimensions that you can view change to the product model through and it might even make sense to have teams focus on one dimension or another to start including focusing on how you build products (product delivery), how you solve problems (product discovery), and how you decide which problems to solve (product strategy).
+- Top down and bottom up - There's a lot to cover in a transformation, having one product leader focus on developing the product team skills (bottom up) and one product leader focusing on developing the product leader's skills and strategic context (top down) can help attack all areas at once.
+- Coaching stakeholders - Each side of the product/stakeholder relationship may require coaching and stakeholders who are eager to test out the product model and have strong credibility in the organization are key candidates.
+- Stakeholder briefings - Holding separate briefings on the product model with the stakeholders can give them a safe place to raise concerns and objects that need talked through without having a wider audience present.
+- Managing existing commitments - When transforming there are likely a number of promises that have been made and must still be met.  You can either dedicate a subset of teams to handling these while the rest of the organization moves to the product model or have each team be responsible for both their existing commitments and the new product mode focused work.  Both have upsides and downsides and the work here is not to be confused with the "keep the lights on" work that exists before and after transformation.
