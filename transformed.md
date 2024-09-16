@@ -651,3 +651,47 @@ There are a number of different ways to approach adopting the product operating 
 - Coaching stakeholders - Each side of the product/stakeholder relationship may require coaching and stakeholders who are eager to test out the product model and have strong credibility in the organization are key candidates.
 - Stakeholder briefings - Holding separate briefings on the product model with the stakeholders can give them a safe place to raise concerns and objects that need talked through without having a wider audience present.
 - Managing existing commitments - When transforming there are likely a number of promises that have been made and must still be met.  You can either dedicate a subset of teams to handling these while the rest of the organization moves to the product model or have each team be responsible for both their existing commitments and the new product mode focused work.  Both have upsides and downsides and the work here is not to be confused with the "keep the lights on" work that exists before and after transformation.
+
+### Chapter 33 - Transformation Evangelism 
+
+- A transformation plan can take between 6 months and 2 years to complete and it can be easy to lose focus.
+- Having named owners who are accountable to specific transformation work is key to making the transformation successful.
+- Since transformation can take a long time it's important to build momentum by celebrating quick wins like killing an idea early based on a cheap experiment, teams that didn't work with customers before starting to visit with customers to gain important insights, or achieving an important business result.
+
+#### Transformation setbacks to be mindful of
+1. The CEO or Key Product Leader leaves and whoever fills the position is not bought into the vision of transformation or lacks the credibility to make it successful.
+2. Scaling across company requires a fresh assessment for new business units as each area will require customized focus.
+3. The PMO returns because someone ascends power and misses the old days of command and control.
+4. Business climate changes create situations that can force people to adapt in times of crisis but afterwards people may fall back to old habits.
+
+### Chapter 34 - Transformation Help
+
+> "Coaching is no longer a specialty; you cannot be a good manager without being a good coach."  -Bill Campbell
+
+- Hiring senior product leaders who have already worked in this model can help lead a transformation
+- Sometimes hiring experienced leaders is not enough though if the company has a number of senior leaders who have never worked this way before or if the number of people who need coaching is too great for the leaders to be able to invest in all of them
+- An alternative option can be to leverage external product coaches, or even in organizations large enough internal coaches, to help with transformation
+
+#### External Product Coaches
+- Delivery Coaches - Engineering professionals that help stand up the technology needed to release regularly.
+- Discovery Coaches - Helping teams move into the empowered product team mentality and learning how to do product discovery well.
+- Product Leadership Coaches - Focused on helping leaders in the organization develop product concept muscles like product vision, strategy, etc.
+- Transformation Coaches - Walks the senior leadership team though all of the changes needed to shift mindset and culture.
+
+### Chapter 35 - Innovation Story: Datasite
+
+- Datasite's transformation was covered in an earlier chapter
+- In this chapter they use their new found product model skills to innovate in the document redaction space
+- In 2019 poorly redacted documents played a prominent role in a political news story which brought the need for a strong redaction tool in the merger and acquisition space to the forefront in order to maintain client confidence
+- The product team worked with customers to identify their document redaction needs and evaluated several technical approaches and ultimately created a first in kind solution that is now patented technology for their organization
+
+## Part IX Transformation Story: Adobe
+
+- Adobe historically operated on a 12 to 18 month waterfall cycle to release major software updates
+- New players were being mentioned in their design space with customers constantly that enabled cloud functionality and regular updates
+- Since Adobe already had a strong engineering and product culture already they set out to focus on changing how they build and solve problems
+- In order to help them create a vision for the future of their design products they created a fictional designer that owned a small design firm and a scenario where she would be pitching a design to an interested party in Nike
+- The first 2 major problems they focused on solving were getting a unified identity management system and providing a cloud synchronization mechanism across all of the devices owned by a user
+- Teams internalized "Marissa's problems" and became passionate about solving them with their individual products
+- Every part of the organization was impacted in some way 
+- The success of their transformation moved Adobe from 6M Creative Suite customers to 26M Creative Cloud subscribers 
