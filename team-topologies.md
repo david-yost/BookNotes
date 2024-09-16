@@ -119,3 +119,32 @@ Proven software-architecture good practices to consider when building teams that
 
 - Small teams that are long lived give a stable group of engineers a greater sense of ownership over the code.
 
+TODO: Finish Chapter 3 starting on page 36
+
+## Part 2: Team Topologies that Work for Flow
+
+### Chapter 4: Static Team Topologies
+
+- The most common way to setup teams today is focused on immediate needs rather than the ability to adapt in the long run.
+- Two common anti-patterns are ad hoc team design, where teams are broken up when they get too large and communication overhead takes a toll, and shuffling team members, where teams are rapidly assembled for projects then disassembled.
+- When considering team flow it's important to consider communication lines and try to minimize "Handovers"
+- DevOps Topologies reflect two key ideas:
+    1. There's no one size fits all approach to structuring teams for DevOps success.
+    2. There are several topologies known to be detrimental to DevOps success.
+
+> The Success of different types of teams does not depend solely on team member's skills and experience; it also depends on (perhaps most importantly) the surrounding environment, teams, and interactions.
+
+> A lack of ownership over shared code may result from the cumulative effects of several teams working on the same codebase unless inter-team discipline is high.
+
+- Removing hard dependencies between teams allows product teams to operate more autonomously (i.e. cloud team designs cloud infrastructure process, product teams then can provision and update application resources)
+- An error budget is essentially defined by the SRE team as an acceptable amount of down time.
+- SRE is "what happens when you ask a software engineer to design an operations function." according to Ben Treynor, the VP of Engineering at Google.
+- The relationship between the SRE team and the application team changes as an application scales up and down based on how much traffic the site has and how much support the team needs in keeping it stable and running.
+
+#### Considerations When Choosing a Topology
+
+1. Technical and cultural maturity - How strong is the engineering discipline in the organization and what disciplines are missing?  Implementing a new discipline, like DevOps, risks creating more silos in the organization if not correctly handled.
+2. Organization size, software scale, and engineering maturity - Engineering maturity moves from specialized to end to end ownership as your organization goes from low to high on that scale while org size/software scale moves from more regular and strong collaboration to more ownership and reliability.
+3. Splitting responsibilities to break down silos - If a team is too large or has too many responsibilities it can make sense to split those responsibilities into smaller more explicit areas (i.e. database team gets split to DBA and DB Dev).
+4. Dependencies and wait times between teams - Track dependencies with dependency tags to surface dependency bottlenecks and allow you to track them.  If those dependencies exceed a certain threshold that should trigger team design adjustments.
+
