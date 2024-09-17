@@ -53,3 +53,21 @@ Skills for identifying emotions
 - Perceiving the emotion of someone in a situation accurately allows us to approach the situation with finesse.
 - The ability to spot fake emotion versus emotions that are actually being felt is important to make sure you are accurately interpreting the situation.
 - All of these components are data points that can be useful in navigating a situation's emotions.
+
+### Chapter 4 - Get in the Mood, Using Emotions
+
+- It is important to have access to the full range of emotions, from positive to negative, in order to fully understand and process a situation accurately.
+- Being closed off to emotion is often reflected by a rigid thinking style.  
+- Processing emotions accurately to evaluate a situation can lead to creative thinking and breakthrough ideas as illustrated by Julia's story.
+- Not everything linking to emotion and though is emotional intelligence, it requires using these emotions to enhance and assist our thought process meaningfully.
+- Nervousness and worry can be used intelligently to help you scan for threats and problem solve.
+- Understanding another person's point of view can be relatively easy, but it's much harder to see and experience the world from their perspective.
+- Thinking often shifts with out moods and if we are able to harness those moods we are more likely to engage in creative thinking.
+
+> "Leadership, which embraces the emotional side of directing organizations, pumps life and meaning into management structures, bringing them to full life" - Barach, J. A., and Eckhardt, D. R. Leadership and the Job of the Executive
+
+- Thinking does not happen without emotion, and emotion actually speeds up the decision making process tremendously.
+- Alice Isen found that giving a small gift to medical students resulted with quicker and more accurate diagnosis because happy and positive emotions make us more likely to feel generous and think creatively.
+- Mood-congruent memory (a.k.a. affect-dependent recall) is the phenomenon of remembering information better when in the same mood as when information was acquired.
+- It is important to be aware of the various connections between emotions and cognitive processes and attempt to match emotions, whenever possible, to the work ahead or to select work for someone based on how they are feeling.
+
