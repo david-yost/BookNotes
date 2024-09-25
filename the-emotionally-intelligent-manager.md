@@ -71,3 +71,13 @@ Skills for identifying emotions
 - Mood-congruent memory (a.k.a. affect-dependent recall) is the phenomenon of remembering information better when in the same mood as when information was acquired.
 - It is important to be aware of the various connections between emotions and cognitive processes and attempt to match emotions, whenever possible, to the work ahead or to select work for someone based on how they are feeling.
 
+### Chapter  5 - Predict the Emotional Future, Understanding Emotions
+
+- Problems can often stem from a misdiagnosis of the cause of people's feelings and therefore what trajectory their feelings would take as a result, as illustrated by Suzzane's story.
+- Acknowledging difficult situations, or news, and having a desire to treat people honestly and fairly means being transparent in difficult times while still giving credit where you can as shown in Len's story.
+- Understanding emotions takes the most though and a great deal of knowledge about what causes emotions and how they transition from one stage to another.
+- Conveying emotions accurately requires us to have a rich emotional vocabulary and use it effectively.
+- A common emotional equation is "if event X then emotion Y". 
+- Some emotions can consist of combinations of other more simple emotions, sometimes even emotions that seem at odds with each other.
+- Emotions are not static and will often develop and change as they progress.
+- What-if planning can be critically important when evaluating people's emotions and how they might react to a situation, and correctly predicting the future can help us respond more adeptly.
