@@ -176,3 +176,48 @@ TODO: Finish Chapter 3 starting on page 36
 - An enabling team is composed of specialists in a given technical or product domain and help bridge capability gaps on the stream aligned teams
 - They research, try out options, and make informed suggestions on adequate tooling, practices, frameworks, and any other ecosystem choices around the application stack
  
+ TODO: Finish chapter 5 notes starting from page 87
+
+### Chapter 6 - Choose Team-First Boundaries
+
+- Many problems that arise in delivering software come from poorly defined boundaries or areas of responsibility between highly coupled teams.
+
+#### Types of monoliths
+
+1. Application Monolith - A single large application with many dependencies and responsibilities that is deployed all at once and the system is unavailable during deploy.
+2. Joined-at-the-database Monolith - Several applications that are all sharing the same database schema, making it difficult to test and release new changes separately.
+3. Monolithic Builds (Rebuild Everything) - One massive CI runs the build for everything every time instead of standard dependency management mechanisms like packages or containers.
+4. Monolithic (Coupled) Releases - Services that can be built separately but must be deployed with dependent services in a static environment together.
+5. Monolithic Model (Single View of the World) - This is a software model that forces a single domain language and format across many different contexts.
+6. Monolithic Thinking (Standardization) - A "one size fits all" approach that puts restrictions on what technologies teams can use and how they can use them in an attempt to minimize variation.
+7. Monolithic Workplace (Open-Plan Office) - An open office floor plan where everyone is in the same geographic location with workspaces separated by cubicles or barriers.  Colocation of purpose is what's important, not colocation of bodies.
+
+#### Fracture Planes
+
+> A fracture plane is a natural seam in the software system that allows the system to be split easily into two or more parts.
+
+- It is usually best to align software boundaries with the different business domain areas.
+
+##### Types of Fracture Planes
+
+1. Fracture Plane: Business Domain Bounded Context - The boundaries should be defined by a business-domain bounded context.
+
+> "a concept may appear to be atomic just because we have a single word to cover it.  Look hard enough and you will find seams where you can fracture that concept." - Michael Nygard
+
+2. Fracture Plane: Regulatory Compliance - Highly regulated industries with standards that are dictated for compliance.  It can make sense to break of a regulatory compliance focused team (credit card payment focused for instance) that focuses specifically on the compliance concerns that don't need to impact the rest of the application.
+
+3. Fracture Plane: Change Cadence - When different parts of a monolith are updated at different rates you can split out areas of functionality based on how often they need to be released.  Quarterly monthly reports do not need to hold up other fixes and enhancements that can be delivered daily or weekly.
+
+4.  Fracture Plane: Team Location - Splitting up teams and their functional focus based on their location.  Time Zones are one of the most important considerations but being physically present in the same office space or fully remote with standardized communication channels for all are the 2 best approaches.
+
+5.  Fracture Plane: Risk - Looking for areas that have disparate risk profiles is another way to approach splitting things up.  Some areas of the application may have higher risk due to regulatory concerns or the size of user based that rely on it.
+
+6. Fracture Plane: Performance Isolation - Areas of an application that may require a high degree of resilience and scalability can be split off from application segments that are more stable.
+
+7. Fracture Plane: Technology - When technology is older and less automation friendly and needs specialized skills or testing it can be a good dividing line. Also, when a technology is different enough from the rest of the tech stack that removing it can significantly reduce the cognitive complexity for a team.
+
+8. Fracture Plane: User Personas - Finding dividing lines for application functionality based on sets of users.  For instance a free tier user vs a paid subscription user, or a novice user vs an expert level user.
+
+- Does the resulting architecture support more autonomous teams and less cognitive load?
+- Could we as a team, effectively consume or provide this subsystem as a service?
+ 
