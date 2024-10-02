@@ -148,3 +148,31 @@ TODO: Finish Chapter 3 starting on page 36
 3. Splitting responsibilities to break down silos - If a team is too large or has too many responsibilities it can make sense to split those responsibilities into smaller more explicit areas (i.e. database team gets split to DBA and DB Dev).
 4. Dependencies and wait times between teams - Track dependencies with dependency tags to surface dependency bottlenecks and allow you to track them.  If those dependencies exceed a certain threshold that should trigger team design adjustments.
 
+### Chapter 5: The Four Fundamental Team Topologies
+
+- Making sure the right teams are in place, all capabilities are being addressed, teams have necessary autonomy and support becomes simpler if we focus on four fundamental team topologies: Stream-aligned team, Enabling team, Complicated-subsystem team, and Platform team
+- Reduced ambiguity around organizational roles is a key part of success in modern organizational design
+- Ops and support teams do not exist as a separate function and should be aligned to streams
+
+#### Stream aligned teams
+- A "stream" is the continuous flow of work aligned to a business domain or organizational capability
+- Stream aligned teams are aligned to a single, valuable stream of work which could be a product, service, set of features, user journey, or user persona
+- They should be empowered to build and delivery customer/user value as quickly, safely, and independently as possible
+- Other fundamental team topologies serve the purpose of reducing burdens on stream aligned teams
+- Capabilities for a stream aligned team to operate independently include, but are not limited to: Application security, commercial and operational viability analysis, design and architecture, development and coding, infrastructure and operability, metrics and monitoring, product management and ownership, testing and quality assurance, user experience (UX)
+- Stream aligned teams can be product teams, but products can be larger than an individual team or sometimes software does not need products or features, however all software benefits from alignment to flow
+
+##### Expected behaviors for stream aligned teams
+1. Aims to produce a steady flow of feature delivery
+2. Quick to course correct based on feedback from the latest changes
+3. Uses an experimental approach to product evolution, expecting to constantly learn and adapt
+4. Minimal (ideally zero) hand-offs of work to other teams
+5. Evaluated on the sustainable flow of change it produces
+6. Must have time and space to address tech debt
+7. Proactively and regularly reaches out to the supporting fundamental-topologies teams
+8. Members feel they have achieved or are in the path to achieving "autonomy, mastery, and purpose"
+
+#### Enabling teams
+- An enabling team is composed of specialists in a given technical or product domain and help bridge capability gaps on the stream aligned teams
+- They research, try out options, and make informed suggestions on adequate tooling, practices, frameworks, and any other ecosystem choices around the application stack
+ 
