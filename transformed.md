@@ -685,7 +685,7 @@ There are a number of different ways to approach adopting the product operating 
 - In 2019 poorly redacted documents played a prominent role in a political news story which brought the need for a strong redaction tool in the merger and acquisition space to the forefront in order to maintain client confidence
 - The product team worked with customers to identify their document redaction needs and evaluated several technical approaches and ultimately created a first in kind solution that is now patented technology for their organization
 
-## Part IX Transformation Story: Adobe
+## Part IX - Transformation Story: Adobe
 
 - Adobe historically operated on a 12 to 18 month waterfall cycle to release major software updates
 - New players were being mentioned in their design space with customers constantly that enabled cloud functionality and regular updates
@@ -695,3 +695,126 @@ There are a number of different ways to approach adopting the product operating 
 - Teams internalized "Marissa's problems" and became passionate about solving them with their individual products
 - Every part of the organization was impacted in some way 
 - The success of their transformation moved Adobe from 6M Creative Suite customers to 26M Creative Cloud subscribers 
+
+## Part X - Overcoming Objections
+
+- This section of the book is dedicated to helping overcome objections that people may have with moving to the product operating model and helping to get them on board
+
+### Chapter 36 - Objections from Customers
+
+Objection: Our users believe that it's absolutely essential for you to provide this specific capability.  Unless you can commit to that, we can't commit to buying your product.
+
+This often comes from a place of frustration because of previously undelivered promises.  It's important to understand the problem behind the demand and understand if you can solve there problem in a way that your core business is focused on.
+
+Objection: I need to know when I can count on this feature being delivered.
+
+If a feature is agreed to, before making any promises you should realize this is what high-integrity commitments are for.
+
+Objection: We are making a major bet on your company if we purchase this product, and we need to make sure the direction you are going is where we want to go as well.  We need to see your product roadmap to know if that's the case.
+
+It can be helpful to explain the risks of product road maps but often when addresses their concern will be your product vision and sharing that instead of a product road map is preferable. 
+
+Objection: It is so much work to deal with your new releases, I can only handle them every 3/6/12 months.
+Objection: We need thorough documentation and training for every new release.
+
+The data overwhelmingly dictates that smaller and more consistent releases provide better stability and are much less disruptive to a user's workflow.  The changes are designed such that users are rarely impacted and when they are they do not need new training.
+
+Objection: We are very uncomfortable with the idea that you are collecting data on our use of your products.  Why should we allow this?
+
+Data is anonymized and aggregated so no PII is exposed.  This information is akin to a pilot relying on their instrumentation when flying a plane to make sure everything is working as expected.
+
+Objection: We were working as part of a customer discovery program, and we were very excited about the progress, but then we were told that you decided not to pursue this new product.  Is this normal?  Did we do something wrong?
+
+Sometimes the needs of a customer are specific enough that their needs don't make sense for the product's entire range of customers.
+
+### Chapter 37 - Objections from Sales
+
+Objection: We are the ones sitting down with the customers every day.  Why shouldn't we be the ones to tell the product team what needs delivered?
+
+Strong product managers cultivate relationships with salespeople and ever interact with key customers to understand their needs better.  However, the customers and salespeople are not experts on enabling technologies and the product teams are there to solve their problems with the best technical solutions.
+
+Objection: This is a great product vision, but it's years in the making.  I need to make my numbers now.  How will what's being built help my sales team make their numbers this quarter or next?
+
+It's important to provide the sales force with things they can sell now.  Perhaps even provide them with referenceable customers that are using the latest offering and loving it.
+
+Objection: I have a very promising prospect, but we need to commit to some new capabilities to close the deal.
+
+Special requests should filter through the head of sales which can act as a filter to stop most one off requests.  In the event that the head of sales think the request is worth pursuing the product manager should understand the problem and if it fits into the current target market and product vision before proceeding.
+
+Objection: We lost a big deal specifically because we are missing some key capabilities as compared to our competitors.  Why would that not be our top priority?
+
+Often customers will point to a feature as an easy way to explain why they aren't choosing you.  Sometimes that reason is a critical missing piece for the platform and sometimes it's just an excuse.  It's up to the product manager to be able to determine which it is and if that feature should be built into the product.
+
+Objection: We keep losing deals against this key competitor. What can we do to better compete?
+
+There may be work underway that addresses those shortcomings but they may be a ways off.  It's up to the product manager and marketing to help point sales to opportunities to sell and highlight segments their product has that it is superior.
+
+Objection: I work very hard to manage my prospects and customers, and I don't want people from product teams risking that.
+
+It's absolutely necessary that the product teams have access to the customers to learn about their uses and needs.  When needed the product team members can receive training and coaching to help them learn how to appropriately interact in a customer facing event.
+
+Objection: I want to make sure that we don't have random product teams contacting my customers every week without coordinating with each other, and especially without coordinating with me.
+
+This request is reasonable and it's important that the product teams keep their sales and account managers in the loop on communication and that they don't all reach out to the same customers at the same time.
+
+### Chapter 38 - Objections from the CEO and Board
+
+Objection: As CEO, I meet with customers, investors, board members, analysts, and other company executives every day.  How would I not be the appropriate person to decide what the product teams should deliver?
+
+Objection: I am the one responsible for the revenue so shouldn't I be the one to define the product roadmap for delivering that revenue?
+
+CEO's are obviously in a very strong position to drive product and are often the heads of the product department as well.  However, empowered teams are central to the product operating model and are the most knowledgeable about technology and what is just now possible.  It's also not scalable to have the CEO make all product decisions.
+
+Objection: I am trying to run a business.  I need to know what will be released and when it will happen.
+
+Your strategic context will empower the teams to make good decisions while you are unavailable.  Teams will also provide details on what initiatives will be delivered when and what business outcomes they will affect.
+
+Objection: My board wants to see our product roadmap.  I need to provide that to them.
+
+The board doesn't care about a roadmap exactly, they care about how they work they're funding contributes to the target results.  It's up to the product leaders to make sure that the executive team understands how the product work ties directly to achieving these results.
+
+Objection: What if I have a product idea?  Shouldn't I have a way to share that idea with the product team?
+
+Ideas can come from anywhere and sharing ideas is great.  Be explicit though that it just that, an idea, and will need to be tested to see if it's good and should be turned in a feature or product.
+
+Objection: What is a reasonable time frame in which to expect results from our product efforts?  How do I know if a product team is struggling or if things are just par for the course?
+
+The product vision should spell out in narrative fashion what the results are and it should be clear to see if the product teams are achieving that or not.  As for if they are struggling, quarterly reviews or product leadership deep dives on product teams can discover if there are any issues that need addressed.
+
+Objection: I want to make sure our organization is in alignment.  We need to make sure that product, marketing, sales, service, and operations are all headed in the same direction and coordinated.
+
+This is why OKRs are so often used to make sure there is alignment for these goals on an annual and quarterly basis.
+
+Objection:  The board says my investment ratios are off for my stage company.  They want more investment in sales (direct correlation to revenue) versus product (where revenue is ill-defined).  How do I defend increasing resources in product and not in sales?
+
+If a product-market fit has been achieved this is often the right move, but until then it would be a waste of resources and you should instead be focused on developing a product-market fit with every resource possible.
+
+### Chapter 39 - Objections from Line of Business
+
+Objection: I have P&L responsibility for this product line.  So why would I not have control of the engineering resources?
+
+Similarly to a CEO, a line-of-business manager will want to provide the product teams with product vision and strategy as well as what business outcomes the team should be targeting.
+
+Objection: Leadership expects that I know about anything that can impact my business.  I need to know what's coming so I can answer those questions when they come to me.  I don't want to look like I don't know what's going on.
+
+This is 100% true and just as it's important for line-of-business managers to share strategic context with the product team the team must also share as much information as possible, including emerging insights and learnings from the front lines and how the work they're doing will impact targeted business outcomes.
+
+Objection: I find it so frustrating that the product team feels they need to repeat all the problem discovery that I've already done before they can get to work on the solution.  And furthermore, because of that, too often there's no time left for solution discovery.
+
+It's important to bring along the product manager and designer for customer interactions that would be part of this process.  It is important for them to understand the problem in depth before being able to create solutions for it.
+
+Objection: We need to move faster.  Speed is critical.  How can I get these product teams to feel the same sense of urgency I feel?
+
+Speed is indeed critical, but with a focus on time to money not time to market.  If you create something that doesn't sell you've spent a lot to gain little.  Product teams should be able to test ideas in less than 1/10th the time it would take to build in order to find the best solution.
+
+Objection: The product team is resistant to showing their early prototypes to us as stakeholders, before they think it is of the necessary quality and ready for final review.
+
+Building trust between the product team and stakeholders can take time.  If the stakeholders only want to see finals then the team will likely be hesitant to share anything before it's ready.  But if the stakeholders are willing to recognize what step of the process the team is in and are willing to provide useful feedback the team may feel more comfortable sharing early ideas.
+
+Objection: I prefer to have on my business team a set of people who report directly to me who can drive product initiatives.
+
+Product managers should generally live in IT and report to product leaders that are capable of developing strong product leaders.  Outside of the product model it's not uncommon to have someone that fills a similar role that reports to the line-of-business manager but there is no need to have overlapping roles as this function moves to the product team.
+
+Objection: I run the business, so I should create the product strategy.
+
+Product strategy should look across business units to maximize value.  This requires transparent communication between the product leaders and line-of-business managers to make sure targeted business outcomes are being met.
