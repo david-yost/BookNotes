@@ -818,3 +818,99 @@ Product managers should generally live in IT and report to product leaders that 
 Objection: I run the business, so I should create the product strategy.
 
 Product strategy should look across business units to maximize value.  This requires transparent communication between the product leaders and line-of-business managers to make sure targeted business outcomes are being met.
+
+### Chapter 40 - Objections from Customer Success
+
+Objection: Every day we deal with struggling customers.  We are literally on the front lines.  Yet the product teams seem not to care about what we think we need.
+
+The product team should absolutely care about what the customer success team needs but there are also a lot of stakeholders the product team has to weigh needs for.  Keeping a list top 10 list from the customer success team's perspective can be a good way to help surface their most challenging problems so the product team can talk about how best to solve them.
+
+Objection: The tools we have to take care of our customers are pretty terrible.  This not only makes our job harder, but it impacts our customers.  We say we're supposed to care about our customers, but how do we address this?
+
+Using commercial tooling for customer success teams where possible is a key to success.  Also, there will be instances where tools that are not customer facing but help customer success are necessary from the product team and it's important to make sure those get surfaced.
+
+Objection: We are talking to customers all day, and if we don't know when and how things are going to be changing with the product, how are we supposed to know how to help customers?
+
+With more frequent releases this problem can be exacerbated.  It's important for the product team to be communicating with product marketing on when things become customer visible, then they are responsible for communicating to sales, customer success, and customers.
+
+Objection: Our product organization frankly takes too long to get products out, so our customer success team has staffed our own people to create solutions for customers.
+
+This is good initiative from customer success but the answer isn't shadow tech, it's improving the products that the team produces and making sure that the customers and customer success team have what they need to be successful.
+
+### Chapter 41 - Objections from Marketing
+
+Objection: We interact with sales every day, we continuously monitor the competitive landscape, we conduct focus groups with current and prospective customers, and we have relationships with all the major industry analysts.  Who better to define the products we need to succeed?
+
+This is an outdated way of operating and no amount of focus groups can create an innovative product like the iPhone because those groups don't know what is technologically possible.  The marketing teams will often have useful data insights that they should share with product managers though to help guide their strategy.
+
+Objection: How can we best help the product teams to create successful products?
+
+The marketing team works closely with product teams, especially when helping to find a market-fit and achieving a product-market fit.  Getting any available information into the product managers heads to enable them to change the product effectively is also helpful.
+
+Objection: Marketing wants to promote a future state of the product in advance of it being done.  When is that okay?
+
+There will be times when it makes sense to announce product features ahead of time.  This should only be done when you are certain that you can accomplish what you say and should be done in close coordination with marketing.
+
+### Chapter 42 - Objections from Finance
+
+Objection: We need more flexibility in our spend levels.  We want to be able to increase and decrease our technology investment depending on business results.  Managing projects with outsourced vendors helps us do that.
+
+Objection: We need to keep our costs down, and the loaded cost of an outsourced engineer is significantly less than the loaded cost of our own employees.
+
+When looking at a product team level loaded cost instead of insourced vs outsouced engineers you will see precisely the opposite.  Furthermore, a business outcome based analysis very much favors internal employees, not to mention the compounding effects of lessons learned over time.
+
+Objection: We need to identify any potential projects for the year and understand how much each potential project will cost as part of annual planning.  That is how we can decide on which ones to fund and move forward with.
+
+Objection: We need to be responsible with our money.  We need to know what we'll receive for each project we fund.  Otherwise, how can we possibly know what is a good investment and what is not?
+
+Project plans that try to predict returns are already often unreliable if you measure projections vs actual value achieved.  Venture capitalists will invest a small amount of seed money for a company to see if they can show traction with their idea and then invest heavily if they do.  This is the same model we use to fund product teams instead of products in the product operating model.
+
+Objection: How do we hold product teams accountable for the results they commit to?
+
+Teams are assigned key problems to solve and what the measure of success will be.  It's up to product leadership how conservative or aggressive they will be with the measurements knowing that there is risk in being more aggressive with targets.  If a team does not meet the measure of success, at the very least a postmortem should happen.
+
+Objection: We need to be able to move resources between efforts as business needs dictate in order to make the best use of funds.
+
+Often times it's inefficient to move team members around where they may have to learn new technology and domain expertise.  The focus shifts from funding project teams to funding product teams which keeps teams stable and allows us to leverage growing expertise and efficiencies.
+
+Objection: We need to see consistent positive progress every quarter to know which efforts we should continue to fund.  Our job is to monitor that progress and impose that discipline.
+
+This sounds logical but experienced product leaders manage product teams like a series of bets.  Adjust quarterly based on what's succeeding and what needs to pivot.
+
+Objection: We are trying to understand how to treat product discovery from an accounting perspective.  Is it research?  Or is it just the definition and design stage of product development?
+
+Product discover is not R&D but rather fleshing out the work that will be built in the coming weeks.
+
+### Chapter 43 - Objections from HR/People Ops
+
+Objection: These new job competencies are very disruptive to our company.  We have many people in roles that no longer apply, and others where the scope of responsibilities has changed significantly.  Changing job classifications is not minor, and there are considerable costs involved. We would rather leverage our current talent and stay with our existing job classifications.
+
+Objection: We have many people in roles that are close to technology, so rather than hiring product managers, can't we just change their titles to product management and send them to some training?
+
+It may seem like a small shift and can be very expensive to make, but product disciplines are at the core of transformation and using existing personnel and roles structures always fail.  Perhaps there are people that can step into those roles with coaching but product managers have a high degree of responsibility and not all people are going to want to take that on.
+
+Objection: We already have annual performance reviews, and now we're told we need to introduce ongoing assessments and coaching plans.  Isn't this redundant and also very expensive?
+
+Coaching represents a primary responsibility for first level managers, which is indeed expensive but not nearly as expensive as having staff that doesn't know how to succeed in their roles.
+
+Objection: We already have an onboarding program for new employees.  Why do we need another onboarding program for product people?
+
+Onboarding programs for new employees can be useful for everyone but role specific onboarding is necessary for their specific role responsibilities.
+
+Objection: We have annual budgets for raises and promotions.  Yet now we are talking about incentivizing managers to work to get their people promoted.  How will this be paid for?
+
+It's the manager's jobs to get people ready for promotion.  Getting a large number of employees that are truly qualified for promotion would be a great problem to have.  Roles and increased salaries will still need to be available before promotions can be granted.
+
+Objection: We want every employee to have individual OKRs.
+
+Product teams should have OKRs so the team is incentivized to work together to succeed.  Individual personal goals are reasonable but should be part of the coaching process.
+
+### Chapter 44 - Objections from the CIO
+
+Objection: I come from the school of thought where technology exists to serve the business.  In fact, I pride myself on my ability to deliver on the needs of the business.  I'm not sure where this move leaves me.
+
+The primary switch in the product model is from viewing technology as a cost center to viewing it as a profit center.  Instead of outsourcing IT or focusing a integrating vendor products you are focused on internal engineering and product innovation.  
+
+Objection: I'm currently a CIO but I want to lead this change to the product model, and I'd like to expand my role to CTO.  Where can I learn more?
+
+Usually, a product and/or engineering coach can help with this but there are also CTO boot camps that can share best practices and latest techniques.
