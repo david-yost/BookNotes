@@ -220,4 +220,71 @@ TODO: Finish Chapter 3 starting on page 36
 
 - Does the resulting architecture support more autonomous teams and less cognitive load?
 - Could we as a team, effectively consume or provide this subsystem as a service?
- 
+
+## Part 3: Evolving Team Interactions for Innovation and Rapid Delivery
+
+### Chapter 7 - Team Interaction Modes
+
+- Poorly defined team interactions can be a source of friction and ineffectiveness.
+- Sometimes teams move in and out of communication modes and when considering relationships between a team it's important to know how collaborative or disconnected they should operate.
+
+> A study done by researchers found that teams that interacted intermittently, intermittently instead of constantly, not only ended up with similar quality solutions but also found better solutions than teams that constantly interacted.
+
+#### The Three Essential Team Interaction Modes
+
+1. Collaborative - working closely together with another team
+2. X-as-a-Service - consuming or providing something with minimal collaboration
+3. Facilitating - helping (or being helped by) another team to clear impediments
+
+- A medium-large sized company likely requires all three modes of communication and it's often earlier than most people would expect.
+- Defining the ways that teams should interact makes it easier to assess how effective they are being in those interactions and the software interfaces should reflect that in design.
+- Modes of interaction should become habits in the teams.
+
+##### Collaboration
+
+- Suitable when a high degree of adaptability and/or discovery is needed, especially when exploring new techniques or technologies.
+- Can be used for two teams with distinct expertise and responsibilities working together on a small set of things.
+- Alternatively, the two teams working together can pool their resources and expertise together to create essentially one big team (must not exceed Dunbar's number of fifteen).
+- Both teams must always focus on a small defined overlap with a full overlap of focus and responsibilities.
+- Working in a larger area with more people means expanding the surface area of cognitive complexity and the requirement of additional communication, which means the slow down in effectiveness should be outweighed by the rapid discovery in order to make it valuable.
+
+##### X-as-a-Service
+
+- Most applicable to situations where there is a need for one or more teams to use a code library, component, API, or platform.
+- Teams should be able to rely on certain aspects of their technology landscape being provided as a service by other teams (internal or external) so the team can focus on delivering their work.
+- Creates clear boundaries which inherently reduces cognitive load for the teams building and consuming.
+- Changes happen slowly over time with a clean API that is well defined and stable.
+- Teams involved have little need for day-to-day collaboration to use or provide the X-as-a-Service feature.
+- This model only works well with a well chosen an implemented service boundary and good service management.
+- A team providing X-as-a-Service must have a strong sense of responsibility towards its consumers and provide straight forward to use documentation and be managed in a way that keeps it viable over time.
+
+##### Facilitating
+
+- Suitable for situations where one or more teams would benefit from active help of another team that is facilitating or coaching some aspect of their work.
+- This is the primary mode of operation for an enable team that provides support and capabilities to other teams.
+- Typically facilitating teams work across many teams at once to detect cross team problems and help reduce them.
+- These teams do not spend time building the main software systems but look for ways to improve the quality of interactions between each other.
+
+#### Team Behaviors for Each Interaction Mode
+
+> Promise Theory - Mark Burgess defines this mode of team relationships in opposition to commands and enforceable contracts.  In the example of semantic versioning you're promising not to break software that depends on your code.
+
+- High Interaction and Mutual Respect (Collaboration Mode): Use techniques like, pair programming, mob programming, and white board sketching.  Also be aware that boundary-spanning can lead to somethings taking longer to work through with a large surface area of cognitive complexity due to the combining of the domain areas.
+- Emphasize the User Experience (X-as-a-Service Mode): Training or coaching in UX and DevEx can be key to helping teams understanding how to produce the most fruitful interactions for the teams consuming their product.
+- Help and Be Helped (Facilitating Mode): Training or coaching for teams on how to receive help or insights from teams that might have discovered a better way to do something they're doing.
+
+Team interaction modes of the fundamental team topologies
+|                        | Collaboration | X-as-a-Service | Facilitating |
+| ---------------------- | ------------- | -------------- | ------------ |
+| Stream-aligned         | Typical       | Typical        | Occasional   |
+| Enabling               | Occasional    |                | Typical      |
+| Complicated-subsystem  | Occasional    | Typical        |              |
+| Platform               | Occasional    | Typical        |              |
+
+#### Choose Team Interaction Modes to Reduce Uncertainty and Enhance Flow
+
+-  Collaboration mode can be used to discover viable X-as-a-Service boundaries or redefine those boundaries until the interfaces are proven to be stable and functional.
+-  If a team interaction has become stale or needs revitalized it may make sense to temporarily change the mode of team interaction to help team members refresh and grow.
+-  If interactions between teams feel awkward, forced, or cumbersome it could be because there is missing capabilities or misplaced boundaries between them.
+
+> "We need to be alert for the white space between the roles, gaps that nobody feels responsible for." - Don Reinersten
