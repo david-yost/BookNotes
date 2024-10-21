@@ -6,14 +6,14 @@
 
 ## Part 1 : Learn About the World of Emotional Intelligence
 
-### Chapter 1 - Emotions And Resoning At Work
+### Chapter 1 - Emotions And Reasoning At Work
 
 TODO: fill out the rest of chapter 1 notes
 
-##### Principle 6: Emotinoal universals exist, but so do specifics
+##### Principle 6: Emotional universals exist, but so do specifics
 
-- Secondary emotions, or self-concious emotions, usually have strong social or cultural components to them.
-- Gender can have effects on emtions and emotional intelligence, and women have a slight advantage in the hard skills of emotional intelligence.
+- Secondary emotions, or self-conscious emotions, usually have strong social or cultural components to them.
+- Gender can have effects on emotions and emotional intelligence, and women have a slight advantage in the hard skills of emotional intelligence.
 - Gender can also affect how actions are perceived, the same behavior could be seen as positive or negative between depending on the gender of the person taking the action.
 
 ### Chapter 2 - An Emotional Blueprint
@@ -23,14 +23,14 @@ TODO: fill out the rest of chapter 1 notes
 - A schematic diagram that was created to better help us understand the emotions of a situation and to give you explicit steps to process them.
 - There are 4 related skills for emotional intelligence:
     1. Read people - identify emotions: Identifying how you and those around you feel and your ability to express those feelings.
-    2. Get in the mood - use emotion: Use your emotions in harmony with your thinking, use themto change your perspective.
+    2. Get in the mood - use emotion: Use your emotions in harmony with your thinking, use them to change your perspective.
     3. Predict the emotional future - understand emotions: Understand the emotions so you can determine what you will do.
     4. Do it with feeling - Manage emotions: Be open to your emotions and use the information to make informed decisions.
 - Steps for the emotional blueprint:
     1. Identify emotions - get complete and accurate data by listening, asking questions, and paraphrasing to ensure you understand how your team feels.
     2. Use emotions - Have feelings help guide your thinking by determining how those feelings influence your thinking and the thinking of the team.
     3. Understand emotions - Evaluate possible emotional scenarios by examining the causes of these feelings and what may happen next.
-    4. Manage emotions - Determin underlying, root cause and take action to solve the problem by including the rational, logical information available with the emotinoal data you just gathered to make an optimal decision.
+    4. Manage emotions - Determine underlying, root cause and take action to solve the problem by including the rational, logical information available with the emotional data you just gathered to make an optimal decision.
 - You must be willing to open yourself to strong feelings, both positive and negative.
 
 ## Part 2 : Understand Your Emotional Skills
@@ -38,7 +38,7 @@ TODO: fill out the rest of chapter 1 notes
 ### Chapter 3 - Read People, Identifying Emotions
 
 - Being able to identify and understand emotions in yourself and those around you is the important first step in being emotionally intelligent.
-- In the example of Bob, being able to read emotions that others might ignore allowed him to tune into client sentiments that were often missed, helping to saving relationships and succeed with his brash and blue collar affect in an otherwise poshed and upper-crust environment.
+- In the example of Bob, being able to read emotions that others might ignore allowed him to tune into client sentiments that were often missed, helping to saving relationships and succeed with his brash and blue collar affect in an otherwise posh and upper-crust environment.
 
 > Recognizing the difference between a stranger who is friendly and ready to help you and a stranger who is unfriendly and ready to attack you can spell the difference between living another day and ending up dead.
 
@@ -81,3 +81,14 @@ Skills for identifying emotions
 - Some emotions can consist of combinations of other more simple emotions, sometimes even emotions that seem at odds with each other.
 - Emotions are not static and will often develop and change as they progress.
 - What-if planning can be critically important when evaluating people's emotions and how they might react to a situation, and correctly predicting the future can help us respond more adeptly.
+
+### Chapter 6 - Do It with Feeling, Managing Emotions
+
+- Managing emotions means being able to use your feelings, and the feelings of others, as part of your thinking process.
+- Managing emotions does not mean that you never feel emotions and that your actions are never emotional, but rather that it's integrated into your decisions in a way that improves your life and those around you.
+- There was an experiment that showed people watching an upsetting film remembered less about the film if they tries to suppress their emotions.
+- Some instances can make sense to suppress emotions, especially if we're not sure how to process what we're feeling in the moment.
+- Other time we need to allow ourself to feel things because to suppress them means spending mental energy on that and not problem solving using what your feeling to inform your thought process.
+- It's important to not allow the impulses of our emotions control our actions as a result, being impulsive with our reactions to overwhelming emotions can be just as damaging as ignoring them all together.
+- Managing our emotions is important because it means our conduct is guided both by thoughts and feelings, allowing us to make the most informed decision in any given set of circumstances.
+- We should neither suppress nor vent emotions, but should rather reflect on them and use them to make intelligent decisions inspired by additional information we gain from them.
