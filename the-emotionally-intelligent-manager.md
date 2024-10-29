@@ -92,3 +92,12 @@ Skills for identifying emotions
 - It's important to not allow the impulses of our emotions control our actions as a result, being impulsive with our reactions to overwhelming emotions can be just as damaging as ignoring them all together.
 - Managing our emotions is important because it means our conduct is guided both by thoughts and feelings, allowing us to make the most informed decision in any given set of circumstances.
 - We should neither suppress nor vent emotions, but should rather reflect on them and use them to make intelligent decisions inspired by additional information we gain from them.
+
+### Chapter 7 - Measuring Emotional Skills
+
+- To measure how emotionally intelligent you are you can take a "MSCEIT" (pronounced mess-keet) to evaluate your current skillset.
+- Evaluating how someone is feeling means paying attention to the details of their demeanor and expression (e.g. smiling with their eyes means that the smile is more likely genuine and not forced).
+- Matching tasks to the mood we're currently experiences can be valuable (e.g. proofing a budget when you're feeling sad because it helps us be more detailed and look for problems).
+- Checking our emotional vocabulary can help us determine if our ability to predict our emotional future (e.g. sorrow is usually experienced because of a loss which starts with frustration at that loss and turns to acceptance as we come to terms with it).
+- Thinking through responding to an emotionally charged situation can help us see how strong we are at managing emotions (e.g. a coworker that lied on their resume shares their secret with you and you help them process those emotions).
+- The MSCEIT has been developed using answers from thousands of people that have been analyzed and refined to create a normalized dataset that's used a base for comparison.
