@@ -288,3 +288,63 @@ Team interaction modes of the fundamental team topologies
 -  If interactions between teams feel awkward, forced, or cumbersome it could be because there is missing capabilities or misplaced boundaries between them.
 
 > "We need to be alert for the white space between the roles, gaps that nobody feels responsible for." - Don Reinersten
+
+### Chapter 8 - Evolve Team Structures with Organizational Sensing
+
+> "... the most important things is not the shape of the organization itself but the decision rules and heuristics used ot adapt and change the organization as new challenges arise;"
+
+- Collaboration that is not unnecessary can be more expensive than others as it can actually hide platform deficiencies and capabilities.
+- Getting to the status of a high-performing organization requires what level of collaboration each team-to-team relationship requires.
+- If a team-to-team relationship requires one team to be able to consume services from another team with little communication but that's not currently possible a temporary collaborative communication mode for a limited window to define strong APIs could make sense.
+- One tenant of strong technology leadership is using change in team interaction to create beneficial change in the delivery capability.
+- Collaboration is great for discovery, especially when new technology or domain expertise is emerging, and as discoveries are solidified it can evolve into an X-as-a-Service interaction mode.
+- Where teams are located can help to enforce communication boundaries.  For instance, sharing work space or even desks can help foster collaboration while splitting teams to different floors or buildings could help enforce X-as-a-Service communication.
+
+#### Combining Team Topologies for Greater Effectiveness
+
+- It is not uncommon to have multiple interaction modes across different team relationships, especially as an organization scales.
+- For instance a stream-aligned team could be in collaboration mode with a platform team around a logging service but other teams would interact with the platform team in more of an X-as-a-Service mode.
+- Collaboration does not scale across all teams and for most stream-aligned teams it will be more effective to operate in an X-as-a-Service mode.
+
+#### Triggers for Evolution of Team Topologies
+
+- Mapping an organization into the four fundamental team topologies can be fairly simple however, detecting when it needs to change can be complex and difficult.
+- Below are some triggers that make re-evaluating your organizational team topologies a good idea:
+
+1. Software has grown too large for one team
+    - Startup grows beyond 15 people
+    - Other teams spend lots of time waiting on a single team to undertake changes
+    - Changes to certain components or workflows in the system routinely get assigned to the same people, even when they're already busy or away
+    - Team members complain about lack of systems documentation
+2. Delivery cadence is becoming slower
+    - Team members qualitatively feel it takes longer to release changes than it used to
+    - Team velocity or throughput metrics show a clear downward variation compared to one year ago
+    - Team members complain that the delivery process used to be simpler, with fewer steps
+    - Work in progress keeps increasing, with many changes waiting for another team's action
+3. Multiple business services rely on a large set of underlying services
+    - Stream-aligned teams have limited visibility of end-to-end flow within their service area
+    - It becomes difficult to achieve a smooth and rapid flow of change due to the number and complexity of subsystem integrations
+    - Attempts to "reuse" an existing set of services and subsystems becomes more and more challenging
+
+#### Self Steer Design and Development
+
+- Organizations have historically look at "operate" and "develop" as different parts of software development with operation having very little feedback to development.
+- Development should be using the operation of the software as important signals into the development process.
+
+##### Treat teams and team interactions as senses and signals
+
+- Organizational sensing uses the teams and their communications, both internally and externally, as senses or the organization.
+- When organizations suppress many of the voices they are essentially blinding themselves to their sense and essentially operating "senseless" which leads to actions that are nonsensical.
+- There are some questions on page 171 that organizations can use to help determine what kinds of things an organization should sense.
+
+##### IT operations as high-value sensory input to development
+
+> "Project sponsors looking to reduce cost op for a different team of lower-cost people for maintenance work.  This is false economy.  It hurts the larger business outcome and reduces IT agility." - Sriram Narayan
+
+**The Three Ways of DevOps for modern, high performing organizations:**
+1. Systems things - optimize for fast flow across the whole organization, not just in small parts.
+2. Feedback loops - development informed and guided by operations
+3. Culture of continual experimentation and learning - sensing and feedback for every team interaction
+
+- Software is less of a "product for" and more of an "ongoing conversation with" users.
+
