@@ -914,3 +914,144 @@ The primary switch in the product model is from viewing technology as a cost cen
 Objection: I'm currently a CIO but I want to lead this change to the product model, and I'd like to expand my role to CTO.  Where can I learn more?
 
 Usually, a product and/or engineering coach can help with this but there are also CTO boot camps that can share best practices and latest techniques.
+
+### Chapter 45 - Objections from the PMO
+
+Objection: My understanding is that many of the marquee product model companies have a project or program management function.  What role do they play in the product model?
+
+The PMO can often serve as another version of command and control with a different face.  Instead the PMO should operate in a servant-based delivery management capacity to track major dependencies and remove impediments.
+
+Objection: I come from the school of thought where everything is about predictability.  We need to focus on delivering what we say, when we say.  We let the business leaders worry about what gets built, and we focus on being a reliable and trustworthy machine for delivering what is required.
+
+This summarizes the old model but is in direct conflict with the new.  We are no longer primarily focused on predictability but rather on innovation.  No longer are we worried about time to market we are worried about time to money.
+
+Objection: What are we supposed to do if we are no longer playing the program management role?
+
+Often times the PMO is transformed into a Delivery Management organization with a focus on servant-based project management and impediment removal.  Switching mindsets to this new mode of operation is crucial to be successful at delivery management. 
+
+### Chapter 46 - Objections from Inside Product
+
+Objection: How can we be responsible for outcomes if we don't control all the people necessary for delivering on that outcome--sales, marketing, services, and so on?
+
+This is common because there are some factors out of the product team's control.  However, the OKRs are meant to encourage product teams to get out of the office and discover how to make their products the best fit for their customer's needs.  On the other side of that argument is the sales perspective of, how can they sell a product they have no control over?
+
+Objection: It is very expensive fo rus to do a release of the necessary quality.  How can we possibly afford to do these releases more frequently?  Throwing more people at the problem doesn't necessarily speed the process up--it can actually slow it down further.
+
+"If it hurts, do it more often."  Pushing yourselves to more frequent releases will lead to investments in test and release automation to reduce the pain.
+
+Objection: We are in a regulated industry.  We're not allowed to test ideas on our customers, and we're not allowed to release this frequently.
+
+Objection: We are in a regulated industry.  We need to follow formal processes in order to be compliant and responsible.
+
+It's common that product teams are able to release much faster than they think they can.  Often it's not actually regulations that require slower releases and it's always just what has been done before.  Consult with the legal and compliance teams to see what's possible based on regulations.
+
+Objection: We don't have time to test product ideas.  We just need to code and ship.  We are fine letting stakeholders decide what they want us to build.
+
+Engineering leaders need to coach the tech leads to make sure engineers are in place that understand that engineers are often the source of innovation and often the opposite of this objection is true.
+
+Objection: Some of our engineers say they just want to be told what to build.  Is there room for those people on a product team?
+
+The tech leads need to be invested in how things are built as well as what, but the individual contributors less so.  However, it's good to keep in mind the type of engineers that best suite this style of innovation for new hires.
+
+Objection: If we test our product ideas with real users, then our competitors will find out what we're building.
+
+Sometimes NDAs can help address this but at the end of the day all product teams test out many ideas and the results of those ideas are unknown to outside sources.
+
+Objection: What if we show an idea to a customer in product discovery and they get all excited, but then we decide not to build that?
+
+It's important to explain to the customers that you're testing ideas and trying to deliver the most valuable solutions.
+
+Objection: When we do product discovery, we sometimes discover opportunities we think are a better use of our time than the problems we've been asked to solve.  Why can't we pivot to pursue the larger opportunity?  Isn't that what empowered teams are supposed to do?
+
+This should absolutely be raised to leadership, perhaps it's the next step in the product strategy.  However, being an empowered team doesn't mean doing whatever you like it means solving the problems you are assigned in whatever means the product team deems best.
+
+Objection: We are trying our best to please all our various stakeholders, but it literally seems impossible to give them all what they want, as well as delivery on the outcomes we're expected to achieve.  It feels like we're being setup to fail.
+
+Product teams should have 1 or 2 problems to solve at most in addition to keeping things running.  If you feel like you're team has been setup to fail it's important to talk through it with leadership.
+
+Objection: So much of what we want to do depends on other product teams, and we can't control what their priorities are.  Even small things take too much coordination work.  This situation certainly doesn't feel empowered.
+
+Often times the causes of this concern are large amounts of technical debt and/or poor team topology design.  In order to address these concerns you can increase team sizes, leverage delivery managers, and expand the use of platform teams.
+
+Objection: We have a hard time understanding what decisions we are allowed to make ourselves, which we are supposed to propose as recommendation for approval, and which are simply ones that will come down from above.
+
+This largely comes down to the level of risk and consequence as well as how difficult it is to reverse this decision.  Concerns with the level of risk for a decision should be surfaced in 1 on 1s with your manager.
+
+Objection: Sometimes we don't agree as a product team what the best decision is.  How are we supposed to resolve these disagreements?
+
+Disagreement is often healthy in a team that is working well.  That being said, typically when expertise is involved it's best to defer to the expertise however, when that is not in play it's best to run a quick test to get the best answer.
+
+Objection: We need a central role to control what all our commitments are and what all the various dependencies are and expected dates.  If we don't have a PMO, how will this be done?
+
+Engineering leadership should be responsible for all high integrity commitments that are committed to and delivery managers can help with tracking dependencies and removing impediments.
+
+Objection: A specific product team keeps complaining that it takes most or all of their time just to do the keep-the-lights-on work.
+
+Sometimes this is the case and it's important to evaluate.  If the KTLO work is over 30% for an experience team and 50% for a platform team then it may be necessary to add additional resources to get the numbers in line.  If that's not possible it's necessary to reduce the non-KTLO work until help can be added.
+
+Objection: Some engineers believe it would be faster for them to just build something in order to test it.
+
+Often this statement is from engineers that don't know how to quickly create prototypes.  In experienced teams where they still believe this it's perfectly reasonable to do this providing the engineer knows that this code may be thrown away if the idea doesn't work.
+
+Objection: The engineers are complaining that the product manager and designer are not including them in their discovery work other than to tell them what to build in the end.
+
+This can kill morale and stifle innovation.  It's best to start by speaking with the product manager first and escalating if necessary.
+
+Objection: The team is complaining that they're being asked to provide dates for everything.
+
+High integrity commitments are sometimes a fact of life.  However, they come at a cost and that cost should be explained to the business because it slows down the engineering team.  It's also important that the organization understand that these high integrity commitments are the exception and not the rule.
+
+Objection: The team is struggling with so much technical debt that even small items become major, takin ga big toll on morale as well as results.
+
+This is sometimes the case and it's possible you may need help from an outside firm to help determine the best way to dig out.  Even so it can take a year or two in order to full address situations like this.
+
+Objection: The team thinks there's no time actually to test the risks before building.
+
+Time to money is more important than time to market so if you build the wrong solution you'll have to start over when it doesn't achieve the desired result.  It's important to test and address risks with prototype to save time and money on implementing ideas that don't solve the problem.
+
+Objection: The discovery work and the delivery work are out of balance.  Either the discovery work can't keep up or the delivery work can't keep up.
+
+This is often a sign of too many or too few engineers so balancing this out can solve that imbalance.
+
+Objection: The team is struggling with remote employees.  Work is takin gan unusually long time; team members don't feel included; psychological safety is dropping.
+
+This is common and can be mitigated by scheduling time to work together in person at least once a quarter and offering more frequent coaching in 1 on 1s with struggling team members.
+
+Objection: The engineering leader keeps moving people from team to team based on weekly or monthly needs and is not appreciating the importance of durable teams.
+
+It's possible that the leader doesn't understand the importance of durable teams but perhaps it's a sign of a problem in the team topology.  Sometimes it's easier to create slightly larger teams with larger scopes and allow them to pass work between one another rather than moving engineers around.
+
+Objection: We have all these other people who were not covered in your product model competencies.  They include product owners and business analysts.  How do they fit in the mix?
+
+In short they don't, these responsibilities are covered by product managers and product designers.
+
+### Chapter 47 - Innovation Story: Kaiser Permanente
+
+- This is one of the largest nonprofit health care and health care organizations that started their transformation in 2019
+- Within a year of launching their transformation the pandemic hit and they had to solve for some constraints in their telehealth services
+- They embarked on a discovery path that led them to created "Get Care Now" which allowed them to help quickly and accurately triage their 12 million customers via telehealth, and if necessary, refer them to a doctor's office or an emergency room
+- After assessing and addressing all risks via prototypes they were able to create the platform and roll it out all over the course of 4 months
+- This is a strong transformation example of a company in a regulated industry that was able to discover, prototype, and deliver fast
+
+## Part XI - Conclusion
+
+### Chapter 48 - Keys to Successful Transformation
+
+1. The role of the CEO - it's extremely difficult to transform without the support of the CEO, they should be the chief evangelist of the product model for the organization
+2. The role of technology - the shift from necessary cost to core competency is key for successful transformation and effects how teams are staffed and managed
+3. Strong product leaders - it's vitally important to have strong leaders over product management, design, and engineering that understand and believe in how the product model works
+4. True product managers - often times transforming companies already have people with the product manager title, however they often have very different skills and responsibilities and it's important to hire people with the correct skills or coach existing employees that have the potential to build them out
+5. Professional product designers - the shift is from supporting to a central role and to be a part of the problem solving process
+6. Empowered engineers - they are the lifeblood of consistent innovation and should not be outsourced to truly be effective on their product teams
+7. Insights-based product strategy - it's important for the product strategy to be based on quantitative and qualitative insights that aim at driving business outcomes
+8. Stakeholder collaboration - engineers move from a subservient role to a collaborative role with stakeholders which can cause concern with some stakeholders that don't take the loss of control well and it's important not to force that change until product managers are in place that can do what they need to
+9. Continuous evangelization of outcomes - constantly evangelizing the shift from shipping projects and features to generating business outcomes
+10. Corporate courage - executives and senior leaders at a transforming organization must have the courage to continue pushing because it's hard to completely change operating models even if the current one is broken
+
+### Chapter 49 - Innovation Story: Trainline
+
+- After Trainline's successful transformation one of the new problems they faced was the perception of high prices from a customers view even though prices were extremely low 
+- By using their data science experts they were able to learn that ticket prices would rise the closer you got to departure dates and there was no late sell off attempts with discounts 
+- Despite record low prices from the rails if you bought in advance many people were paying way more because they were purchasing within those steep increase windows
+- They developed a prototype for showcasing savings that customers could realize by purchasing tickets earlier but had a concern that they could lose their trading license if it was inaccurate or upset the rail companies
+- The results were immensely positive with customers saving money and the rail companies making more money because more tickets were sold which allowed the team to make the case that they should roll this out to a wider group of railways
