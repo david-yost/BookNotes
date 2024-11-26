@@ -101,3 +101,14 @@ Skills for identifying emotions
 - Checking our emotional vocabulary can help us determine if our ability to predict our emotional future (e.g. sorrow is usually experienced because of a loss which starts with frustration at that loss and turns to acceptance as we come to terms with it).
 - Thinking through responding to an emotionally charged situation can help us see how strong we are at managing emotions (e.g. a coworker that lied on their resume shares their secret with you and you help them process those emotions).
 - The MSCEIT has been developed using answers from thousands of people that have been analyzed and refined to create a normalized dataset that's used a base for comparison.
+
+## Part 3 : Develop You Emotional Skills
+
+### Chapter 8 - Read People Correctly, Improving Your Ability to Identify Emotions
+
+- A mood journal or emotional diary can be a useful tool in tracking patterns in our emotional life to better understand our own emotions.
+- Watching yourself mimic emotions in a mirror, recording yourself in faux interviews or introductions, and playing emotional charades can all be great tools for practicing using the emotions you want when you speak.
+- Emotional clues are conveyed by others in 3 ways including; (1) facial expressions, (2) the pitch, rhythm, and tone of their voice, and (3) posture and body language.
+- The mouth, eyes, and nose all have discrete facial movements that can often give you a good indicator of how someone is feeling.
+- Catching emotional lies requires paying attention to emotional queues that don't match the emotion they're trying to portray, the bigger the stakes of the lie the strong the competing emotions.
+- Using language such as "You seem" can but a useful way to confirm how others are feeling to see if you're observing their emotions accurately.
