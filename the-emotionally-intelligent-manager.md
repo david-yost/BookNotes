@@ -112,3 +112,16 @@ Skills for identifying emotions
 - The mouth, eyes, and nose all have discrete facial movements that can often give you a good indicator of how someone is feeling.
 - Catching emotional lies requires paying attention to emotional queues that don't match the emotion they're trying to portray, the bigger the stakes of the lie the strong the competing emotions.
 - Using language such as "You seem" can but a useful way to confirm how others are feeling to see if you're observing their emotions accurately.
+
+### Chapter 9 - Get in the Right Mood, Improving Your Ability to Use Emotions
+
+- People have natural emotional dispositions that can impair their thinking rather than enhancing it.  It's not just a question of *when* to use emotions to enhance our thinking it's a question of *which* emotions can enhance our thinking.
+- Happy emotions make our creative thinking stronger, helps us think outside the box, allows us to see things at a more visionary scale, but can also lead to more problem solving errors.
+- The emotion of fear, at least in small doses, can help us re-evaluate old assumptions.  Everything and everyone is suspect and must be reviewed!
+- Sadness can be useful if it becomes instructive when the heightened sense of sadness helps us consider overlooked problems or determine the cause of a previous failure.
+- The use of anger can be destructive but it does narrow or field of vision and focuses on a target that is our perceived threat.  This can be useful when needed to defend intellectual property, stand up for those who are unable to stand up for themselves, or correct an injustice (an actual in justice, not just a perceived one).
+- Surprise can be a shock to our complacent attitude and kicks us into information seeking mode.  Our attention is broadened and we're looking for any new information that we perviously weren't privy to.
+- The tools of method acting can be useful in generating a mood that you wish to deploy in order to better suit the task you have at hand.
+- Developing the use of your emotional imagination can help you learn to feel what others feel, it's important to counteract negative emotions with positive emotions before concluding the exercise though.
+- Repeating short positive statements to yourself can be a great tool for quickly increasing your positive emotions.
+- Negative emotions, like sadness, are sometimes necessary because we need support or comfort.  Other times they can prevent us from moving forward and remembering our own, or other's, stories of triumph and resilience can help us shift our emotional energy.
