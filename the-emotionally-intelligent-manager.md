@@ -125,3 +125,21 @@ Skills for identifying emotions
 - Developing the use of your emotional imagination can help you learn to feel what others feel, it's important to counteract negative emotions with positive emotions before concluding the exercise though.
 - Repeating short positive statements to yourself can be a great tool for quickly increasing your positive emotions.
 - Negative emotions, like sadness, are sometimes necessary because we need support or comfort.  Other times they can prevent us from moving forward and remembering our own, or other's, stories of triumph and resilience can help us shift our emotional energy.
+
+### Chapter 10 - Predict the Emotional Future Accurately, Improving Your Ability to Understand Emotions
+
+- James Russellk developed an emotional system that focuses them in a range around a circle with pleasantness and energy level being their x and y axis respectively.
+- The basic emotions consist of anger, happiness, fear, surprise, and sadness.
+    1. Anger - Arises out of a sense of wrong or injustice, but sometimes that can be misinterpreted.  It can be wielded both intelligently and unintelligently, but also has health risks associated with it.
+    2. Happiness - This is a feeling that we have done something good that we value.
+    3. Fear - It is often directed toward the future, that something bad is going to happen that we're not yet seeing clearly.  When fear is persistent and generalized you have anxiety.
+    4. Surprise - When something happens that we do no anticipate or when plans are not going to work because the unexpected occurred.
+    5. Sadness - Experiencing disappointment or loss will often result in sadness, or when something we care about is taken from us.
+- Social emotions are social or culture-bound and include disgust, shame and guilt, and embarassment.
+    1. Disgust - This social emotion is meant to help keep others in line, to not cross boundaries of what social boundaries must be kept.
+    2. Shame and Guilt - Both of these are indications that we did not live up to some standard of importance to us, but shame is more focused on the failed act while guilt is more focused on the personal failing.
+    3. Embarassment - Outwardly, this is a sign of acknowledgement, and almost a physical apology that we messed up and can sometimes serve to stave off a fight because that outward appears shows that you know you made a mistake and makes you look less threatening.
+- It's necessary to get outside of your own head to discern how other people's experiences might impact their thinking.
+- Understanding emotional progressions is key to being able to understand someone else's emotional story and how they may be thinking and more importantly, predict how they _will_ feel.
+
+
