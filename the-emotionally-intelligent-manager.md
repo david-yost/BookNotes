@@ -142,4 +142,19 @@ Skills for identifying emotions
 - It's necessary to get outside of your own head to discern how other people's experiences might impact their thinking.
 - Understanding emotional progressions is key to being able to understand someone else's emotional story and how they may be thinking and more importantly, predict how they _will_ feel.
 
+### Chapter 11 - Do It with Smart Feelings, Improving Your Ability to Manage Emotions
 
+- You cannot resolve emotional distress with quick fix solutions like food, drink, daydreaming, or watching TV because they are temporary and when returning from them the origins of the distress are still there and sometimes worse.
+- One way you can effectively manage emotional distress is to write or journal about something for twenty minutes straight without thinking about it or editing.
+- Another way to help you emotionally regulate is to exercise regularly, at least 20 - 30 minutes 3 times a week.
+- Looking at how we have changed from one emotional extreme to the next can help us reverse engineer how we were able to navigate that change so we can do it deliberately if necessary.
+- Moods are the background noise of diffuse feelings we have and the way we interpret events is often heavily influenced by the mood that we are in.
+- Dispositional traits are a person's typical mood which filters the way they look at the events in the world around them.
+- Disengaging from emotion means we are aware of and process only the nonemotional data in a couple of ways.
+    1. Avoidance of Emotions - Turning away from and avoiding events that could be emotional in some capacity. 
+    2. Denial of Emotions - After experiencing an emotional even, actively hiding or preventing any sort of reaction to the emotional event.
+- Engagement of emotion can be done at various levels and through different strategies.
+    1. Emotional Reappraisal - Change the way you view a subjective emotional experience by recasting it in a way that's more acceptable for the environment.
+    2. Emotional Acknowledgement - You recognize the emotion to do not attempt to address or solve it and move on.
+    3. Emotional Integration - If we are generally aware of emotion in ourselves and others we can integrate emotion and thought but our strategy will most likely be basic.  At it's best it will include the four steps of the Emotional Blueprint.
+- Anger can be a useful tool for recognizing and addressing injustice but can also be incredibly destructive if not properly managed.
