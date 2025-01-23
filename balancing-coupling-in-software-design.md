@@ -89,3 +89,33 @@
 3. Complex: Other team(s) integrate with the database but you don't know who so you have to test changes and monitor performance in a staging environment.
 4. Chaotic: Other team(s) integrate with the database and changes tested in staging causes timeouts in prod so you trust your instincts and roll the change back.
 
+#### Chapter 3 - Coupling and Complexity: Interactions
+
+##### Complexity and System Design
+
+When dealing with complexity within systems there are primarily two ways of defining the way the components of a system interact with each other, linear and complex.
+
+Linear Interactions - Clear and predictable with obvious dependencies between components.  The cause-and-effect relationship between components is clear and changes introduced are clear on how the changes will impact components around it.
+
+Complex Interactions - Neither clear nor predictable.  Interactions either create unintended effects or the intended effects are created in unexpected ways.
+    1. Intended Effects in Unexpected Ways - A system producing intended effects in unexpected ways that no one understands.  Can happen for many reasons including loss of all personnel with knowledge of the system, too much accidental complexity, or inheriting a code base with an unfamiliar technology stack.
+    2. Unintended Results - These are accidents and system failures, and can still be present in complex interactions that achieve their goals.  Usually this is a symptom of implicit knowledge, whether that an assumption about the environment or a poorly constructed code base.
+
+##### Complexity and System Size
+
+The number of components does not determine the complexity of a system.  You can have systems with thousands of components that are less complex than a system with only a handful, the key difference is whether the interactions between those components are linear or complex.
+
+##### Hierarchical Complexity
+
+System complexity is multidimensional and interactions, whether complex or linear, can take place between components of a system or within components themselves.
+
+**Global Complexity** is the complexity of interactions between the system's components.
+**Local Complexity** is the complexity of a single component--the complexity of interactions happening inside it.
+
+##### Degrees of Freedom
+
+> **Degrees of freedom** is used in mechanics, thermodynamics, and other fields to describe the movement and behavior of physical systems.  It refers to the number of independent variables that can take on different values without being constrained by other variables.
+
+- Degrees of freedom can be limited somewhat by adding constraints to the variables.  (i.e. triangle class that verifies the sum of any 2 sides is greater than the third)
+- "Order in a system, and its future outcomes, are predictable as lon gas the system has constraints and the constraints can be sustained." - Snowden 2020
+- The fewer constraints that you can work with the less certainty you have about cause-and-effect relationships which means greater complexity.
