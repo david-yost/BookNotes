@@ -158,3 +158,25 @@ Skills for identifying emotions
     2. Emotional Acknowledgement - You recognize the emotion to do not attempt to address or solve it and move on.
     3. Emotional Integration - If we are generally aware of emotion in ourselves and others we can integrate emotion and thought but our strategy will most likely be basic.  At it's best it will include the four steps of the Emotional Blueprint.
 - Anger can be a useful tool for recognizing and addressing injustice but can also be incredibly destructive if not properly managed.
+
+## Part 4 : Applying Your Emotional Skills
+
+### Chapter 12 - Managing You, Applying Your Emotinoal Intelligence Skills
+
+> Perspective taking assumes that you can see the world through the eyes of another, and it can lead to some pretty interesting, yet uncomfortable, realizations.
+
+- The story of Yuki the investor illustrates how important it is to be aware of your emotional proclivities and when it might make sense to try to adjust them manually.  
+    - She knew that with her typical positive emotions she would not be as critical of the Seattle CEO's proposal.  
+    - Being in tune with how positive she felt, Yuki took deliberate steps to bring her emotions down to find critical misses in the plan so she could request assurances on how to fix them.
+    - Ultimately, she leveraged the emotional blueprint to navigate this situation by being accutely aware of her own emotions.
+- The story of Russell the compliance guy is a similar but almost mirror image of Yuki, highlighting his neutral to negative disposition which made him good at finding mistakes or inconsistencies in deals.
+    - In a new role Russell took on that negative posture made him less likeable amongst his clients and partners.
+    - Russell had to learn to bring his default neutral to negative demeanor more positive and did so by leveraging fond memories of fly fishing with his father whenever he needed to.
+    - This allowed him to be more positive and think creatively and feel what others felt.
+- The story of Marcy the CPA shows how emotional intelligence was successfully applied in some areas but not in others.
+    - Marcy found a financial mistake and provided the CFO with a recommended course of action, when he wanted her to cover up the mistake rather than fix it she refused because of her values and was ultimately fired.
+    - Using her emotional intelligence skills she was able to see how uneasy her HR rep was at the start of their conversation and put herself in his shoes and considered the CFO's perspective.  
+    - Marcy was able to identify why the HR rep was acting nervous and understand why the CFO might see her as a threat or "loose cannon" from his perspective.
+    - While she was able to use her EQ skills to navigate her job termination, if she had applied these skills more aptly during her initial conversation with the CFO perhaps this story has a different outcome.
+
+> The skills of emotional intelligence do not guarantee health, wealth, or happiness.  The rewards awaiting the emotionally intelligent manager may not be measurable in money, power, or prestige but in the desire and the ability to do well for oneself and for others.
