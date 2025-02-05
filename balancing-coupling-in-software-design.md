@@ -119,3 +119,36 @@ System complexity is multidimensional and interactions, whether complex or linea
 - Degrees of freedom can be limited somewhat by adding constraints to the variables.  (i.e. triangle class that verifies the sum of any 2 sides is greater than the third)
 - "Order in a system, and its future outcomes, are predictable as lon gas the system has constraints and the constraints can be sustained." - Snowden 2020
 - The fewer constraints that you can work with the less certainty you have about cause-and-effect relationships which means greater complexity.
+
+#### Chapter 4 - Coupling and Modularity
+
+> "At its core, modularity refers to systems composed of self-contained units called modules."
+
+**Fundamental properties to describe a module**
+1. Function - The modules goal.  It's exposed to the consumers of the module through its public interface.  The interface has to reflect the tasks that can be achieved by the module, how the module can be integrated, and its interactions with other modules.
+2. Logic - How the module's function is implemented; that is, the implementation details of the module.  Unlike function, which is explicitly exposed to consumers, a module's logic should be hidden from other modules.
+3. Context - The environment in which the module should be used.  This includes both explicit requirements and implicit assumptions the design makes on the module's usage scenarios and environment.
+
+##### Software Modules
+A Module is any collection of executable program statements meeting all of the following criteria:
+1. The statements implement self-contained functionality.
+2. The functionality can be called from any other module.
+3. The implementation has the potential to be individually compiled.
+
+##### Modules as Abstractions
+- Abstractions can be used to craft software boundaries
+- The goal of an abstraction is to represent multiple things equally well (i.e. car doesn't specify make, model, or color)
+- For the abstraction to work well it must eliminate details that are relevant to concrete cases but are not shared by all
+
+##### Modularity, Complexity, and Coupling
+Modularity controls complexity of a system in two ways:
+1. Eliminating accidental complexity; in other words, avoiding complexity driven by the poor design of a system
+2. Managing the system's essential complexity.  The essential complexity is an inherent part of the system's business domain and, thus, cannot be eliminated.  On the other hand, modular design contains its effect by encapsulating the complex parts in proper modules, preventing its complexity from "spilling" across the system.
+
+The three properties of a module define three types of knowledge reflected by the design of a module:
+1. Function: the explicitly exposed knowledge
+2. Logic: knowledge that is hidden within the module
+3. Context: knowledge the module has about its environment
+
+> Effective module design maximizes the knowledge it encapsulates, while sharing only the minimum that is required for other components to work with the module.
+
