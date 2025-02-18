@@ -152,3 +152,24 @@ The three properties of a module define three types of knowledge reflected by th
 
 > Effective module design maximizes the knowledge it encapsulates, while sharing only the minimum that is required for other components to work with the module.
 
+### Part 2 - Dimensions
+
+#### Chapter 5 - Structured Design's Module Coupling
+
+**Module Coupling** - A model proposed by structured design that describes six levels of interconnectedness: content, common, external, control, stamp, and data coupling.
+1. Content Coupling - Also known as pathological coupling, is when a downstream module references an upstream module's content directly instead of through the publicly defined interface.
+2. Common Coupling - This can occur when two modules are using a globally shared data structure.  Some common effects include the following:
+    - Sharing more information between modules than is necessary.
+    - Integration contracts between module is implicit, making changes more difficult.
+    - Data flow between modules is difficult to track.
+    - Duplicate business logic, like validation, between modules.
+    - The potential for race conditions.
+3. External Coupling - Just like _Common Coupling_ the modules are communicating through shared data, however, integrated modules aren't exposing all of their data and instead only share data needed for integration.  The effects of _External Coupling_ are pretty much identical to _Common Coupling_ because it's the same principal with a smaller dataset.
+4. Control Coupling - When one module controls the internal execution of another module, usually by passing in flags, commands, or options.  Some effects of _Control Coupling_ are:
+    - Inability to control execution flow.
+    - Module function AND logic is exposed through its public interface.
+5. Stamp Coupling - When two modules communicate by passing data structures that are revealing some of their implementation details.
+    - The primary effect is overexposure of data to integrated modules,  making it difficult to know what you can change safely.
+    - The biggest difference from _Common Coupling_ is that no business logic is shared across boundaries.
+    - The biggest difference from _Control Coupling_ is that only data structures are shared in _Stamp Coupling_ and no behavioral knowledge is shared.
+6. Data Coupling - The lowest level of coupling where no business logic is shared and only the minimum amount of data needed for integration is shared across modules.
