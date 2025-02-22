@@ -161,14 +161,14 @@ Skills for identifying emotions
 
 ## Part 4 : Applying Your Emotional Skills
 
-### Chapter 12 - Managing You, Applying Your Emotinoal Intelligence Skills
+### Chapter 12 - Managing You, Applying Your Emotional Intelligence Skills
 
 > Perspective taking assumes that you can see the world through the eyes of another, and it can lead to some pretty interesting, yet uncomfortable, realizations.
 
 - The story of Yuki the investor illustrates how important it is to be aware of your emotional proclivities and when it might make sense to try to adjust them manually.  
     - She knew that with her typical positive emotions she would not be as critical of the Seattle CEO's proposal.  
     - Being in tune with how positive she felt, Yuki took deliberate steps to bring her emotions down to find critical misses in the plan so she could request assurances on how to fix them.
-    - Ultimately, she leveraged the emotional blueprint to navigate this situation by being accutely aware of her own emotions.
+    - Ultimately, she leveraged the emotional blueprint to navigate this situation by being acutely aware of her own emotions.
 - The story of Russell the compliance guy is a similar but almost mirror image of Yuki, highlighting his neutral to negative disposition which made him good at finding mistakes or inconsistencies in deals.
     - In a new role Russell took on that negative posture made him less likeable amongst his clients and partners.
     - Russell had to learn to bring his default neutral to negative demeanor more positive and did so by leveraging fond memories of fly fishing with his father whenever he needed to.
@@ -180,3 +180,33 @@ Skills for identifying emotions
     - While she was able to use her EQ skills to navigate her job termination, if she had applied these skills more aptly during her initial conversation with the CFO perhaps this story has a different outcome.
 
 > The skills of emotional intelligence do not guarantee health, wealth, or happiness.  The rewards awaiting the emotionally intelligent manager may not be measurable in money, power, or prestige but in the desire and the ability to do well for oneself and for others.
+
+### Chapter 13 - Managing Others, Applying Emotional Intelligence Skills with Others
+
+#### Managing Change: Getting the Soft Stuff Right Is Hard Work
+
+> The emotionally intelligent manager does not just steer a course through the sea.  Such a manager sets the course.
+
+Questions to ask yourself to help with the Emotional Blueprint:
+1. How do the people in this situation feel?
+2. How are their feelings influencing their thoughts?
+3. Why do these people feel this way?  How will their feelings change as various events unfold?
+4. What can you do with their emotions?  How can you pay attention and include their emotions in your thinking and decisions?  How can you help them stay open to the data in their feelings and integrate the feelings into their thinking and behavior?
+
+##### Managing Change: Getting the Soft Stuff Right Is Hard Work
+The story of Jack Welch tells of a self important Elfun Society that invites him as a guest of honor only to be told they have little value as a group.  While this seems harsh and potentially emotionally unintelligent, the society had become complacent and lazy and needed this difficult to hear message.  Wether it was his intention or not, Jack's pointed words spurred the community back into action.
+
+##### Supervising People: I Can't Believe You Did That!
+Henry's story is one of a successful and eloquent lawyer that could read people's emotions well and generating emotions on demand.  He was bad at managing his own emotions however.  His relationship with his assistant became inappropriate and he ended up getting fired because he sent her some explicit photos in her work email from his.  The lack of ability to recognize and manage his own emotions led to his crossing a line and ultimately losing his job.
+
+##### Managing Client Relationships: When Smoke Gets in Your eyes
+Dan, working as an assistant for Helen, is working with an agency that is tight lipped about their client.  After signing an NDA they find out the job is for a cigarette company and despite their discomfort they push through the meeting only to find out they were both uncomfortable working for a tobacco organization.  Coming to this realization meant that neither of them were emotionally aware of how the other felt and ultimately they dropped the proposal and tried to maintain relationships as best as possible.
+
+##### Managing Politics: Trust, But Verify
+Erik had hired and later fired Charles, but after their time together there was a chance for Charles to pursue managing a fund of his own.  Erik agreed to help him but seemed to have an agenda of his own.  Charles was able to recognize Erik had his own motivations and took control of the situation to drive the agenda with a Tokyo investment firm, making sure that he was in control.  By recognizing Erik's emotions he was able to make sure he represented himself in the way he wanted.
+
+##### Meeting Business Objectives: Happy Days Are Here
+A product manager named Jeff was able to convince his company to invest in creating a new product his team and he had invented with the enthusiasm they had for the idea.  As the team got to work on of the parts needed for manufacturing was found and better than the specs they needed in many areas but was lacking one needed feature.  The team in their excitement for exceeding some of the specs and drive to finish the product wrote off that missing feature and Jeff let him self get caught up in the optimism instead of having a neutral or negative emotional state that would allow him to think more critically about how important that feature was.  In the end the product flopped, Jeff's division was reorganized, and he lost his job.
+
+##### Taking Reasonable Risk: The Case of Being Too Rational
+Rick and his team came up with an investment proposal that was sound, had little risk, and opened up doors to new markets for the firm.  When presenting to senior management it got shot down by the COO because a deal in this market had cost the company $300M and he was acting out of fear lingering from that previous loss.  Rick knew this and was able to adjust his approach to acknowledge the feelings of the COO and use that data to get him to agree to a scaled back version of the deal which was still successful.
