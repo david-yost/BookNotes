@@ -173,3 +173,23 @@ The three properties of a module define three types of knowledge reflected by th
     - The biggest difference from _Common Coupling_ is that no business logic is shared across boundaries.
     - The biggest difference from _Control Coupling_ is that only data structures are shared in _Stamp Coupling_ and no behavioral knowledge is shared.
 6. Data Coupling - The lowest level of coupling where no business logic is shared and only the minimum amount of data needed for integration is shared across modules.
+
+#### Chapter 6 - Connascence
+
+Connascence is a Latin word that means "having been born together" and in terms of software design mean that the lifecycles of two modules are intertwined.
+
+**Types of Connascence**
+1. Static connascence - describes interconnectedness between the module at the source code level; that is, its compile-time relationships.
+2. Dynamic connascence - describes the runtime relationships between the components, or how functionalities implemented in different modules affect each other during execution.
+
+##### Static Connascence
+- Connascence of name - the weakest level of interconnectedness on the connascence scale that implies to reference the same things, connected modules must agree on its name.
+- Connascence of type - when two modules must agree on the use of a specific type.  It is a slightly higher level of connascence than that of name.
+- Connascence of meaning - two modules attribute special mean to specific values, and these "magic values" are passed across boundaries.
+- Connascence of algorithm - two modules must agree on the usage of a particular algorithm to understand the values passed across their interfaces.  A common use case of this is when sending/receiving encrypted data.
+- Connascence of position - multiple modules need to agree on a specific order of elements.  For instance arguments in an array.
+
+##### Dynamic Connascence
+- Connascence of execution - multiple modules exhibit this when their execution must follow a specific sequence.
+- Connascence of timing - multiple modules exhibit this when their execution must follow a specific sequence and with a specific time interval between them.
+
