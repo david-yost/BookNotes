@@ -192,4 +192,6 @@ Connascence is a Latin word that means "having been born together" and in terms 
 ##### Dynamic Connascence
 - Connascence of execution - multiple modules exhibit this when their execution must follow a specific sequence.
 - Connascence of timing - multiple modules exhibit this when their execution must follow a specific sequence and with a specific time interval between them.
+- Connascence of value - values that have to change simultaneously, such as an atomic transaction, or that otherwise place the system in an incorrect state, are connascent by value.
+- Connascence of identity - when two objects need to reference the exact same instance of a third object to operate correctly.
 
