@@ -210,3 +210,18 @@ A product manager named Jeff was able to convince his company to invest in creat
 
 ##### Taking Reasonable Risk: The Case of Being Too Rational
 Rick and his team came up with an investment proposal that was sound, had little risk, and opened up doors to new markets for the firm.  When presenting to senior management it got shot down by the COO because a deal in this market had cost the company $300M and he was acting out of fear lingering from that previous loss.  Rick knew this and was able to adjust his approach to acknowledge the feelings of the COO and use that data to get him to agree to a scaled back version of the deal which was still successful.
+
+#### Chapter 14 - Building the Emotionally Intelligent Manager
+Challenges of management and leadership and how emotional intelligence can help
+1. Building Effective Teams - Teams are built, not born.  To build a good team it's essential to build trust with each team member, develop team cohesion, give credit for successes without looking to blame for failures, and get team members past the point of understanding and on to doing.
+2. Planning and Deciding Effectively - Planning is a logical activity, but being effective at it requires being open to many forms of information and data.  The decision making process itself benefits from generating alternative scenarios and what-if analyses which requires account for emotional data.
+    - People need to feel like they are able to provide honest feedback to their bosses, but bosses also need to be able to handle the feedback.
+3. Motivating people - One of the most emotional aspects of being a leader is to acknowledge and appreciate other's accomplishments.  Strong emotionally intelligent leaders are invested in the growth and development of the people they are responsible for.
+4. Communicating a vision - Being able to understand how others are feeling and empathize with them is at the core of getting others to buy into your picture of the future.
+    - "Communication acts as the glue which links together all other teamwork processes." - Ed Salas
+5. Promoting change - Change can be difficult to manage and requires emotion management skills, even when change is positive and innovative.  Much like managing emotions, managing changes means we must not only live the change but also demonstrate the new rules in our own action.
+6. Creating effective interpersonal relationships - Emotionally intelligent individuals have better relationships with their peers, having fewer negative interactions with close friends, and are willing to give both positive feedback for a job well done and sincere criticism to help recognize an error.
+
+**Emotions provide data that assist us in making rational decisions and behaving in adaptive ways.**
+
+> "Out of the marriage of reason with affect there issues clarity with passion.  Reason without affect would be impotent, affect without reason would be blind." - Sylvan Tomkins
