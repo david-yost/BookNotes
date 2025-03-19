@@ -195,3 +195,60 @@ Connascence is a Latin word that means "having been born together" and in terms 
 - Connascence of value - values that have to change simultaneously, such as an atomic transaction, or that otherwise place the system in an incorrect state, are connascent by value.
 - Connascence of identity - when two objects need to reference the exact same instance of a third object to operate correctly.
 
+#### Chapter 7 - Integration Strength
+
+##### Strength of Coupling
+**There are 2 scales of interconnectedness that reflect two key properties of inter-module interactions:**
+1. Interface type: Modules and communicate through private or public interfaces, private interfaces require more knowledge sharing and thus tighter coupling typically.
+2. Interface complexity: The more knowledge that is shared between modules the greater the chances that their interactions are more complex.
+
+> One of the blind spots of the coupling model is logic that is duplicated in otherwise disconnected modules.  For instance, if free shipping gets applied for orders over $1000 and that logic exists independently in 2 different modules but those modules do not directly interact they must still change together because of this shared knowledge.
+
+##### Integration Strength
+This model aims to achieve the following goals:
+- Practicality: Integration strength should be easy to grasp and to apply in day-to-day work.
+- Versatility: Enable evaluating the strength of coupling for all kinds of modules, from individual lines of code to services within a distributed system.
+- Completeness: Address the shortcomings and blind spots of module coupling and connascence.
+
+The 4 fundamental levels of integration strength:
+1. Contract coupling
+2. Model coupling
+3. Functional coupling
+4. Intrusive coupling
+
+The different fundamental levels of integration will be discussed below with reference to the book's working example of 2 services accessing the same database.
+
+##### Intrusive Coupling
+- Instead of communicating through public interfaces, the modules downstream rely on implementation details of the upstream module.
+- Reflection can often be used in intrusive coupling but is not in and of itself definitive of intrusive coupling (see ORM example)
+- Functional example: In a micro-service infrastructure, if the database belongs to Service A and was not meant to be an integration interface, but Service B is also accessing this database that would mean Service B is dependent on Service A's implementation details.
+- Some effects of intrusive coupling are:
+    1. It's very fragile because any change to the upstream module could break the integration with downstream components.
+    2. This is the most implicit integration interface and upstream modules are often not even aware of it.
+    3. It breaks encapsulation by not hiding as much knowledge as possible behind the boundaries of the module.
+
+##### Functional Coupling
+- When two or more modules share responsibility for business logic or rules they are functionally couple because any change to that business logic will affect all modules that share these responsibilities.
+- Functional coupling is not all or nothing and be further divided into the following types based on the extent of shared knowledge including:
+    1. Sequential Functionality - Similar to the connascence model of temporal coupling, this type of functionality requires things to run in a specific order for the business process to work.
+    2. Transactional Functionality - When there are multiple operations that must be carried out as part of a single unit of work.  One failure at any point requires a rollback of all operations within the transaction.
+    3. Symmetric Functionality - Multiple modules implementing the same functionality that must be updated synchronously for any business requirements changes, otherwise risking an invalid system state.  Don't violate the DRY principle!
+- Functional example: If two services are sharing the same database and they read/write data to the same table they must follow the same business rules to ensure consistency of data and are therefore functionally coupled.
+- An effect of functional coupling is that shared knowledge implemented separately by modules results in relationships that are implicit and difficult to track which can result in unintended system behavior if changes are not implemented in tandem.
+
+##### Model Coupling
+- This type of coupling is when multiple modules use the same model of a given business domain.
+- Models could represent the same object in different fashions for different needs (i.e. the support case for case management vs BI).  Creating one model for all needs could create an overly complex object that will likely cross module boundaries.
+- Functional example: If Service A is responsible for reading/writing to it's database but that database is shared with Service B via a readonly interface that would indicate model coupling.
+- Unlike __functional coupling__, model coupling only shares models as a means of integration and no functionality is shared between the modules.  This can still create breaking changes if the model requires updates for new business logic.
+
+##### Contract Coupling
+- When modules use an integration specific model, or contract, to communicate between each other.  It is an agreement outlining the terms of collaboration for the integrated modules.
+- Contract coupling shares the same degrees of coupling as __model coupling__ through levels of static connascence.  However, the strongest form of contract coupling is less prone to cascading changes than the weakest form of __model coupling__ because the model is related to implementation details while an integration contract is not.
+- Functional example: If Service A and Service B communicate to the same database using an integration model that would be considered contract coupling since both services use an abstracted contract to integrate via the database.
+- The use of an integration model reduces the risk of cascading change and creates and explicit integration method.  Despite it's numerous advantages we should think of contract coupling as another tool in the toolbox and not the absolute end goal.
+
+##### Integration Strength Discussion
+- The stronger the integration between modules the more likely it is that changes will have ripple effects for integrated modules and the less predictable the effects will be.
+- Coupling strength defines the type of integration interface while the degree describes the complexity of the information communicated through that interface.
+- Asynchronous execution alone does not reduce coupling as there are many aspects of coupling that could be present in asynchronous communication depending on the implementation.
