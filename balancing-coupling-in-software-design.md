@@ -252,3 +252,14 @@ The different fundamental levels of integration will be discussed below with ref
 - The stronger the integration between modules the more likely it is that changes will have ripple effects for integrated modules and the less predictable the effects will be.
 - Coupling strength defines the type of integration interface while the degree describes the complexity of the information communicated through that interface.
 - Asynchronous execution alone does not reduce coupling as there are many aspects of coupling that could be present in asynchronous communication depending on the implementation.
+
+#### Chapter 8 - Distance
+- The larger the distance is between multiple components that have shared knowledge and thus need to change together, the greater the level of effort required to implement that change.
+- The greater the distance for co-evolving modules the heavier the cognitive load and the more likely someone is to forget to update one of the components at some point.
+
+> "Distance between components is inversely proportional to their lifecycle coupling."
+
+- Collateral changes can occur when functionality that is unrelated in a component, violating the single responsibility principle, must be tested and deployed because they are lifecycle coupled.
+- There is also a socio-technical component to consider for distance. Does the same engineer own 2 things that are coupled?  Different teams in the same department?  Different departments?  Are they located in the same time zone?  The further the socio-technical distance the more collaboration required for shared knowledge changes.
+- Runtime couple is determined by how two modules communicate with eachother, meaning the more syncrhonous the communication the higher the runtime coupling and the more asynchronous the communication is the lower the runtime coupling.
+- Shared knowledge indicates how likely two modules are to change together, the distance of those modules determines the cost of coordinating those changes.
