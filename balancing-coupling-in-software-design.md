@@ -263,3 +263,28 @@ The different fundamental levels of integration will be discussed below with ref
 - There is also a socio-technical component to consider for distance. Does the same engineer own 2 things that are coupled?  Different teams in the same department?  Different departments?  Are they located in the same time zone?  The further the socio-technical distance the more collaboration required for shared knowledge changes.
 - Runtime couple is determined by how two modules communicate with eachother, meaning the more syncrhonous the communication the higher the runtime coupling and the more asynchronous the communication is the lower the runtime coupling.
 - Shared knowledge indicates how likely two modules are to change together, the distance of those modules determines the cost of coordinating those changes.
+
+#### Chapter 9 - Volatility
+- Coupling that is not ideal in theory may not be a major concern if the system is static, the less a system changes the less these complex interactions create problems.
+
+##### Why Software Changes
+- There are 2 areas that software design revolves around, the problem space and the solution space.
+- The problem space defines the business problem that needs to be solved by the software.
+- The solution space is all about the software itself and how it is designed, architected, and implemented.
+
+**Solution Changes**
+- The solutions to a problem can change without the problem itself changing.
+- Sometimes solutions change as the result of organizational changes (the effect of Conway's Law).
+- It's important to note that organizational distance is not necessarily physical, teams that are distant organizationally may not be physically distant but communication channels would be more "distant" depending on if they are in the same team, or different departments.
+
+**Problem Changes**
+> "Walking on water and developing softwar efrom a specification are easy if both are frozen." - Edward V. Berard
+- New functionality might be required because new business insights, opportunities, or customer demands arisse.
+
+##### Evaluating Rates of Changes
+- Business Domain - The overall area of activity in which a business operates.
+- Business Subdomains - Finer-grained areas of the business that are focused on specific parts of business activity that are needed for the company to succeed in its business domain.
+**Types of Subdomains**
+1. Core - This subdomain contains key functionality that gives the company a competitive advantage in their business domain.  These subdomains are expected to be the most volatile.
+2. Generic - These are the oppositive of core subdomains and may even leverage out of the box solutions that your direct competitors use.  
+3. Supporting - Somewhere between core and generic subdomains.  While they offer no competitive advantage because the barriers to entry are generally low and easy to overcome, they are not able to be solved with pre-existing solutions.
