@@ -288,3 +288,55 @@ The different fundamental levels of integration will be discussed below with ref
 1. Core - This subdomain contains key functionality that gives the company a competitive advantage in their business domain.  These subdomains are expected to be the most volatile.
 2. Generic - These are the oppositive of core subdomains and may even leverage out of the box solutions that your direct competitors use.  
 3. Supporting - Somewhere between core and generic subdomains.  While they offer no competitive advantage because the barriers to entry are generally low and easy to overcome, they are not able to be solved with pre-existing solutions.
+
+#### Chapter 10 - Balancing Coupling
+- There are 3 dimensions that we use to measure coupling between modules: strength (or shared knowledge), space (or physical arrangement), and time (or volatility)
+- The goal is not to minimize the strength of coupling in our designs, but to design a modular system that is simple to implement, maintain, and evolve which means we must consider all 3 dimensions.
+
+##### Measurement Units
+- VOLATILITY AND STRENGTH - Both volatility and strength are high
+- NOT STRENGTH OR NOT DISTANCE - Strength is low or distance is low, or both are low
+- VOLATILITY XOR DISTANCE - Either one of volatility and distance is high, and the second is low
+
+##### Stability: Volatility and Strength 
+STABILITY = NOT(VOLATILITY AND STRENGTH)
+
+##### Actual Costs: Volatility and Distance
+CHANGE COST = VOLATILITY AND DISTANCE
+
+##### Modularity and Complexity: Strength and Distance
+MODULARITY = STRENGTH XOR DISTANCE
+COMPLEXITY = NOT MODULARITY
+           = NOT (STRENGTH XOR DISTANCE)
+LOCAL COMPLEXITY = NOT STRENGTH AND NOT DISTANCE
+GLOBAL COMPLEXITY = STRENGTH AND DISTANCE
+
+##### Combining Strength, Distance, and Volatility
+MAINTENANCE EFFORT = STRENGTH * DISTANCE * VOLATILITY
+
+BALANCE = NOT (COMPLEXITY AND VOLATILITY)
+        = MODULARITY OR NOT VOLATILITY
+        = (STRENGTH XOR DISTANCE) OR NOT VOLATILITY
+
+##### Balancing Coupling on a Numeric Scale
+> DISCLAIMER: THIS IS NOT AN EXACT SCIENCE!
+
+**Scale**
+- Integration Strength
+    - 1 = Contract coupling
+    - 3 = Model coupling
+    - 8 = Functional coupling
+    - 9 = Symmetric functional coupling
+    - 10 - Intrusive coupling
+- Distance
+    - 1 = Methods in the same object
+    - 2 = Objects in the same namespace/package
+    - 3-7 = Objects in different namespaces/packages
+    - 8 = Different libraries
+    - 9 = Services in a distributed system
+    - 10 = Systems implemented by different vendors
+- Volatility
+    - 1 = Legacy system that is not being evolved
+    - 3 = Supporting or generic subdomain
+    - 10 = Core subdomain, or inferred volatility from a core subdomain
+    
