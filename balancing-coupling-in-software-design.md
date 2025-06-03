@@ -340,3 +340,20 @@ BALANCE = NOT (COMPLEXITY AND VOLATILITY)
     - 3 = Supporting or generic subdomain
     - 10 = Core subdomain, or inferred volatility from a core subdomain
     
+#### Chapter 11 - Rebalancing Coupling
+
+Change is inevitable in software, it evolves and adapts to meet new business requirement and solve new problems.  When change is introduced it can sometimes be accommodated by the existing design, and sometimes it cannot.  When it cannot it's important to review previous design discussion and see what assumptions these new changes might have exploded.
+
+##### Software Change Vectors
+- Tactical Changes - These will alter the way a system or it's components support business goals and can be anticipated.  This means that adequate software design should be able to accommodate these changes.
+    - These changes can also involve bug fixes and other implementation improvements.
+    - If changes don't require adjusting existing component boundaries or their interrelationships they are considered tactical changes as well.
+- Strategic Changes - These are more substantial and shift what's being implemented, what problems you're solving, or what org/structure executes it.
+    - **Functional Requirements** - This would be the expansion of functionality with new knowledge that can reshape the existing design.
+    - **Business Strategy** - When subdomains shift and the core subdomain of an organization requires a different software approach.
+    - **Organizational Changes** - As organization grow or re-organize and change communication patterns software will follow those organizational changes.
+    - **Environmental Changes** - Things like execution environment or regulatory shifts can constitute environmental changes that require significant software change.
+
+##### Rebalancing Coupling
+> "Contrary to tactical changes, which are supposed to fit within the software's design, strategic changes can disrupt both design and the assumptions it was built upon.  As a result, the three dimensions of coupling--strength, distance, and volatility--have to be rebalanced to ensure the system's modularity in the long term."
+
