@@ -357,3 +357,72 @@ Change is inevitable in software, it evolves and adapts to meet new business req
 ##### Rebalancing Coupling
 > "Contrary to tactical changes, which are supposed to fit within the software's design, strategic changes can disrupt both design and the assumptions it was built upon.  As a result, the three dimensions of coupling--strength, distance, and volatility--have to be rebalanced to ensure the system's modularity in the long term."
 
+#### Chapter 12 - Fractal Geometry of Software Design
+- Growth is natural, and even good, for software systems and are usually due to things like growing requirements as business value is proven out or increased scaling for expanding user bases.
+
+**Network-Based Systems** - Geoffery West characterized network based systems by having the following properties:
+    1. Space filling: The system sustains itself by transporting energy through a hierarchical branching network, ensuring that the energy reaches all parts of the systems.
+    2. Invariant terminal units: The energy is delivered to terminal units, which maintain consistent size and characteristics regardless of the overall size of the system.
+    3. Optimization: The system continuously evolves to minimize energy wastage and maximize available energy.
+
+**Software Design as a Network-Based System** - Similarly, software systems are network-based systems and are evident in the properties that define them:
+    1. Space filling: While knowledge can change its form, it ultimately reaches all components of a system: from high-level modules all the way down to the machine code instructions executed at the system's lowest levels.
+    2. Invariant terminal units: In the end, all knowledge communicated across a system's modules is translated into machine code instructions.  Regardless of system size, the machine code and the hardware executing it remain the same.
+    3. Optimization: They network delivering knowledge, represented by the design of component boundaries, can be optimized.  This optimization reflects the process of improving a system's design and evolving its functionality.
+
+- Systems that increase typically find efficiencies of scale
+- There are limits to this growth because not everything that becomes more efficient has a positive impact
+- The hard limit is imposed when the negatives of the growth outweigh the positives of their own growth and break "under their own weight"
+- Extending an existing system with new functionality has a couple of things to weigh for balance
+    1. Assuming the new functionality can be somewhat built on existing parts of the system, if the functionality is doubled the required knowledge is not because some existing knowledge is also used for the new functionality
+    2. Assuming each new module must talk to every other module (overstated yes, but illustrates the point) the lines of communication scale superlinearly and increase the complexity of the system until the cognitive overheard of the system is unbearable
+- This does not mean that there are certain ceilings that a system cannot grow beyond, at a certain point though they require innovation in the way of strong material or change in form and proportions
+
+#### Chapter 13 - Balanced Coupling in Practice
+
+##### Case Study 1: Events Sharing Extraneous Knowledge
+- The WolfDesk Case Support Management (CSM) team published all internal events for other teams to integrate with
+- The Support Autopilot team consumed these messages and trained a model to auto-generate solutions for new cases
+- When the SCM team added new events or modified existing ones that created friction for the Autopilot team because they needed to retrain the model
+- Since the Autopilot team was consuming all of the different event types there was "model coupling" between distant systems
+- Addressing the issue required creating 2 event types; private events that would be used internally by the service to model the lifecycle of the support cases, and public events that act as an integration specific model that exposes minimum required information to shift the communication style from "model coupling" to "contract coupling" which is a more appropriate communication style for distant components
+
+##### Case Study 2: Good Enough Integration
+- The Desks component manages the help desks, organizational units, and agent schedules
+- This is a supporting subdomain as it does not offer a competitive advantage
+- The Distribution component relies on the Desks component schedule changes which is also considered "model coupling"
+- Even though this is the same communication style as Case Study 1 it does not cause integration issues because the Desks component does not change so the reduced volatility means less friction
+
+##### Case Study 3: Reducing Complexity
+- The original design by the WolfDesk team was a layered approach where each layer was responsible for a portion of the app (i.e. presentation, application, business logic, and data access layers)
+- This means there is model coupling up and down the layers and implementing changes requires touching all layers
+- Instead they switched to a vertical slices approach, focusing on breaking the application down by functions instead of layers
+- This allows the team to keep closely related code together and reduce cascading changes
+
+##### Case Study 4: Layers, Ports, and Adapters
+- Despite changing to vertical slices and layers the team was still running into difficulties with changes to the Support Cases Lifecycle slice
+- To solve this challenge the team adopted the ports and adapters architecture (Cockburn 2005) which inverts the dependencies
+- The Domain becomes the top layer which feeds into the application layer which then feeds into the infrastructure layer
+- This inversion creates additional distance between components and shifts the coupling to model or contract coupling which increases modularity
+
+##### Case Study 5: Entities and Aggregates
+- There are initially 4 classes in the WolfDesk functionality including: SupportCase, Message, Customer, and SupportAgent
+- The ORM implemented allows the engineers to traverse freely between cases, customers, messages, and support agents
+- A requirement for a case to be escalated if no message response is sent by an agent within a time window introduces the need to atomically commit changes between messages and cases to enforce this new rule
+- By using the aggregate pattern (Evans 2004) we can limit the object traversal to functionally coupled objects (i.e. messages and cases) and only store the Ids for the agent and customer
+
+##### Case Study 6: Organizing Classes
+- Originally the team decided to organize files in folders according to the technical roles they play
+- This resulted in the same problem as Case Study 4 where related items would be located in distant folders
+- By co-locating items within the same folder based on functional coupling you can minimize the distance between them and reduce the cognitive load of where those related files live
+
+##### Case Study 7: Divide and Conquer
+- In the original SupportCase class models in Chapter 8 it implemented a send email and send SMS notification method
+- We moved that out to the domain layer and defined an new class for handling those communications
+- We can further create distance between these modules by extracting each method into its own interface
+
+##### Case Study 8: Code Smells
+- Look for functionality that should be shared to lift it out into a more centrally accessible location
+- Reduce dependency on things that are not closely related
+- Don't overshare knowledge between components and modules when unnecessary
+- Relocate code to be near the things that they are functionally coupled with or share knowledge with
