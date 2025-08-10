@@ -66,3 +66,32 @@ There are a few calculators used in the book to help illustrate points:
 - The key formula to saving and investing to build wealth is: **Spend less than you earn - Invest the surplus - Avoid debt.
 
 > VTSAX - Vanguard Total Stock Market Index Fund which has on average a 12.2% annual return over the last half century.
+
+### Chapter 4 - How To Think About Money
+#### Level 1: It's Not just About Spending
+- How we think about money affects where we end up financially. If given $100 would you think about what you could spend it on?  Invest it and spend the yearly returns?  Invest it and spend a smaller portion of the yearly returns than what it earns?  Or invest it and let it sit until the compounding effect has built enough wealth to be rich?
+- When you spend money, not only is that money gone, but any money that money could have earned is gone as well.
+
+#### Level 2: Consider Opportunity Costs
+- Opportunity cost isx simply what you give up when you commit your money to one thing over another.
+- A $25,000 car that in the VTSAX would earn a conservatively estimated $2,000 on the first year, but compounding over the following years so that the end of 10 year that estimated opportunity cost would be around $53,973.
+- One of the beauties of being financially independent is that the power of compounding is greater than the opportunity cost of what you spend.
+- If you are not currently financially independent and that's an attractive goal you would be well served to look at your spending through opportunity cost.
+
+#### Level 3: How To Think About Your Investments
+- Warren Buffett's famous rules: Rule #1: Never lose money.  Rule #2: Never forget rule #1.
+- Many people misread Mr. Buffett's quote as him having figured out how to dance in and out of the market but that's not true.
+- You can't view investments only in the moment of "I'm down 10%" or "I'm up 8%".  Long term investments will have events that cause downward trends but the market on average is moving up on the long term so momentary losses are always turned into long term gains if you don't realize those losses by pulling your money out.
+
+### Chapter 5 - Investing In A Raging Bull (Or Bear) Market
+**Some investment principles of the author:**
+> 1. It is simply not possible to time the market, regardless of all the heavily credentialed gurus on CNBC and the like who claim they can.
+> 2. The market is the most powerful wealth-building tool of all time.
+> 3. The market always goes up, and it is always a wild and rocky ride along the way.
+> 4. Since we can't predict these swings, we need to toughen up mentally and ride them out.
+> 5. I want my money workin gas hard as possible, as soon as possible.
+
+- Successful investment is by definition long term, anything in the short term is simply speculation.
+
+## Part 2 - How To Harness The World's Most Powerful Wealth-Building Tool
+
