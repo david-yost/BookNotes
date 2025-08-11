@@ -109,3 +109,18 @@ There are a few calculators used in the book to help illustrate points:
 - Toughen up, ignore the noise, ride out the storm, and continue adding to your investments.
 - Be emotionally and intellectually prepared for these market dives.
 - There's a major market crash coming, and there will be another after that.
+
+### Chapter 7 - The Market Always Goes Up
+- The author shares his own story of losing his nerve and selling in the Black Monday crash of '87 when it was practically bottomed out.
+- Buying out and realizing those losses meant that buying back into the market when it started to rise exacted a heavy price.
+- Through disaster after disaster, the market continues it's long wild right relentlessly up and to the right.
+
+**Two basic reasons that the market always goes up**
+1. The market is self cleansing - That is to say that companies rise and fall.  Previously successful companies may some day be replaced by a new rising star.  It's important to note that this only works for broad based index funds.  When "professional management" tries to beat the system there is no guarantee that those attempts will be successful.
+2. Owning stock is owning a part of living, breathing, dynamic companies, each striving to succeed - Owning stock is literally owning a piece of all of those companies that are trying so desperately to succeed.  In broad based index funds, as mentioned in point one, some companies will rise and some will fall, but ultimately will always trend upwards.
+
+### Chapter 8 - Why Most People Lose Money In The Market
+1. We think we can time the market.  Pulling your money out when the market is high and buying when it is low seems appealing but it's almost impossible to do this accurately and with any regularity.
+2. We believe that we can pick individual stocks.  It's a great rush when you're right as well as incredibly addicting, but being able to beat the index year after year, even by a small margin, is incredible difficult.
+3. We Believe we can pick winning mutual fund managers.  Around 7% of mutual funds will fail each year, and of those that do survive only around 17% will outperform their benchmarks which means that most are likely to do worse than indexed funds.
+4. We focus on the foam.  In the analogy of a beer poured into a dark mug in another room, you don't know how much is beer and how much is foam when put in front of you.  The beer is the actual operating business of which we can own a part in the market and the foam is the volatile moment to moment rise and fall of particular companies.  The foam is distracting, and while it may have an impact on the moment it's better to focus on the long term view of the market.
