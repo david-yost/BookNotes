@@ -94,4 +94,18 @@ There are a few calculators used in the book to help illustrate points:
 - Successful investment is by definition long term, anything in the short term is simply speculation.
 
 ## Part 2 - How To Harness The World's Most Powerful Wealth-Building Tool
+> "Simplicity is the keynote of all true elegance." - Coco Chanel
 
+### Chapter 6 - There's A Major Market Crash Coming!!!! And Even Famous Economists Can't Save You
+- An economist quoted by the author at the beginning of the chapter suggests that markets have become more volatile recently and the best way to combat that is to hold a broad spectrum of assets. This not only requires significantly more time investment to manage properly but is also likely to perform worse with the promise of more security.
+- The author's advice: "Toughen up, cupcake, and cure your bad behavior."
+
+**A few thins to understand about the stock market**
+- Market crashes are not abnormal and are to be expected across long term investments. 
+- The market always recovers.  Always.  And if someday it doesn't, no investment interest will be safe.
+- The market always goes up.  Always.  Not every day, week, month, or even year.  If you look at the market over it's long term existence though, it's always relentlessly trending upwards, even if there are a few bumps along the way.
+- The market is the single best-performing investment class over time, bar none.
+- The upcoming decades will have just as many catastrophic events as the past.  It will be tempting to sell during those down swings, but only those with enough nerve to stay will prosper.
+- Toughen up, ignore the noise, ride out the storm, and continue adding to your investments.
+- Be emotionally and intellectually prepared for these market dives.
+- There's a major market crash coming, and there will be another after that.
