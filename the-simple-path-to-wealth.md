@@ -124,3 +124,9 @@ There are a few calculators used in the book to help illustrate points:
 2. We believe that we can pick individual stocks.  It's a great rush when you're right as well as incredibly addicting, but being able to beat the index year after year, even by a small margin, is incredible difficult.
 3. We Believe we can pick winning mutual fund managers.  Around 7% of mutual funds will fail each year, and of those that do survive only around 17% will outperform their benchmarks which means that most are likely to do worse than indexed funds.
 4. We focus on the foam.  In the analogy of a beer poured into a dark mug in another room, you don't know how much is beer and how much is foam when put in front of you.  The beer is the actual operating business of which we can own a part in the market and the foam is the volatile moment to moment rise and fall of particular companies.  The foam is distracting, and while it may have an impact on the moment it's better to focus on the long term view of the market.
+
+### Chapter 9 - The Big Ugly Event
+- The crash of 1929 was the worst financial collapse the market has ever seen.
+- There are two possible economic disasters that can destroy wealth on a major scale, the first is a deflationary depression like 1929, the second is hyperinflation.
+- During a deflationary cycle you're incentivised to wait to purchase something like a house because the longer it trends downward the cheaper real estate gets and the rates of purchasing a house, while inflantionary environments encourage buying now because tomorrow it might be more expensive.
+- The VTSAX wealth-building strategy hedges somewhat against inflation assuming the market follows the inflationary trend.
