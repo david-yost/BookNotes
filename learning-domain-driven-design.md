@@ -32,3 +32,30 @@
 
 **Domain Experts** 
 These people are subject matter experts that know all of the business intricacies that need to be modeled and implemented in code.
+
+### Chapter 2 - Discovering Domain Knowledge
+> "It's developers' (mis)understanding, no domain experts' knowledge, that gets released in production." -Alberto Brandolini
+
+- Business problems are not just riddles or math equations to solve, they are workflow optimization, process streamlining, labor minimizing, and many more, tools that help the business in it's goal to solve customer problems.
+
+**Mental Model** - The domain experts' way of thinking about a problem.
+
+- Knowledge discovery is the process of understanding the business problem through the perspective of the domain experts and learning to communicate with shared language that they understand.
+
+**Analysis Model** - An engineer-friendly description of the domain knowledge translated into system requirements to build rather than an understanding of the business domain behind it.
+
+- Communication is essential between everyone to ensure that an accurate mental model of the business domain is established so the product team can create and deliver a solution that effectively solves the business problem presented to them.
+
+**Ubiquitous Language** - A cultivated singular language used for describing the business domain instead of continuously translating it based on the step in the process it is discussed.  It must be based on the language of the business and include no technical jargon.
+
+**Ambiguous Terms** - A term cannot have multiple meanings (i.e. policy for regulatory rule or insurance contract) so instead of using "policy" in domain language you would create singular meaning with the separate terms "regulatory rule" and "insurance contract".
+
+**Synonymous Terms** - You cannot use terms interchangeably (i.e. user, visitor, administrator, account) because while they are all users each one of them will have specific roles and use cases within the domain so instead you would want to use the more specific terms.
+
+#### Model of the Business Domain
+> "A model is a simplified representation of a thing or phenomenon that intentionally emphasizes certain aspects while ignoring others.  Abstraction with a specific use in mind." - Rebecca Wirfs-Brock
+
+- All models have a purpose, and an effective model contains only the details needed to fulfill its purpose.
+- Modeling a business domain is based on a domain experts mental model of how the business works to implement its function and is not meant to capture every possible detail of a domain.
+- Creating a ubiquitous language is a continuous effort that should be validated everyday in communication around the work and evolved when deeper insights reveal error or nuance that differs.
+- Tools can be used to help enforce the ubiquitous language such as a glossary of domain terms, gherkin tests to manage tests for business use cases, and static code analysis tools to verify the code is correctly using the ubiquitous language.
