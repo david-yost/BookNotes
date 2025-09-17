@@ -89,7 +89,7 @@ There are a few calculators used in the book to help illustrate points:
 > 2. The market is the most powerful wealth-building tool of all time.
 > 3. The market always goes up, and it is always a wild and rocky ride along the way.
 > 4. Since we can't predict these swings, we need to toughen up mentally and ride them out.
-> 5. I want my money workin gas hard as possible, as soon as possible.
+> 5. I want my money working as hard as possible, as soon as possible.
 
 - Successful investment is by definition long term, anything in the short term is simply speculation.
 
@@ -128,5 +128,21 @@ There are a few calculators used in the book to help illustrate points:
 ### Chapter 9 - The Big Ugly Event
 - The crash of 1929 was the worst financial collapse the market has ever seen.
 - There are two possible economic disasters that can destroy wealth on a major scale, the first is a deflationary depression like 1929, the second is hyperinflation.
-- During a deflationary cycle you're incentivised to wait to purchase something like a house because the longer it trends downward the cheaper real estate gets and the rates of purchasing a house, while inflantionary environments encourage buying now because tomorrow it might be more expensive.
+- During a deflationary cycle you're incentivized to wait to purchase something like a house because the longer it trends downward the cheaper real estate gets and the rates of purchasing a house, while inflationary environments encourage buying now because tomorrow it might be more expensive.
 - The VTSAX wealth-building strategy hedges somewhat against inflation assuming the market follows the inflationary trend.
+
+### Chapter 10 - Keep It Simple: Considerations and Tools
+**Three Considerations**
+1. In what stage of your investing life are you?  The wealth accumulation stage or the wealth preservation stage?  Or perhaps a blend of the two?
+2. What level of risk do you find acceptable?
+3. Is your investment horizon long term or short term?
+
+- There is no such thing as risk-free investment, even if you put your money in an insured bank account your interest may not outpace inflation which could reduce your spending power.
+- Your investment stage is not tied to your age, but rather wether you are adding to your investments or calling upon them to provide income for you.
+- F-You money is critical and requires being consistent about building it, it's never too late to start.
+- Don't be too hasty to think short term, life expectancy is continually increasing and depending on how early you retire you could have a long investment horizon.
+
+**The Three Tools**
+1. Stocks: VTSAX (Vanguard Tool Stock Market Index Fund).  Stocks provide the best returns over time and serve as our inflation hedge.  This is our core wealth building tool.
+2. Bonds: VBTLX (Vanguard Total Bond Market Index Fund).  Bonds provide income, tend to smooth out the rough ride of stocks, and serve as our deflation hedge.
+3. Cash: Cash is good to have around to cover routine expenses and meet emergencies.  Cash is also king during times of deflation.  The more prices drop, the more your cash can buy.
