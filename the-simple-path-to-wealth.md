@@ -146,3 +146,15 @@ There are a few calculators used in the book to help illustrate points:
 1. Stocks: VTSAX (Vanguard Tool Stock Market Index Fund).  Stocks provide the best returns over time and serve as our inflation hedge.  This is our core wealth building tool.
 2. Bonds: VBTLX (Vanguard Total Bond Market Index Fund).  Bonds provide income, tend to smooth out the rough ride of stocks, and serve as our deflation hedge.
 3. Cash: Cash is good to have around to cover routine expenses and meet emergencies.  Cash is also king during times of deflation.  The more prices drop, the more your cash can buy.
+
+ ### Chapter 11 - Index Funds Are Really Just For Lazy People, Right?
+ - Index investing is not for lazy people, it's for people who want the best possible results.
+ - Buying all the stocks in the market index reliably and consistently outperforms professional management, especially when taking costs into consideration.
+ 
+ **Why do so may resist the idea of indexing?**
+ 1. Smart people don't like to accept that they can't outperform the market by making smart picks.
+ 2. People think of "average" as a less-than status that they want to be better than.  Buying the market index is not an "average" in the sence that it is a midpoint, it is the combined performance of all stocks in an index.
+ 3. Financial media has many stories of successful managers that outperform the indexes in the short-term, but investing is a long term game.
+ 4. People underestimate the financial drag of the cost to investing with a fund manager.
+ 5. Often times people are looking for quick results and excitement.
+ 6. There's a lot of business in selling advice and brokering trades for people that you can convince you can outperform the market.
