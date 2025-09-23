@@ -59,3 +59,22 @@ These people are subject matter experts that know all of the business intricacie
 - Modeling a business domain is based on a domain experts mental model of how the business works to implement its function and is not meant to capture every possible detail of a domain.
 - Creating a ubiquitous language is a continuous effort that should be validated everyday in communication around the work and evolved when deeper insights reveal error or nuance that differs.
 - Tools can be used to help enforce the ubiquitous language such as a glossary of domain terms, gherkin tests to manage tests for business use cases, and static code analysis tools to verify the code is correctly using the ubiquitous language.
+
+### Chapter 3 - Managing Domain Complexity
+- Models can be inconsistent when terminology is repeated in different sub domains (i.e a sales lead and a marketing lead can mean different things)
+- Previous approaches would either:
+    1. Create a model that is useable in both scenarios which leads to overly complex ERDs and a model that's over engineered for one domain and under engineered for another.
+    2. Add a subdomain prefix, such as "marketing lead" or "sales lead", which creates a divide in the written ubiquitous language and the spoken language since conversationally people do not typically use such prefixes.
+
+**Bounded Context** - A smaller portion of the domain in which the ubiquitous language is broken down into smaller languages based on a domain experts mental model of part of the domain.
+- A language's terminology, principles, and business rules are only consistent inside it's bounded context.
+- Ubiquitous does not mean universal, the language is ubiquitous within the boundaries of the the explicit context of it's applicability.
+- Defining a bounded context is a strategic design decision and may even be based on non-functional requirements (i.e. differences in scaling or delivery).
+- It does not matter if a bounded context is large or small, it should be aligned with business and organizational needs.
+- Bounded contexts and subdomains are different in that subdomains are discovered based on the business strategy and organization and bounded contexts are designed to address project context and constraints.
+
+> "Architectural design is system design.  System design is contextual design--it is inherently about boundaries (what's in, what's out, what spans, what moves between), and about trade-offs.  It reshapes what is outside, just as it shapes what is inside." - Ruth Malan
+
+**Physical Boundaries** - A bounded context should be an individual project/service that is implemented and versioned independently on the technology stack that best suits its needs.  There can be subdomains within a bounded context that would constitute logical boundaries.
+
+**Ownership Boundaries** - No two teams should own or work on the same bounded context.  A bounded context should only be owned by one team, but any team can own multiple bounded contexts.
