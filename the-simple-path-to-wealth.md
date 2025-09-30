@@ -158,3 +158,34 @@ There are a few calculators used in the book to help illustrate points:
  4. People underestimate the financial drag of the cost to investing with a fund manager.
  5. Often times people are looking for quick results and excitement.
  6. There's a lot of business in selling advice and brokering trades for people that you can convince you can outperform the market.
+
+ ### Chapter 12 - Bonds
+ Here are the stages of owning bonds as explained by this chapter:
+- Stage 1 - Bonds as part of our portfolio provide a deflation hedge.
+- Stage 2 - Buying bonds means you are loaning money to a company or government agency, whereas with stocks you're purchasing a part of that company.
+- Stage 3 - Buying bonds in an index fund like VBTLX mitigates most of the risk of holding certain bonds.
+- Stage 4 - The 2 key elements of bonds are the interest rate and the term.
+- Stage 5 - Interest rate risk is another risk factor, as interest rates rise the value of your bond falls, but the reverse is also true.
+- Stage 6 - The third risk factor is the term, the longer the term for the bond the more likely interest rates are to change significantly and impact the value of your bond.
+- Stage 7 - Inflation is the biggest risk to the bond, as inflation rises so too does the interest paid on a bond which means your previously issued bond is worth less.
+- Stage 8 - Some other risks include credit downgrades, callable bonds (i.e. the borrower can end it before it reaches maturity), liquidity risk.
+- Stage 9 - Municipal bonds are government issued and will often avoid taxation.
+- Stage 10 - There are innumerable types of bonds with so many variables at play but since this book is focused on index fund bonds there is no more specifics to dive into.
+
+### Chapter 13 - Portfolio Ideas To Build And Keep Your Wealth
+- The wealth accumulation portfolio is focused on building investments in the index fund and leaving it.  What the author likes to call the "Put all your eggs in one basket and forget about it" approach.  As long as you can resist the urge to fiddle with it.
+- Using an index fund that has holdings across the market leverages the self-cleansing nature of the market where failures fall away and winners can grow endlessly.
+- A holding with 10-25% bonds and 75-90% stocks will slightly outperform the 100% stock holding.
+- The wealth preservation portfolio is going to be more diversified with a higher percentage fo the holdings in bond market index funds and cash reserves federal money market funds.  The author's break down is 75% stocks, 20% bonds, and 5% cash.
+
+### Chapter 14 - Selecting Your Asset Allocation
+- The two primary stages in managing your portfolio, the wealth accumulation stage and the wealth preservation stage, and using the index funds for stocks and bonds you can balance depending on your current stage but you'll also want to consider the factors of effort and risk tolerance.
+- If you want to apply the effort of managing your portfolio to balance out the stocks/bonds ratio to include 10-25% bonds or rebalance any time the market makes a major move (+/- 20%) by selling from the better performing asset to buy shares in the lagging asset, ideally in an IRA or 401(k) to avoid capital gains tax which is a huge drawback and another reason to just focus on stocks.
+- How much risk can you handle?  If you have flexibility in your spending habits and lifestyle you have more tolerance for risk than if every penny of your income is spent on keeping the lights on.
+
+**Some additional questions after considering effort and risk**
+1. When should I make the shift into bonds?
+2. Does age matter?
+3. Is there an optimal time of year to rebalance?
+4. I have some of my investments in tax-advantaged accounts.  How can I rebalance across those?
+5. Does more frequent reallocation improve performance?
