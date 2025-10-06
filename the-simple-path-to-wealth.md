@@ -189,3 +189,45 @@ There are a few calculators used in the book to help illustrate points:
 3. Is there an optimal time of year to rebalance?
 4. I have some of my investments in tax-advantaged accounts.  How can I rebalance across those?
 5. Does more frequent reallocation improve performance?
+
+### Chapter 15 - International Funds
+**Reasons why "The Simple Path To Wealth" doesn't include international funds**
+1. Added Risk - The currency risk of the country you're trading in and how it's value fluctuates against the dollar.  Also, account risk since not every country offers transparent accounting standards.
+2. Added Expense - VTSAX has a 0.04% expense ratio for rock bottom costs while cheaper funds have expense ratios at least double that.
+3. We've Got It Covered - The largest companies in the top 500 of the VTSAX generate 50% or more of their sales and profits overseas, giving you access to growth in world markets without most of the additional risk.  The world economy is also more closely knit than it ever has been which means that instead of an international economy booming when the US is down they are more likely to coincide with each other. 
+
+### Chapter 16 - TRFs: The Simplest Path To Wealth Of All
+- TRF - Target Retirement Funds
+- These are funds of funds that combine stock and bond markets and automatically balance them as you approach your retirement date.
+- If you want the fund to adjust more conservatively (greater percentage of bonds) then pick an earlier retirement date.
+- TRFs can be great for a one stop shop solution to investing if you don't want to manually invest and balance between stocks and bonds.
+
+### Chapter 17 - What If You Can't Buy VTSAX?  Or Even Vanguard?
+- The VTSAX has rock bottom expense ratios but a minimum $3000 investment.
+- The exact same portfolio held by VTSAX can be found in five funds: VTSAX, ETF, VITSX, VSMPX, VSTSX
+- If your employer doesn't offer a 401(k) through VTSAX you want to look for the following alternatives:
+    1. A low cost index-fund
+    2. For tax-advantaged funds you'll be holding for decades total stock market index funds are preferred but S&P 500 index funds are fine
+    3. Also look for total bond market index funds if your needs call for it
+    4. TRFs are frequently offered and can be an excellent choice but look at the fees closely
+
+### Chapter 18 - What Is It About Vanguard?
+1. What makes Vanguard so special? - Vanguard is client owned and operated at cost.
+2. Why are you comfortable holding all of your assets in one company? - The assets are not invested in Vanguard, they are invested in the mutual fund so even if Vanguard were to implode the underlying investments would remain unaffected.
+3. What if Vanguard gets nuked? - There's a certain level of catastrophe that cannot be mitigated, but Vanguard has multi-site data redundancy and a disaster recovery plan in case of the worst.
+4. Is the author on the take? - No Vanguard does not pay him.
+
+### Chapter 19 - The 401(K), 403(B), TSP, IRA, and Roth Buckets
+- There are 2 types of buckets that hold your investments: ordinary buckets, and tax-advantaged buckets.
+- Note that tax-advantaged (or tax-deferred) doesn't mean that you do not pay tax, just when the tax is due.
+- There are some strategies that seek to access this money tax-free by structuring your earned and investment income to fall under the IRS tax-free limits, which would still be legally subject to tax but the bracket it falls in would have an actual owed amount of zero.  There are many resources listed in this chapter for these strategies.
+- Employer based tax-advantaged buckets often have matching and should be taken advantage of at least to the matching amount and up to the yearly max.
+
+**Author's basic hierarchy for deploying investment money:**
+1. Fund 401(k)-type plans to full employer match
+2. Fully fund a Roth if your income is low enough that you are paying little or no income tax
+3. Once your income tax rate rises, fully fund a deductible IRA rather than a Roth
+4. Keep the Roth you started and just let it grow
+5. Finish funding the 401(k)-type plan to the max
+6. Consider funding a nondeductible IRA if your income is such that you cannot contribute to a deductible IRA or Roth IRA
+7. Fund your taxable account with any money left
