@@ -78,3 +78,30 @@ These people are subject matter experts that know all of the business intricacie
 **Physical Boundaries** - A bounded context should be an individual project/service that is implemented and versioned independently on the technology stack that best suits its needs.  There can be subdomains within a bounded context that would constitute logical boundaries.
 
 **Ownership Boundaries** - No two teams should own or work on the same bounded context.  A bounded context should only be owned by one team, but any team can own multiple bounded contexts.
+
+### Chapter 4 - Integrating Bounded Contexts
+There are three types of groups when considering the integration between teams and their bounded contexts: cooperation, customer-supplier, and separate ways.
+
+#### Cooperation
+This is typically the pattern that is used for teams with well established communication, or could even be between 2 bounded contexts within the same team.  The success of one is dependent on the success of the other.
+- Changes between the bounded contexts is communicated in an ad hoc manner.  The communication is bidirectional and both sides of the conversation are involved in working through issues and regularly communicate.
+- There can be instances where there is a shared model between domains or subdomains, this must be consistent for all bounded contexts.  One change in the shared model affects all bounded contexts that consume it (i.e. permissions models)
+- Any shared models should be limited to only expose parts that are used by both bounded contexts, such as integration contracts and data models that are used across boundaries.
+- Since this introduces a strong dependency between the involved bounded contexts it should only be leveraged when the cost of duplication is higher than the cost of coordination.
+- This pattern contradicts the idea of a single team owning a bounded context and is a pragmatic compromise that should be justified deliberately.
+
+#### Customer-Supplier
+In this group of collaborations there is a customer (downstream) and a supplier (upstream) where the supplier provides a service to the customer via some kind of contract and they can generally succeed independently.
+- There are three patterns that address the inherent power differences in this group: conformist, anti-corruption layer, and open-host service patterns.
+- Conformist is when the supplier has no real motivation to react to its clients needs and the downstream team finds that contract acceptable for integration despite having no say in the contract.
+- Anti-corruption layer would be implemented when similarly the balance of the power is with the supplier, however, there are concerns with the contract and the downstream team needs to protect their bounded context from things like frequently changing contracts, or legacy systems that would introduce bad data patterns to your domain.
+- Open-host service is when the supplier is highly incentivized to protect the downstream consumers so they create a "published language" that separates the evolution of the integration contract from the evolution of the product domain.  The supplier's goal is not to conform to a ubiquitous language, but to provide a protocol convenient to the customers.
+
+#### Separate Ways
+Lastly, there are times when collaborating may not be an option at all, whether thy are unwilling or unable.
+- Communication issues can sometimes mean that duplicate functionality is more cost effective in multiple bounded contexts.
+- Generic subdomains, such as logging, could be duplicated for each bounded context and may in fact be more cost-effective than forcing all bounded contexts to integrate with and conform to one solution.
+- Model differences that are so significant that implementing an anti-corruption layer to create a conformist relationship is more expensive than duplicating functionality.
+
+#### Context Map
+This is a visualization that represents a systems bounded contexts and the integrations between them.  I provides visibility into _high level design_, _communication patterns_, and _organizational issues_.
