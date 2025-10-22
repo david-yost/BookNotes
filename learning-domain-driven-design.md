@@ -105,3 +105,28 @@ Lastly, there are times when collaborating may not be an option at all, whether 
 
 #### Context Map
 This is a visualization that represents a systems bounded contexts and the integrations between them.  I provides visibility into _high level design_, _communication patterns_, and _organizational issues_.
+
+## Part 2 - Tactical Design
+
+### Chapter 5 - Implementing Simple Business Logic
+- If technology doesn't solve a business problem then it's just an expensive technology demo.
+
+#### Transaction Script
+> "Organizes business logic by procedures where each procedure handles a single request from the presentation." - Martin Fowler
+
+- Each procedure should be transactional, failing at even the worst possible moment should rollback any completed changes or execute compensating actions to ensure a consistent state.
+- There are 3 common ways that errors are generated due to improperly implementing the transaction script pattern:
+1. Lack of transactional behavior (i.e. updating multiple records without an overarching transaction)
+2. Not accurately handling distributed transactions across multiple systems or storage mechanisms.
+3. When implicit distributed transactions allow for multiple executions for the same call to create inconsistent state.
+- This patterns is well suited for straight forward problem domains where business logic resembles procedural operations like ETL.
+
+#### Active Record
+> "An object that wraps a row in a database table or view, encapsulates the database access, and adds domain logic on that data." - Martin Fowler
+
+- Similar to the transaction script pattern, but the business logic may operate on more complex data structures.
+- Instead of directly accessing the database, the in memory object maps to the database entities and the operation must complete or fail as an atomic object.
+- The distinctive feature for active record objects is the separation of data structures and business logic.
+- The active record pattern is essentially a transaction script that optimizes database access, only supporting simple business logic like CRUD operations and input validation.
+- This pattern is also known as an anemic domain model antipattern.
+- At the end of the day it's important to be pragmatic, at certain levels of scale it's possible that data consistency guarantees are able to be relaxed.
