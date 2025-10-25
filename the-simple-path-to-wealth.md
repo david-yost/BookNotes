@@ -231,3 +231,21 @@ There are a few calculators used in the book to help illustrate points:
 5. Finish funding the 401(k)-type plan to the max
 6. Consider funding a nondeductible IRA if your income is such that you cannot contribute to a deductible IRA or Roth IRA
 7. Fund your taxable account with any money left
+
+### Chapter 20 - RMDs: The Ugly Surprise At The End Of The Tax-Deferred Rainbow
+- Required Minimum Distributions (RMDs) - Depending on when you were born, at somewhere between 72 and 75 you are required to start withdrawing from deferred accounts and paying taxes on them.
+- Failure to withdraw the full amount will incur steep penalties, to the tune of 50% of the shortfall.
+- There are RMD calculators you can use to look at what the RMD will be for your account based on your age, the year of the RMD, and how much money the account has to see what tax bracket those withdraws would put you in.
+- You can potentially minimize the tax impact by starting to take money out before you hit the age limit so that when the RMD hits on your tax deferred accounts it is not forcing you into upper tax brackets once you have already reduced the overall balance of that account.
+- Once this money is withdrawn it is considered part of your income for that year, but you can still re-invest it into a Roth, other ordinary bucket investments, or just spend it.
+
+### Chapter 21 - HSAs: More Than Just A Way To Pay Your Medical Bills
+- Health Savings Account (HSA) - It's like an IRA for your medical bills and as of 2025 you can set aside up to $4,300 for an individual and $8,550 for a family each year, with an additional $1,000 if you are over 55.
+- This is filled with pre-tax money and your contributions are tax deductible.
+- The money can be withdrawn to pay qualified medical expenses at any time tax free, but you can also withdraw it for non-medical expenses subject to tax and a 20% penalty.
+- Once you hit 65 you can withdraw it penalty free and will just have to pay taxes for non-medical expenses.
+- Unlike FSAs, where unused money at the end of the year is forfeited, money in the HSA remains until you use it.
+- If you pay out of pocket for medical expenses now and save your receipts you can pull the money from your HSA years later to cover the costs.
+- There are no RMD laws on HSAs at this point.
+
+
