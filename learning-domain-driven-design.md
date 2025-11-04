@@ -147,8 +147,11 @@ This is a visualization that represents a systems bounded contexts and the integ
 - Entities - the opposite of a value object, it explicitly requires an identification field to distinguish between different instances of the entity (e.g. a Person object with a Name value object would need an identifier because many people share the same name).  They are also not immutable like value objects.
 - Aggregates - this is an entity that requires an explicit identification field, is mutable, and must protect the consistency of its data.
     - Consistency enforcement - the boundary of the aggregate is where this enforcement takes place and the logic is meant to ensure that any incoming modifications do not create state that is contradictory to business rules.
+
 > NOTE: All external processes or objects can only read the aggregate's state, and state can only be updated by executing corresponding methods of the aggregate's public interface (often referred to as commands).
+
 > NOTE: The database used for storing aggregates must support concurrency management which, in its simplest form would hold a version field that would be incremented after each update.
+
     - Transaction boundary - since an aggregate contains all business logic for mutations, it acts as a transactional boundary as well and all entity changes for an aggregate state mutation should succeed or fail as a single atomic operation.  No operation can assume a multi-aggregate transaction.
     - Hierarchy of entities - an aggregate is made of up a group of entities that are all within a transactional bound, which means that these entities should only be updated atomically and in accordance with business logic that is part of the aggregate.
     - Referencing other aggregates - consistency of data is a useful guiding principle, only information that is required to be strongly consistent should be considered part of the aggregate and anything that can be eventually consistent should live outside of this boundary.
