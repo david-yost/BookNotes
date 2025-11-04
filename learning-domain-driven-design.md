@@ -130,3 +130,35 @@ This is a visualization that represents a systems bounded contexts and the integ
 - The active record pattern is essentially a transaction script that optimizes database access, only supporting simple business logic like CRUD operations and input validation.
 - This pattern is also known as an anemic domain model antipattern.
 - At the end of the day it's important to be pragmatic, at certain levels of scale it's possible that data consistency guarantees are able to be relaxed.
+
+### Chapter 6 - Tackling Complex Business Logic
+#### Domain Model Pattern
+- Meant for complex business logic that is implemented with complicated state transitions, business rules, and invariants (rules that have to be protected at all times), instead of CRUD interfaces.
+
+#### Implementation 
+- A domain model is an object model of the domain that incorporates both behavior and data.
+- Complexity should be reduced by using _plain old objects_ that implement business logic without relying on or directly incorporating any infrastructural components or frameworks.
+- Ubiquitous language is driven by the business logic and allows the code to "speak" the ubiquitous language and follow the domain expert's model.
+
+#### Building Blocks
+- Value object - an object that can be identified by the composition of its values.
+    - Ubiquitous language - using value objects you can encapsulate the domain model using the ubiquitous language to encapsulate all aspects of that language (e.g. think of a Height object that instead of being an int allows for imperial and metric measurements, display string formatting, unit conversion, etc.)
+    - Implementation - value objects are implemented as immutable objects since the changing of any property results in a different value (e.g. color object MixWith method that mixes two colors and returns a newly instantiated object)
+- Entities - the opposite of a value object, it explicitly requires an identification field to distinguish between different instances of the entity (e.g. a Person object with a Name value object would need an identifier because many people share the same name).  They are also not immutable like value objects.
+- Aggregates - this is an entity that requires an explicit identification field, is mutable, and must protect the consistency of its data.
+    - Consistency enforcement - the boundary of the aggregate is where this enforcement takes place and the logic is meant to ensure that any incoming modifications do not create state that is contradictory to business rules.
+> NOTE: All external processes or objects can only read the aggregate's state, and state can only be updated by executing corresponding methods of the aggregate's public interface (often referred to as commands).
+> NOTE: The database used for storing aggregates must support concurrency management which, in its simplest form would hold a version field that would be incremented after each update.
+    - Transaction boundary - since an aggregate contains all business logic for mutations, it acts as a transactional boundary as well and all entity changes for an aggregate state mutation should succeed or fail as a single atomic operation.  No operation can assume a multi-aggregate transaction.
+    - Hierarchy of entities - an aggregate is made of up a group of entities that are all within a transactional bound, which means that these entities should only be updated atomically and in accordance with business logic that is part of the aggregate.
+    - Referencing other aggregates - consistency of data is a useful guiding principle, only information that is required to be strongly consistent should be considered part of the aggregate and anything that can be eventually consistent should live outside of this boundary.
+    - Aggregate root - since an aggregate represents a hierarchy of entities and they can only be modified by executing a command, the public interface of these commands lives at the aggregate root (e.g. updating a Message on a Ticket, the Ticket is the root)
+    - Domain events - a message describing a specific event that has happened in the domain that any part of the system can consume and execute any business logic necessary in response.
+    - Ubiquitous language - aggregates should use the same terminology for their names, data members, actions, and domain events as the ubiquitous language so developers and domain experts are speaking the same language as the code.
+- Domain services - a stateless object that implements business logic that can often call to various components of the system to perform some calculation or analysis.  
+    - The goal is to make it easy to coordinate the work of multiple aggregates.
+    - This is not a loophole around the transactional limitation, it's a way of implementing business logic that requires the _reading_ of data of multiple aggregates to perform a calculation.
+    - It is also not a microservice, just a stateless object used to host business logic.
+
+
+
