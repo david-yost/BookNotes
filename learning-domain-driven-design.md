@@ -163,5 +163,50 @@ This is a visualization that represents a systems bounded contexts and the integ
     - This is not a loophole around the transactional limitation, it's a way of implementing business logic that requires the _reading_ of data of multiple aggregates to perform a calculation.
     - It is also not a microservice, just a stateless object used to host business logic.
 
+### Chapter 7 - Modeling the Dimension of Time
+> "Show me your flowchart and conceal your tables, and I shall continue to be mystified.  Show me your tables, and I won't usually need your flowchart; it'll be obvious." -Fred Brooks
 
+#### Event Sourcing
+Using the domain model, but adding the dimension of time to track the events that happen to change a domain model so we can see the entire journey of how the model changed from start to finish or any point in between.
 
+- Search - In order to search you would need to use projection to get the current state of whatever the search term is since we would not want mismatches based on historical versions of the data that are no longer applicable.
+- Analysis - You can also use projection to specific data points to allow analysis for business needs such as finding converted leads and how many follow ups it took to convert them.
+- Source of Truth - All of the events that make up the changes to an object's state should be persisted to a database and should be the systems source of truth.  This should be the only strongly consistent storage, known as the _event store_.
+- Event Store - Where all events are persisted.  It should not allow the modification or deletion of events and it append only.  At a minimum the system should allow the ability to fetch all events belonging to a specific entity, and to append an event.  The expected version should be part of the append method and if the expected version does not match you should receive a concurrency exception.
+
+#### Event-Sourced Domain Model
+Instead of a maintained state of the aggregate that can emit domain events to enact changes, the event-sourced domain model uses domain events exclusively to model the lifecycle of aggregates following this script:
+1. Load the aggregate's domain events
+2. Reconstitute a state representation - project the events int a state representation that can be used to make business decisions
+3. Execute the aggregate's command to execute the business logic, and consequently, produce new domain events
+4. Commit the new domain events to the event store
+
+While this approach adds more complexity there are some advantages that come with it.
+- Time Traveling - Since you have a record of every event you can easily use this to analyze system behavior or perform debugging using this data.
+- Deep Insights - Having all of the events allows you to gain more insights to the system by adding more projections since you can always enhance the way the events are looked at in aggregate.
+- Audit Log - This approach provides a strongly consistent audit log of every event out of the box.
+- Advanced Optimistic Concurrency Management - Instead of race conditions that might overwrite entity models out of order you can use version tracking to make sure your event is not persisted in a bad state.
+
+Along with the advantages there are naturally some disadvantages that come with this approach as well.
+- Learning Curve - Since this is a departure from traditional data management the team will likely require some training and a bit of time to adapt to this new way of thinking.
+- Evolving The Model - The strict definition of event sourcing is that events are immutable so changing the event's schema is not as simple as updating a table schema.
+- Architectural Complexity - This approach introduces numerous "moving parts" which makes overall design more complicated.
+
+#### Frequently Asked Questions
+> Q: Won't reconstituting an aggregate from an event cause performance issues as events are added?
+> A: While it's important to check performance benchmarks you will not see noticeable hits to performance until you reach over 10,000 events for an aggregate.  If your aggregate is expected to have that many or more you can implement the snapshot pattern where a process constantly creates cached versions of aggregates and then when they are retrieved you can load the cached version then just retrieve the events that have occurred since that cached version was created.
+
+> Q: With how much data this pattern creates can it scale?
+> A: It is easy to scale because all aggregate operations are done in the context of a single aggregate.  You can also shard the event store by aggregate IDs, keeping all events of a particular aggregate in a single shard.
+
+> Q: Since this is an append only approach what do you do when you need to delete data physically due to something like GDPR?
+> A: Use a forgettable payload pattern where sensitive data is stored encrypted and the key should be stored in an external key store.  Deleting the key from the external store preserves the event while making the sensitive data unreadable.
+
+> Q: Why can't we just write audit logs to a text file instead?
+> A: This is error prone since you're writing to two separate storage mechanisms.
+
+> Q: Why not work with a state-based model, but append event logs to a table in the same transaction?
+> A: This could ensure that the data between log and state tables are consistent, but it is error prone and when the state-based representation becomes the source of truth the audit logs tend to degrade.
+
+> Q: Why not work with a state-based model that uses database triggers to take record snapshots?
+> A: While this addresses the disconnected risk of the previous question, it only contains a snapshot of what changed and loses the business reasons behind the state change.
