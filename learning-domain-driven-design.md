@@ -235,8 +235,11 @@ There are 3 predominant architectural patterns that are explored in this chapter
 - This architecture leverages the same organizational principles for business logic and infrastructure as the ports & adapters but manages data differently, using multiple persistent models.
 - The polyglot persistence model allows you to store information in multiple database to satiate different data requirements similar to the difference of projected models discussed in chapter 7.
 - As the name suggests there is a command execution model and read models.
+
 > **Command Execution Model** - A single model for executing operations that modify the system's state, also known as system commands.  This model is used to implement the business logic, validate rules, and enforce variants.
+
 > **Read Models (Projections)** - A pre-cached model that is used to represent the system's data.  It can be stored in any number of persistence tools and when properly implemented can be wiped out and recreated from scratch.  This enables extending of the system to support additional projections in the future for models that were not previously foreseen.
+
 - A common misconception is that executing a command does not necessarily return any data.  It can, and should, return data because error states need to be handled and projections will be eventually consistent, which means in the immediate term we need accurate data.
 - CQRS follows the tenants of using the best tool for the job since you can use different storage mechanisms to best suite the purpose of the projections.
 
