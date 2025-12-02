@@ -210,3 +210,33 @@ Along with the advantages there are naturally some disadvantages that come with 
 
 > Q: Why not work with a state-based model that uses database triggers to take record snapshots?
 > A: While this addresses the disconnected risk of the previous question, it only contains a snapshot of what changed and loses the business reasons behind the state change.
+
+### Chapter 8 - Architectural Patterns
+There are 3 predominant architectural patterns that are explored in this chapter as well as their use cases: layered architecture, ports & adapters, and CQRS.
+
+#### Layered Architecture
+- In its classic for it consists of 3 layers, the presentation layer (PL), the business logic layer (BLL), and the data access layer (DAL).
+- The presentation layer are a means for the system to receive requests from the external environment wether it be through a UI, CLI, API, event subscripts or message topics.
+- The business logic layer encapsulates the implementation of the business rules and is considered the heart of software.
+- The data access layer stores all of the persistence logic, which used to strictly be a relational database but in today's technology could be a much broader array of persistence mechanisms.
+- The layers are integrated in a top-down communication model where they can only have a dependency on the layer below them: PL->BLL->DAL
+- A common extension of this pattern is to add a service layer which acts as an intermediary between the PL and the BLL.
+- This pattern is a good fit when the system has business logic implemented using the transaction script of active record pattern.
+
+#### Ports & Adapters
+- This architecture addresses some of the shortcomings of the layered architecture and is better fit for implementing business logic that has a higher degree of complexity.
+- An infrastructure layer (IL) is a combined representation of the external components of the PL and DAL.
+- The dependency inversion principle (DIP) states that high-level modules, which implement business logic, should not depend on low-level modules (this is exactly what layered architecture does).
+- To implement the DIP in ports and adapters you revers the nature of the relationship between the BL and the new infrastructure layer, then add the application layer (AL) as the facade for the system's public interface between them: IL -> AL -> BL
+- The core goal of this pattern is to decouple the system's business logic from its infrastructural components.
+- This architecture is also known as hexagonal architecture, onion architecture, and clean architecture.
+
+#### Command-Query Responsibility Segregation (CQRS)
+- This architecture leverages the same organizational principles for business logic and infrastructure as the ports & adapters but manages data differently, using multiple persistent models.
+- The polyglot persistence model allows you to store information in multiple database to satiate different data requirements similar to the difference of projected models discussed in chapter 7.
+- As the name suggests there is a command execution model and read models.
+> **Command Execution Model** - A single model for executing operations that modify the system's state, also known as system commands.  This model is used to implement the business logic, validate rules, and enforce variants.
+> **Read Models (Projections)** - A pre-cached model that is used to represent the system's data.  It can be stored in any number of persistence tools and when properly implemented can be wiped out and recreated from scratch.  This enables extending of the system to support additional projections in the future for models that were not previously foreseen.
+- A common misconception is that executing a command does not necessarily return any data.  It can, and should, return data because error states need to be handled and projections will be eventually consistent, which means in the immediate term we need accurate data.
+- CQRS follows the tenants of using the best tool for the job since you can use different storage mechanisms to best suite the purpose of the projections.
+
