@@ -248,17 +248,17 @@ There are 3 predominant architectural patterns that are explored in this chapter
 #### Model Translation
 - Anti-Corruption Layer (ACL) - When a downstream system must translate an upstream systems bounded context model into a usable format for its bounded context.
 - Open-Host Service (OHS) - When an upstream bounded context protects its consumers from changes to its implementation by using an integration specific published language.
-- The model's translation logic cane be stateless (on the fly) as incoming (OHS) or outgoing (ACL) requests are issued or stateful (more complicated translation logic that requires a databasse).
+- The model's translation logic cane be stateless (on the fly) as incoming (OHS) or outgoing (ACL) requests are issued or stateful (more complicated translation logic that requires a database).
 
 #### Integrating Aggregates
-- One common mistake is to publish messages as part of an aggregate which risks the event being processed by down stream sytems, before the commit of that data state to storage.
+- One common mistake is to publish messages as part of an aggregate which risks the event being processed by down stream systems, before the commit of that data state to storage.
 - Similarly, moving the message publishing logic to the application layer could fail if the event is processed but the publish fails for some reason resulting in an altered state with a missing message.
 - The fix for both of these concerns is the Outbox Pattern using the following algorithm:
-    1. Botht eh updated aggregate's state and the new domain events are committed in the same atomic transaction.
+    1. Both the updated aggregate's state and the new domain events are committed in the same atomic transaction.
     2. A message relay fetches newly committed domain events from the database.
     3. The relay publishes the domain events to the message bus.
-    4. Upon successful publishing, the relay eithe rmarks the events as published in the database or deletes them completely.
+    4. Upon successful publishing, the relay either marks the events as published in the database or deletes them completely.
 
-**Saga** - These are long-running processes (not necessarily in time but in transactions) that span multiple bounded contexts.  The transactions can be handled by aggregates or any component emiting and responding to domain events and commands.  If any event fails the saga is in charge of issuing any necessary compensating actions to ensure system consistency.
+**Saga** - These are long-running processes (not necessarily in time but in transactions) that span multiple bounded contexts.  The transactions can be handled by aggregates or any component emitting and responding to domain events and commands.  If any event fails the saga is in charge of issuing any necessary compensating actions to ensure system consistency.
 
 **Process Manager** - A process manager follows a very similar structure as a saga but has a centralized process that maintains the state of the sequence and determines the next processing steps.
