@@ -262,3 +262,45 @@ There are 3 predominant architectural patterns that are explored in this chapter
 **Saga** - These are long-running processes (not necessarily in time but in transactions) that span multiple bounded contexts.  The transactions can be handled by aggregates or any component emitting and responding to domain events and commands.  If any event fails the saga is in charge of issuing any necessary compensating actions to ensure system consistency.
 
 **Process Manager** - A process manager follows a very similar structure as a saga but has a centralized process that maintains the state of the sequence and determines the next processing steps.
+
+### Chapter 11 - Evolving Design Decisions
+- Domains and subdomains can change their types over time as the business domain evolves and changes which will affect how we treat those domains, here some some common examples:
+    1. Core-to-generic - Something that previously gave a company a competitive edge becomes obsolete because competitors can now buy a product that negates that competitive edge.
+    2. Generic-to-core - When a company finds an innovative way to gain a competitive advantage in a subdomain that is considered generic by other companies.
+    3. Supporting-to-generic - A simple subdomain that is built in house to enable another part of the business is rendered obsolete because a third party tool can be purchased and implemented to standardize a process.
+    4. Supporting-to-core - When a simple domain that starts out as primarily CRUD and/or ETL functions but evolves over time to provide a competitive edge by enhancing profitability or efficiency.
+    5. Core-to-supporting - If a subdomain is no longer profitable and extraneous complexity gets cut down, leaving behind primarily functionality to enable other subdomains.
+    6. Generic-to-supporting - The integration costs to a commercial platform may be too high and in that case perhaps a simple in house solution can replace that platform which would create a supporting subdomain.
+
+#### Strategic Design Concerns
+- A change in a subdomain's type directly impacts the bounded context of that subdomain as well as the strategic design decisions.
+- If a generic subdomain morphs into a core subdomain it's no longer acceptable to have teams duplicating that functionality.
+- Supporting subdomains might be good candidates for outsourcing or ramp up projects for new employees to get their feet wet.
+
+#### Tactical Design Concerns
+> "The main indicator of a change in a subdomain's type is the inability of the existing technical design to support current business needs."
+
+- The addition of complex rules and business logic increases the complexity of the code base and creates additional pain for new features.  This "pain" can be a good signal to reassess the domain decisions.
+- Needing to change your design is not a bad thing, we design the best we can for where the business is in the moment and evolve with it as the business grows and changes.
+
+**Migration Between Design Implementations**
+- Transaction Script -> Active Record - The primary concern here is encapsulating the mapping of complex data structures in active record objects.
+- Active Record -> Domain Model - Look for data that can be modeled as immutable objects and related business logic that can be part of a value object.  Identify transactional boundaries.  Then make sure all setters are private to enforce that modifications only happen inside the active record.  Create `Aggregates` for hierarchies that need to ensure strong consistency and make sure external `Aggregates` are only reference by their IDs.
+- Domain Model -> Event-Sourced Domain Model - Instead of modifying the data directly, model the `Events` that represent the lifecycle.  Determine if you want to generate past transitions based on current data state or create a migration event to indicate the beginning of the event timeline.
+
+- Organizational changes can also impact bounded contexts as teams grow and have to split into smaller groups or are relocated regionally or reorganized.
+
+#### Domain Knowledge
+- It's important to design the bounded context boundaries based on the level of domain knowledge, the more unclear an area is the more broadly you should define a bounded context.
+- As domain knowledge becomes more clear you can decompose large bounded contexts into smaller and more narrowly focused bounded contexts.
+- Domain knowledge can be discovered and used to evolve the design and make it more resilient.
+
+#### Growth
+- Growth is a sign that the system is healthy, successful, and providing value to the users.
+
+> "A big ball of mud is a haphazardly structured, sprawling, sloppy, duct-tape-and-baling-wire, spaghetti-code jungle.  These systems show unmistakable signs of unregulated growth, and repeated expedient repair.  - Brian Foote and Joseph Yoder
+
+- Big balls of mud are the result of unregulated growth when systems are extended without re-evaluating design decisions.
+- The best way to deal with complexity that arises from growth is to identify and eliminate accidental complexity caused by outdated design decisions.
+
+
