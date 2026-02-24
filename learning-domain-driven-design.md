@@ -303,4 +303,37 @@ There are 3 predominant architectural patterns that are explored in this chapter
 - Big balls of mud are the result of unregulated growth when systems are extended without re-evaluating design decisions.
 - The best way to deal with complexity that arises from growth is to identify and eliminate accidental complexity caused by outdated design decisions.
 
+### Chapter 12 - EventStorming
 
+> "EventStorming is a low-tech activity for a group of people to brainstorm and rapidly model a business process."
+
+- An EventStorming session needs a defined _scope_ which is a business process for the group to explore.
+- Using sticky notes, develop a timeline with steps for the model and enhance it with additional concepts such as actors, commands, external systems, and others.
+- The group should be made up of anyone related to the business domain that can provide domain knowledge contributions to the process, but generally this process can get challenging in groups larger than 10.
+
+#### What's Needed For Event Storming
+- Modeling Space -  A large empty wall or whiteboard that can be drawn on.
+- Sticky Notes - Lots of them with varying colors to represent the different elements of the domain.
+- Markers - Used to write on the sticky notes.
+- Snacks - Sessions are typically 2 to 4 hours so have food to keep the energy up.
+- Room - Spacious room that doesn't have anything dividing the space so it's easy to move around.
+
+#### The EventStorming Process
+1. Unstructured Exploration - Using orange sticky notes, everyone writes down domain events in the past tense and puts them on the _modeling space_ until the rate of new events being added slows dramatically.
+2. Timelines - Starting with the happy path scenarios and then moving on to the more complex ones, organize the domain events into a timeline based on what order the events occur in and draw arrows to connect them in order.
+3. Pain Points - Using rotated (diamond) pink sticky notes, mark any bottlenecks, manual steps, etc. that require attention.  
+4. Pivotal Events - Identify events that indicate a change in context or phase and draw a vertical line above and below those events.
+5. Commands - Using light blue sticky notes, write commands in the imperative format before the events they produce and annotate the actor using a yellow sticky note attached to it.
+6. Policies - Using purple sticky notes indicate any events that trigger an _automation policy_ (or command with no specific actor) with details on what triggers them and arrows connecting the events ans commands.
+7. Read Models - Using green sticky notes indicate the views of data that an actor uses to make a decision to execute a command (i.e. a screen, report, notification, etc.)
+8. External Systems - Using pink sticky notes indicate any system that is not part of the domain being explored but might execute a command (input) or be notified about events (output).
+9. Aggregates - Using large yellow sticky notes start organizing related concepts in aggregates and define commands on the left and events on the right.
+10. Bounded Contexts - Look for aggregates that are related by functionality or policies and determine bounded context boundaries.
+
+#### When To Use EventStorming
+- Build a ubiquitous language
+- Model the business process
+- Explore new business requirements
+- Recover domain knowledge
+- Explore ways to improve and existing business process
+- Onboard new team members
