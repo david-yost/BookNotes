@@ -337,3 +337,35 @@ There are 3 predominant architectural patterns that are explored in this chapter
 - Recover domain knowledge
 - Explore ways to improve and existing business process
 - Onboard new team members
+
+### Chapter 13 - Domain-Driven Design in the Real World
+- In most real world scenarios you won't be developing green field applications with a crew of seasoned DDD professionals.  Realistically you don't be able to apply all principals in all things, but using the right tool for the scenario in front of you can be very powerful.
+
+#### Strategic Analysis
+- Ask questions about the organization to understand the business:
+    1. What is the organization's business domain(s)?
+    2. Who are its customers?
+    3. What service, or value does the organization provide to customers?
+    4. What companies or products is the organization competing with?
+- Identify core subdomains by identifying what differentiates the organization from its competitors.
+- Generic subdomains can often be identified by off-the-shelf solutions, subscription services, or integration of open source software.
+- Supporting subdomains would be the remaining subdomains that are not a ready made solution but also don't provide a competitive edge. 
+
+#### Explore the Current Design
+- Start by identifying high-level components that can be used as boundaries to decompose the business domain into subsystems.
+- Evaluate the tactical design by reviewing the decisions that were made to build the system and evaluate if they are right-sized for the project and if there are any areas that would benefit from change.
+- Evaluate the strategic design by creating a context map of all of the high level component and how they relate to one another and look for insights on areas where suboptimal design decisions might have been made such as duplicated functionality or multiple teams owning certain areas.
+
+#### Modernization Strategy
+- It's unlikely that you'll get he opportunity to do the "big rewrite" to replace a legacy big ball of mud system, and even those are often not as successful as hoped, but improve the existing systems by thinking big and starting small.
+- You can create or redraw boundaries logically by using namespacing before deciding if a bounded context should be a completely separate system.
+- Extracting logical boundaries into physical boundaries requires understanding the existing communication method and what you would prefer to move to if the physical boundary is created.
+- Look for the most painful mismatches between business value and implementation strategy and start there.
+- Cultivate a ubiquitous language if one does not already exist and use EventStorming if necessary to create it.
+- The strangler pattern can be a useful tool for modernizing a system by methodically replacing components behind a facade until all migration is complete and the facade can be removed.
+- Take small incremental steps to reduce risk when refactoring between designs (i.e. transaction script -> state-based aggregates instead of transaction script -> event-sourced domain model).
+- Looking for possible value objects that you can introduce adds immutability that can greatly reduce solution complexity.
+- Use an anti-corruption layer to protect the new code base from legacy models.
+
+#### Pragmatic Domain-Driven Design
+> Domain-Driven design is not about aggregates or value objects.  Domain-Driven design is about letting your _business domain_ drive _software design decisions_.
