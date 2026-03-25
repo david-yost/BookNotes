@@ -369,3 +369,16 @@ There are 3 predominant architectural patterns that are explored in this chapter
 
 #### Pragmatic Domain-Driven Design
 > Domain-Driven design is not about aggregates or value objects.  Domain-Driven design is about letting your _business domain_ drive _software design decisions_.
+
+## Part 4 - Relationships to Other Methodologies and Patterns
+
+### Chapter 14 - Microservices
+- **Service** - A mechanism that enables access to one or more capabilities where the access is provided using a prescribed interface.
+- **Prescribed Interface** - Any mechanism for getting data in or out of a service and can be synchronous or asynchronous.
+- **Microservice** - A service with a micro-public interface that makes it easy to understand it's purpose and limits its scope.
+- There have been some challenges in implementing microservices since their introduction in 2010 which include creating distributed balls of mud, and decomposing a system into discrete elements that are too small and thus create accidental complexity that makes the system difficult to evolve and manage.
+- When designing a microservice based system it's important to balance both local complexity and global complexity because either extreme leads to poor design.
+- Module depth is a notion discussed by John Ousterhout that posits that effective modules have simple(skinny) public interfaces that encapsulate complex (deep) logic whereas ineffective modules have simple(shallow) logic with a robust(wide) interface.  (ex: a method that adds 2 numbers introduces more moving parts without encapsulating any complex business logic).
+- Shallow services are one of the most common reason microservice based systems fail because of the mistaken notion that microservices should only be X lines of code or should be easier to rewrite than to modify.
+- Subdomains are the best tool in the DDD arsenal to design microservices and align their boundaries with business subdomains.
+- DDD and microservices pair well together because when implemented properly a microservice will likely implement strong DDD principles, however they are not interchangeable or the same.
