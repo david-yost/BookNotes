@@ -382,3 +382,37 @@ There are 3 predominant architectural patterns that are explored in this chapter
 - Shallow services are one of the most common reason microservice based systems fail because of the mistaken notion that microservices should only be X lines of code or should be easier to rewrite than to modify.
 - Subdomains are the best tool in the DDD arsenal to design microservices and align their boundaries with business subdomains.
 - DDD and microservices pair well together because when implemented properly a microservice will likely implement strong DDD principles, however they are not interchangeable or the same.
+
+### Chapter 15 - NOTES NEED ADDED
+
+### Chapter 16 - Data Mesh
+- Online Transactional Processing (OLTP) data: Built around various entities from the system's business domain, implementing their lifecycles and orchestrating their interactions with one another. 
+- Online Analytical Processing (OLAP) data: Built to provide different insights into the operational systems.  These are not real-time transactions, but aim to provide insights into business activity and hopefully identify how the business can optimize operations to achieve greater value.
+
+**Fact Table** - Represent business activities that have already happened.  They are somewhat similar to domain events and these records are never deleted or modified, only appended.
+**Dimension Table** - These are designed to describe the facts' attributes and are referenced as a foreign key table.
+
+##### Analytical Models
+**Star Schema** - The relationship betwen facts and dimensions where each dimension record is used by many facts and a fact's foreign key points to a single dimension record.
+**Snowflake Schema** - Additional normalization where the dimension data can have additional dimension records linked as well.
+
+#### Analytical Data Management Platforms
+##### Data Warehouse
+- Simple architecture where data is extracted from all enterprise operational systems, transformed into an analytical model, and save into a data-analysis oriented database.
+- Based primarily on ETL scripts and can have various sources like operational databases, streaming events, logs, etc.
+- During transformation there may be additional steps to remove sensitive data, deduplicate recoreds, or reorder events as well in a staging area before hitting the data warehouse.
+- A challenge of the data warehouse is that the operational database is not a public interface so the schema definition is itself part of the contract for the ETL scripts to work which can create friction between the product team and the team managing the ETL scripts that pull the data when the contract breaks.
+
+##### Data Lake
+- A data lake operates similar to the data warehouse in that it's tranforming the operational system's data into an analytical model, however instead of be transformed immediately it's persisted in its raw format first.
+- Since the raw operational data is stored in its original form it's much easier to support multiple analytical models that each support specific needs such as training an ML model or reporting.
+- This approach does increase the complexity of the overall system.
+- Data lakes are also schema-less which means there's no control over the quality of the data incoming and can become chaotic at certain levels of scale.
+
+##### Data Mesh
+- This is basically domain-driven design for analytical data and is based on four core principles: decompose data around domains, data as a product, enable autonomy, and build an ecosystem.
+
+**Decompose Data Around Domains** - Ownership for the analytical (OLAP) model lives with the product teams that are also responsible for the operational (OLTP) model.
+**Data As A Product** - This calls for treating the analytical data as a first-class citizen and treated the same as any public API that the bounded context team is responsible for.
+**Enable Autonomy** - The product teams should be able to create their own data products and consume data products served by other bounded contexts.
+**Build An Ecosystem** - A federal governance body must be appointment to enable the interoperability and ecosystem thinking of the domain analytical data made up of product owners and representatives of the data infrastructure platform team.
