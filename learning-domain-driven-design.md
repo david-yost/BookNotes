@@ -383,7 +383,27 @@ There are 3 predominant architectural patterns that are explored in this chapter
 - Subdomains are the best tool in the DDD arsenal to design microservices and align their boundaries with business subdomains.
 - DDD and microservices pair well together because when implemented properly a microservice will likely implement strong DDD principles, however they are not interchangeable or the same.
 
-### Chapter 15 - NOTES NEED ADDED
+### Chapter 15 - Event-Driven Architecture
+> **Event-Driven Architecture** is an architectural style in which a systems components communicate with one another asynchronously by exchanging event messages instead of calling services' endpoint synchronously.
+
+#### Events 
+- An event is a message, but a message is not necessarily an event and there are 2 types of messages.
+- Event - a message describing a change that has already happened and cannot be rejected because that event has already occurred.
+- Command - a message describing an operation that has to be carried out but may be rejected because it is invalid or violates a system's business rules.
+- There are 3 types of events
+    - **Event Notification** - This is a message regarding a change in the business domain that other components can react to and does not carry all information related to the event.  It serves as a notice that the event occurred and interested parties can use the linking data to get more information if needed.
+    - **Event Carrier State Transfer** - These events notify subscribers about changes in the producer's internal state and include all data reflecting the change in state.  These models can be either a complete representation of the current state, or just the properties on the model that changed.
+    - **Domain Event** - This is in between the last two where it both describes a significant event in the business domain and it contains all of the data describing the event.  However, it is different from Event Notifications because the modeling intent is too describe the business domain and is useful even if there are no external consumers and it is different from ECST because it is not a complete picture that allows the consumer to cache the aggregate state but rather completely describes a business event that happened.
+
+#### Designing Event-Driven Integration
+- The events in an EDA-based system are first-class design elements, affecting both how the components are integrated and the components' boundaries themselves.
+- Blindly pouring events over a system does not inherently make it decoupled or resilient.
+- Temporal, functional, and implementation coupling are all possible in an EDA-based system when improperly implemented.
+
+#### Event-Driven Design Heuristics
+- Assume the worst - network will be slow, servers will fail, events will be mis-ordered, events will be duplicated, but we still need to ensure they're delivered consistently no matter what.
+- Use public and private events - be wary of exposing implementation details through the publicly published domain events, especially in event-sourced aggregates.
+- Evaluate consistency requirements - if the component can settle for eventually consistent data, use the event-carried state transfer message, but if the consumer needs to read the last write in the producer's state, issue an event notification message, with a subsequent query to fetch the producer's up-to-date state.
 
 ### Chapter 16 - Data Mesh
 - Online Transactional Processing (OLTP) data: Built around various entities from the system's business domain, implementing their lifecycles and orchestrating their interactions with one another. 
